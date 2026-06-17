@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "ticker": "AAZQ11",
+      "name": "AZ QUEST SOLE FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - FIAGRO - IMOBILIÁRIO",
+      "currentPrice": 0.0,
+      "lastQuoteDate": "2026-06-16T00:00:00.000",
+      "segment": "Outros",
+      "managementType": "Ativa",
+      "mandate": "",
+      "marketCap": 179318000.0,
+      "shareCount": 24037284,
+      "pvp": 0.86,
+      "dividendYield": 3.9,
+      "ffoYield": 14.05,
+      "vpPerShare": 8.64,
+      "ffoPerShare": 1.05,
+      "dividendPerShare": 0.33,
+      "revenue": 0.0,
+      "assetSales": 0.0,
+      "ffo": 0.0,
+      "distributedIncome": 0.0,
+      "assets": 0.0,
+      "equity": 0.0,
+      "propertyCount": 0,
+      "averageVacancy": 0.0,
+      "capRate": 0.0,
+      "pricePerSquareMeter": 0.0,
+      "rentPerSquareMeter": 0.0
+    }
+  ],
+  "lastUpdated": "2026-06-17T16:47:00.169488Z",
+  "totalAssets": 1,
+  "provider": "Fundamentus"
+}
