@@ -13722,7 +13722,7 @@
     },
     {
       "ticker": "TOPP11",
-      "name": "RBR TOP OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "name": "PATRIA TOP OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-06-30T00:00:00.000",
       "segment": "Outros",
@@ -15681,7 +15681,7 @@
       "rentPerSquareMeter": 0.0
     }
   ],
-  "lastUpdated": "2026-07-01T07:16:25.131968Z",
+  "lastUpdated": "2026-07-02T06:47:10.332357Z",
   "totalAssets": 560,
   "provider": "Fundamentus"
 }
