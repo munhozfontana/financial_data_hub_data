@@ -11510,7 +11510,7 @@
     },
     {
       "ticker": "RCFF11",
-      "name": "RBR DESENVOLVIMENTO COMERCIAL FEEDER FOF - FII RESPONSABILIDADE LIMITADA",
+      "name": "PATRIA DESENVOLVIMENTO COMERCIAL FEEDER FOF - FUNDO DE INVESTIMENTO IMOBILIÁRIO RL",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-06-19T00:00:00.000",
       "segment": "Outros",
@@ -15681,7 +15681,7 @@
       "rentPerSquareMeter": 0.0
     }
   ],
-  "lastUpdated": "2026-07-04T06:25:39.298987Z",
+  "lastUpdated": "2026-07-05T06:45:19.009030Z",
   "totalAssets": 560,
   "provider": "Fundamentus"
 }
