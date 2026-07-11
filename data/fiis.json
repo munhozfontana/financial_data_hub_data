@@ -2,7 +2,7 @@
   "data": [
     {
       "ticker": "AAZQ11",
-      "logo": "data/AAZQ11.svg",
+      "logo": "data/logos/AAZQ11.svg",
       "name": "AZ QUEST SOLE FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - FIAGRO - IMOBILIÁRIO",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-07-10T00:00:00.000",
@@ -30,7 +30,7 @@
       "rentPerSquareMeter": 0.0
     }
   ],
-  "lastUpdated": "2026-07-11T18:00:11.228720Z",
+  "lastUpdated": "2026-07-11T18:51:13.041408Z",
   "totalAssets": 1,
   "provider": "Fundamentus"
 }
