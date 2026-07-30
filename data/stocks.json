@@ -45,8 +45,8 @@
     {
       "ticker": "AGRO3",
       "logos": [
-        "data/AGRO3.png",
-        "data/AGRO3.svg"
+        "data/logos/AGRO3.png",
+        "data/logos/AGRO3.svg"
       ],
       "name": "BRASILAGRO ON NM",
       "currentPrice": 19.0,
@@ -678,7 +678,7 @@
     {
       "ticker": "DMMO3",
       "logos": [
-        "data/DMMO3.png"
+        "data/logos/DMMO3.png"
       ],
       "name": "DOMMO ON",
       "currentPrice": 1.76,
@@ -722,8 +722,8 @@
     {
       "ticker": "DTCY3",
       "logos": [
-        "data/DTCY3.png",
-        "data/DTCY3.svg"
+        "data/logos/DTCY3.png",
+        "data/logos/DTCY3.svg"
       ],
       "name": "DTCOM ON",
       "currentPrice": 2.3,
@@ -893,7 +893,7 @@
     {
       "ticker": "GNDI3",
       "logos": [
-        "data/GNDI3.png"
+        "data/logos/GNDI3.png"
       ],
       "name": "INTERMEDICA ON NM",
       "currentPrice": 66.95,
@@ -979,7 +979,7 @@
     {
       "ticker": "GPAR3",
       "logos": [
-        "data/GPAR3.png"
+        "data/logos/GPAR3.png"
       ],
       "name": "CELGPAR ON",
       "currentPrice": 10.51,
@@ -1149,8 +1149,8 @@
     {
       "ticker": "IRBR3",
       "logos": [
-        "data/IRBR3.png",
-        "data/IRBR3.svg"
+        "data/logos/IRBR3.png",
+        "data/logos/IRBR3.svg"
       ],
       "name": "IRBBRASIL RE ON NM",
       "currentPrice": 53.32,
@@ -1194,7 +1194,7 @@
     {
       "ticker": "ITEC3",
       "logos": [
-        "data/ITEC3.png"
+        "data/logos/ITEC3.png"
       ],
       "name": "ITAUTEC PHILCO SA - GRUPO ITAUTEC PHILCO ON",
       "currentPrice": 40.1,
@@ -1364,7 +1364,7 @@
     {
       "ticker": "LINX3",
       "logos": [
-        "data/LINX3.png"
+        "data/logos/LINX3.png"
       ],
       "name": "LINX ON NM",
       "currentPrice": 37.4,
@@ -1534,7 +1534,7 @@
     {
       "ticker": "MTIG4",
       "logos": [
-        "data/MTIG4.png"
+        "data/logos/MTIG4.png"
       ],
       "name": "IGUAÇU PN",
       "currentPrice": 23.0,
@@ -1578,7 +1578,7 @@
     {
       "ticker": "NGRD3",
       "logos": [
-        "data/NGRD3.png"
+        "data/logos/NGRD3.png"
       ],
       "name": "NEOGRID ON NM",
       "currentPrice": 34.28,
@@ -1958,8 +1958,8 @@
     {
       "ticker": "SIMH3",
       "logos": [
-        "data/SIMH3.png",
-        "data/SIMH3.svg"
+        "data/logos/SIMH3.png",
+        "data/logos/SIMH3.svg"
       ],
       "name": "SIMPAR ON NM",
       "currentPrice": 7.54,
@@ -2003,7 +2003,7 @@
     {
       "ticker": "SQIA3",
       "logos": [
-        "data/SQIA3.png"
+        "data/logos/SQIA3.png"
       ],
       "name": "SINQIA ON",
       "currentPrice": 27.37,
@@ -2047,7 +2047,7 @@
     {
       "ticker": "SRNA3",
       "logos": [
-        "data/SRNA3.png"
+        "data/logos/SRNA3.png"
       ],
       "name": "SERENA ON NM",
       "currentPrice": 12.62,
@@ -2091,7 +2091,7 @@
     {
       "ticker": "TOYB3",
       "logos": [
-        "data/TOYB3.png"
+        "data/logos/TOYB3.png"
       ],
       "name": "TEC TOY ON",
       "currentPrice": 2.29,
@@ -2135,7 +2135,7 @@
     {
       "ticker": "TOYB4",
       "logos": [
-        "data/TOYB4.png"
+        "data/logos/TOYB4.png"
       ],
       "name": "TEC TOY PN",
       "currentPrice": 2.5,
@@ -2177,7 +2177,7 @@
       "revenueGrowth5y": -26.99
     }
   ],
-  "lastUpdated": "2026-07-30T20:13:37.293285Z",
+  "lastUpdated": "2026-07-30T22:41:40.347840Z",
   "totalAssets": 51,
   "provider": "Fundamentus"
 }
