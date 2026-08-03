@@ -3,7 +3,7 @@
     {
       "ticker": "AAZQ11",
       "logos": [
-        "data/logos/AAZQ11.svg"
+        "data/AAZQ11.svg"
       ],
       "name": "AZ QUEST SOLE FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - FIAGRO - IMOBILIÁRIO",
       "currentPrice": 0.0,
@@ -63,7 +63,7 @@
     {
       "ticker": "ADSH11",
       "logos": [
-        "data/logos/ADSH11.svg"
+        "data/ADSH11.svg"
       ],
       "name": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -210,7 +210,7 @@
     {
       "ticker": "AFHI11",
       "logos": [
-        "data/logos/AFHI11.svg"
+        "data/AFHI11.svg"
       ],
       "name": "AF INVEST CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO RECEBÍVEIS IMOBILIÁRIOS RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -299,7 +299,7 @@
     {
       "ticker": "AGRX11",
       "logos": [
-        "data/logos/AGRX11.svg"
+        "data/AGRX11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS EXES ARAGUAIA - FIAGRO - IMOBILIÁRIO",
       "currentPrice": 0.0,
@@ -330,7 +330,7 @@
     {
       "ticker": "AIEC11",
       "logos": [
-        "data/logos/AIEC11.svg"
+        "data/AIEC11.svg"
       ],
       "name": "ARCH EDIFÍCIOS CORPORATIVOS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -390,7 +390,7 @@
     {
       "ticker": "ALMI11",
       "logos": [
-        "data/logos/ALMI11.svg"
+        "data/ALMI11.svg"
       ],
       "name": "FII TORRE ALMIRANTE",
       "currentPrice": 0.0,
@@ -421,7 +421,7 @@
     {
       "ticker": "ALZC11",
       "logos": [
-        "data/logos/ALZC11.svg"
+        "data/ALZC11.svg"
       ],
       "name": "ALIANZA CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -481,7 +481,7 @@
     {
       "ticker": "ALZR11",
       "logos": [
-        "data/logos/ALZR11.svg"
+        "data/ALZR11.svg"
       ],
       "name": "ALIANZA TRUST RENDA IMOBILIÁRIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -570,7 +570,7 @@
     {
       "ticker": "APTO11",
       "logos": [
-        "data/logos/APTO11.svg"
+        "data/APTO11.svg"
       ],
       "name": "NAVI RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE  LIMITADA",
       "currentPrice": 0.0,
@@ -601,7 +601,7 @@
     {
       "ticker": "APXM11",
       "logos": [
-        "data/logos/APXM11.svg"
+        "data/APXM11.svg"
       ],
       "name": "APEX MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -661,7 +661,7 @@
     {
       "ticker": "AROA11",
       "logos": [
-        "data/logos/AROA11.svg"
+        "data/AROA11.svg"
       ],
       "name": "AROEIRA 333 RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -721,7 +721,7 @@
     {
       "ticker": "ARTE11",
       "logos": [
-        "data/logos/ARTE11.svg"
+        "data/ARTE11.svg"
       ],
       "name": "ÁRTEMIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -752,7 +752,7 @@
     {
       "ticker": "ARXD11",
       "logos": [
-        "data/logos/ARXD11.svg"
+        "data/ARXD11.svg"
       ],
       "name": "ARX DOVER RECEBÍVEIS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -811,7 +811,9 @@
     },
     {
       "ticker": "ASRF11",
-      "logos": [],
+      "logos": [
+        "data/ASRF11.svg"
+      ],
       "name": "DAYCOVAL RETROFITS I FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-07-31T00:00:00.000",
@@ -841,7 +843,7 @@
     {
       "ticker": "ATSA11",
       "logos": [
-        "data/logos/ATSA11.svg"
+        "data/ATSA11.svg"
       ],
       "name": "HEDGE ATRIUM SHOPPING SANTO ANDRÉ FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -871,7 +873,9 @@
     },
     {
       "ticker": "AURB11",
-      "logos": [],
+      "logos": [
+        "data/AURB11.svg"
+      ],
       "name": "ALIANZA URBAN HUB RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-07-29T00:00:00.000",
@@ -930,7 +934,7 @@
     {
       "ticker": "AZPL11",
       "logos": [
-        "data/logos/AZPL11.svg"
+        "data/AZPL11.svg"
       ],
       "name": "AZ QUEST PANORAMA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -1019,7 +1023,7 @@
     {
       "ticker": "BBFO11",
       "logos": [
-        "data/logos/BBFO11.svg"
+        "data/BBFO11.svg"
       ],
       "name": "BB FUNDO DE FUNDOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -1050,7 +1054,7 @@
     {
       "ticker": "BBGO11",
       "logos": [
-        "data/logos/BBGO11.svg"
+        "data/BBGO11.svg"
       ],
       "name": "BB FUNDO DE INVESTIMENTO DE CRÉDITO FIAGRO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -1139,7 +1143,7 @@
     {
       "ticker": "BBRC11",
       "logos": [
-        "data/logos/BBRC11.svg"
+        "data/BBRC11.svg"
       ],
       "name": "BB RENDA CORPORATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -1228,7 +1232,7 @@
     {
       "ticker": "BCIA11",
       "logos": [
-        "data/logos/BCIA11.svg"
+        "data/BCIA11.svg"
       ],
       "name": "BRADESCO CARTEIRA IMOBILIÁRIA ATIVA - FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO - FII",
       "currentPrice": 0.0,
@@ -1259,7 +1263,7 @@
     {
       "ticker": "BCRI11",
       "logos": [
-        "data/logos/BCRI11.svg"
+        "data/BCRI11.svg"
       ],
       "name": "BANESTES RECEBÍVEIS  IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITAD",
       "currentPrice": 0.0,
@@ -1290,7 +1294,7 @@
     {
       "ticker": "BFCC11",
       "logos": [
-        "data/logos/BFCC11.svg"
+        "data/BFCC11.svg"
       ],
       "name": "BFC FUNDO DE INVESTIMENTO IMOBILIÁRIO",
       "currentPrice": 0.0,
@@ -1349,7 +1353,9 @@
     },
     {
       "ticker": "BICE11",
-      "logos": [],
+      "logos": [
+        "data/BICE11.svg"
+      ],
       "name": "BRIO CRÉDITO ESTRUTURADO - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-07-15T00:00:00.000",
@@ -1408,7 +1414,7 @@
     {
       "ticker": "BIME11",
       "logos": [
-        "data/logos/BIME11.svg"
+        "data/BIME11.svg"
       ],
       "name": "BRIO MULTIESTRATÉGIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -1468,7 +1474,7 @@
     {
       "ticker": "BLCA11",
       "logos": [
-        "data/logos/BLCA11.svg"
+        "data/BLCA11.svg"
       ],
       "name": "CATUAÍ VBI TRIPLE A FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -1702,7 +1708,7 @@
     {
       "ticker": "BMLC11",
       "logos": [
-        "data/logos/BMLC11.svg"
+        "data/BMLC11.svg"
       ],
       "name": "BM BRASCAN LAJES CORPORATIVAS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -1733,7 +1739,7 @@
     {
       "ticker": "BNFS11",
       "logos": [
-        "data/logos/BNFS11.svg"
+        "data/BNFS11.svg"
       ],
       "name": "BANRISUL NOVAS FRONTEIRAS FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -1793,7 +1799,7 @@
     {
       "ticker": "BPML11",
       "logos": [
-        "data/logos/BPML11.svg"
+        "data/BPML11.svg"
       ],
       "name": "BTG PACTUAL SHOPPINGS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -1853,7 +1859,7 @@
     {
       "ticker": "BRCO11",
       "logos": [
-        "data/logos/BRCO11.svg"
+        "data/BRCO11.svg"
       ],
       "name": "BRESCO LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -1884,7 +1890,7 @@
     {
       "ticker": "BRCR11",
       "logos": [
-        "data/logos/BRCR11.svg"
+        "data/BRCR11.svg"
       ],
       "name": "BTG PACTUAL CORPORATE OFFICE FUND - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -1973,7 +1979,7 @@
     {
       "ticker": "BRIP11",
       "logos": [
-        "data/logos/BRIP11.svg"
+        "data/BRIP11.svg"
       ],
       "name": "BRIO REAL ESTATE III - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -2033,7 +2039,7 @@
     {
       "ticker": "BROF11",
       "logos": [
-        "data/logos/BROF11.svg"
+        "data/BROF11.svg"
       ],
       "name": "BRPR CORPORATE OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -2093,7 +2099,7 @@
     {
       "ticker": "BTCI11",
       "logos": [
-        "data/logos/BTCI11.svg"
+        "data/BTCI11.svg"
       ],
       "name": "BTG PACTUAL CRÉDITO IMOBILIÁRIO - FUNDO DE CRI - FI IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -2182,7 +2188,7 @@
     {
       "ticker": "BTHI11",
       "logos": [
-        "data/logos/BTHI11.svg"
+        "data/BTHI11.svg"
       ],
       "name": "BTG HOTÉIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -2213,7 +2219,7 @@
     {
       "ticker": "BTLG11",
       "logos": [
-        "data/logos/BTLG11.svg"
+        "data/BTLG11.svg"
       ],
       "name": "BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -2273,7 +2279,7 @@
     {
       "ticker": "BTRA11",
       "logos": [
-        "data/logos/BTRA11.svg"
+        "data/BTRA11.svg"
       ],
       "name": "BTG PACTUAL TERRAS AGRÍCOLAS FIAGRO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -2362,7 +2368,7 @@
     {
       "ticker": "BTWR11",
       "logos": [
-        "data/logos/BTWR11.svg"
+        "data/BTWR11.svg"
       ],
       "name": "BTOWERS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -2451,7 +2457,7 @@
     {
       "ticker": "CACR11",
       "logos": [
-        "data/logos/CACR11.svg"
+        "data/CACR11.svg"
       ],
       "name": "CARTESIA RECEBÍVEIS IMOBILIÁRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -2482,7 +2488,7 @@
     {
       "ticker": "CARE11",
       "logos": [
-        "data/logos/CARE11.svg"
+        "data/CARE11.svg"
       ],
       "name": "BRAZILIAN GRAVEYARD AND DEATH CARE SERVICES FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESP LIMITADA",
       "currentPrice": 0.0,
@@ -2542,7 +2548,7 @@
     {
       "ticker": "CCME11",
       "logos": [
-        "data/logos/CCME11.svg"
+        "data/CCME11.svg"
       ],
       "name": "CANUMA CAPITAL MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -2631,7 +2637,7 @@
     {
       "ticker": "CEOC11",
       "logos": [
-        "data/logos/CEOC11.svg"
+        "data/CEOC11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII CEO CYRELA COMMERCIAL PROPERTIES RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -2691,7 +2697,7 @@
     {
       "ticker": "CFII11",
       "logos": [
-        "data/logos/CFII11.svg"
+        "data/CFII11.svg"
       ],
       "name": "CF3  FUNDO DE INVESTIMENTO IMOBILIÁRIO",
       "currentPrice": 0.0,
@@ -2722,7 +2728,7 @@
     {
       "ticker": "CJCT11",
       "logos": [
-        "data/logos/CJCT11.svg"
+        "data/CJCT11.svg"
       ],
       "name": "CIDADE JARDIM CONTINENTAL TOWER FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -2753,7 +2759,7 @@
     {
       "ticker": "CLIN11",
       "logos": [
-        "data/logos/CLIN11.svg"
+        "data/CLIN11.svg"
       ],
       "name": "CLAVE ÍNDICES DE PREÇOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -2784,7 +2790,7 @@
     {
       "ticker": "CNES11",
       "logos": [
-        "data/logos/CNES11.svg"
+        "data/CNES11.svg"
       ],
       "name": "CENESP FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -2902,7 +2908,7 @@
     {
       "ticker": "CPLG11",
       "logos": [
-        "data/logos/CPLG11.svg"
+        "data/CPLG11.svg"
       ],
       "name": "CAPITÂNIA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -2933,7 +2939,7 @@
     {
       "ticker": "CPOF11",
       "logos": [
-        "data/logos/CPOF11.svg"
+        "data/CPOF11.svg"
       ],
       "name": "CAPITÂNIA OFFICE FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
       "currentPrice": 0.0,
@@ -2964,7 +2970,7 @@
     {
       "ticker": "CPSH11",
       "logos": [
-        "data/logos/CPSH11.svg"
+        "data/CPSH11.svg"
       ],
       "name": "CAPITÂNIA SHOPPINGS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -2995,7 +3001,7 @@
     {
       "ticker": "CPTR11",
       "logos": [
-        "data/logos/CPTR11.svg"
+        "data/CPTR11.svg"
       ],
       "name": "CAPITANIA AGRO STRATEGIES - FIAGRO-IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3026,7 +3032,7 @@
     {
       "ticker": "CPTS11",
       "logos": [
-        "data/logos/CPTS11.svg"
+        "data/CPTS11.svg"
       ],
       "name": "CAPITÂNIA SECURITIES II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3086,7 +3092,7 @@
     {
       "ticker": "CRAA11",
       "logos": [
-        "data/logos/CRAA11.svg"
+        "data/CRAA11.svg"
       ],
       "name": "SPARTA FIAGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - IMOB RESP LIMITADA",
       "currentPrice": 0.0,
@@ -3117,7 +3123,7 @@
     {
       "ticker": "CRFF11",
       "logos": [
-        "data/logos/CRFF11.svg"
+        "data/CRFF11.svg"
       ],
       "name": "CAIXA RIO BRAVO FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO II RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3148,7 +3154,7 @@
     {
       "ticker": "CTXT11",
       "logos": [
-        "data/logos/CTXT11.svg"
+        "data/CTXT11.svg"
       ],
       "name": "CENTRO TÊXTIL INTERNACIONAL FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3208,7 +3214,7 @@
     {
       "ticker": "CXAG11",
       "logos": [
-        "data/logos/CXAG11.svg"
+        "data/CXAG11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO CAIXA AGÊNCIAS - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3239,7 +3245,7 @@
     {
       "ticker": "CXCE11",
       "logos": [
-        "data/logos/CXCE11.svg"
+        "data/CXCE11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO CAIXA CEDAE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3270,7 +3276,7 @@
     {
       "ticker": "CXCI11",
       "logos": [
-        "data/logos/CXCI11.svg"
+        "data/CXCI11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO CAIXA CARTEIRA IMOBILIÁRIA RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3330,7 +3336,7 @@
     {
       "ticker": "CXRI11",
       "logos": [
-        "data/logos/CXRI11.svg"
+        "data/CXRI11.svg"
       ],
       "name": "CAIXA RIO BRAVO FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3361,7 +3367,7 @@
     {
       "ticker": "CXTL11",
       "logos": [
-        "data/logos/CXTL11.svg"
+        "data/CXTL11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIARIO CAIXA SEQ LOGISTICA RENDA RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3392,7 +3398,7 @@
     {
       "ticker": "CYLD11",
       "logos": [
-        "data/logos/CYLD11.svg"
+        "data/CYLD11.svg"
       ],
       "name": "CYRELA DESENVOLVIMENTO LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3423,7 +3429,7 @@
     {
       "ticker": "DAMA11",
       "logos": [
-        "data/logos/DAMA11.svg"
+        "data/DAMA11.svg"
       ],
       "name": "DAMA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3483,7 +3489,7 @@
     {
       "ticker": "DAYM11",
       "logos": [
-        "data/logos/DAYM11.svg"
+        "data/DAYM11.svg"
       ],
       "name": "DAYCOVAL REAL ESTATE MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3514,7 +3520,7 @@
     {
       "ticker": "DCRA11",
       "logos": [
-        "data/logos/DCRA11.svg"
+        "data/DCRA11.svg"
       ],
       "name": "DEVANT FIAGRO DE RESP LIMITADA",
       "currentPrice": 0.0,
@@ -3545,7 +3551,7 @@
     {
       "ticker": "DEVA11",
       "logos": [
-        "data/logos/DEVA11.svg"
+        "data/DEVA11.svg"
       ],
       "name": "DEVANT RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3663,7 +3669,7 @@
     {
       "ticker": "DPRO11",
       "logos": [
-        "data/logos/DPRO11.svg"
+        "data/DPRO11.svg"
       ],
       "name": "DEVANT PROPERTIES FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3723,7 +3729,7 @@
     {
       "ticker": "DVFF11",
       "logos": [
-        "data/logos/DVFF11.svg"
+        "data/DVFF11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - DEVANT FUNDO DE FUNDOS IMOBILIÁRIOS DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3754,7 +3760,7 @@
     {
       "ticker": "EDFO11",
       "logos": [
-        "data/logos/EDFO11.svg"
+        "data/EDFO11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO EDIFÍCIO OURINVEST - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3785,7 +3791,7 @@
     {
       "ticker": "EDGA11",
       "logos": [
-        "data/logos/EDGA11.svg"
+        "data/EDGA11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII EDIFÍCIO GALERIA RESPONSABILIADADE LIMITADA",
       "currentPrice": 0.0,
@@ -3845,7 +3851,7 @@
     {
       "ticker": "EGAF11",
       "logos": [
-        "data/logos/EGAF11.svg"
+        "data/EGAF11.svg"
       ],
       "name": "ECOAGRO I FIAGRO- RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -3992,7 +3998,7 @@
     {
       "ticker": "EQIR11",
       "logos": [
-        "data/logos/EQIR11.svg"
+        "data/EQIR11.svg"
       ],
       "name": "EQI RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -4081,7 +4087,7 @@
     {
       "ticker": "EURO11",
       "logos": [
-        "data/logos/EURO11.svg"
+        "data/EURO11.svg"
       ],
       "name": "FII EUROPAR Responsabilidade Limitada",
       "currentPrice": 0.0,
@@ -4141,7 +4147,7 @@
     {
       "ticker": "EXES11",
       "logos": [
-        "data/logos/EXES11.svg"
+        "data/EXES11.svg"
       ],
       "name": "EXES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -4172,7 +4178,7 @@
     {
       "ticker": "FAED11",
       "logos": [
-        "data/logos/FAED11.svg"
+        "data/FAED11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII ANHANGUERA EDUCACIONAL RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -4203,7 +4209,7 @@
     {
       "ticker": "FAMB11",
       "logos": [
-        "data/logos/FAMB11.svg"
+        "data/FAMB11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII EDIFÍCIO ALMIRANTE BARROSO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -4234,7 +4240,7 @@
     {
       "ticker": "FATN11",
       "logos": [
-        "data/logos/FATN11.svg"
+        "data/FATN11.svg"
       ],
       "name": "BRC Renda Corporativa Fundo de Investimento Imobiliário - Responsabilidade Limitada",
       "currentPrice": 0.0,
@@ -4265,7 +4271,7 @@
     {
       "ticker": "FCFL11",
       "logos": [
-        "data/logos/FCFL11.svg"
+        "data/FCFL11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII CAMPUS FARIA LIMA RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -4354,7 +4360,7 @@
     {
       "ticker": "FGAA11",
       "logos": [
-        "data/logos/FGAA11.svg"
+        "data/FGAA11.svg"
       ],
       "name": "FG/AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROIND FIAGRO IMOBILIÁRIO RESP LIMITADA",
       "currentPrice": 0.0,
@@ -4385,7 +4391,7 @@
     {
       "ticker": "FIGS11",
       "logos": [
-        "data/logos/FIGS11.svg"
+        "data/FIGS11.svg"
       ],
       "name": "GENERAL SHOPPING ATIVO E RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -4416,7 +4422,7 @@
     {
       "ticker": "FIIB11",
       "logos": [
-        "data/logos/FIIB11.svg"
+        "data/FIIB11.svg"
       ],
       "name": "FII INDUSTRIAL DO BRASIL RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -4447,7 +4453,7 @@
     {
       "ticker": "FIIP11",
       "logos": [
-        "data/logos/FIIP11.svg"
+        "data/FIIP11.svg"
       ],
       "name": "RB CAPITAL RENDA I FUNDO DE INVESTIMENTO IMOBILIARIO - FII - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -4623,7 +4629,7 @@
     {
       "ticker": "FLMA11",
       "logos": [
-        "data/logos/FLMA11.svg"
+        "data/FLMA11.svg"
       ],
       "name": "FII CONTINENTAL SQUARE FARIA LIMA - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -4654,7 +4660,7 @@
     {
       "ticker": "FLRP11",
       "logos": [
-        "data/logos/FLRP11.svg"
+        "data/FLRP11.svg"
       ],
       "name": "HEDGE FLORIPA SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -4685,7 +4691,7 @@
     {
       "ticker": "FMOF11",
       "logos": [
-        "data/logos/FMOF11.svg"
+        "data/FMOF11.svg"
       ],
       "name": "FII MEMORIAL OFFICE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -4716,7 +4722,7 @@
     {
       "ticker": "FPAB11",
       "logos": [
-        "data/logos/FPAB11.svg"
+        "data/FPAB11.svg"
       ],
       "name": "PROJETO ÁGUA BRANCA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -4892,7 +4898,7 @@
     {
       "ticker": "FVPQ11",
       "logos": [
-        "data/logos/FVPQ11.svg"
+        "data/FVPQ11.svg"
       ],
       "name": "VIA PARQUE SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -4952,7 +4958,7 @@
     {
       "ticker": "FZDA11",
       "logos": [
-        "data/logos/FZDA11.svg"
+        "data/FZDA11.svg"
       ],
       "name": "TANE FZDA FUNDO DE INVESTIMENTO EM CADEIAS PRODUTIVAS AGROINDUSTRIAIS",
       "currentPrice": 0.0,
@@ -5041,7 +5047,7 @@
     {
       "ticker": "GAME11",
       "logos": [
-        "data/logos/GAME11.svg"
+        "data/GAME11.svg"
       ],
       "name": "GUARDIAN MULTIESTRATÉGIA IMOBILIÁRIA I FII DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -5072,7 +5078,7 @@
     {
       "ticker": "GARE11",
       "logos": [
-        "data/logos/GARE11.svg"
+        "data/GARE11.svg"
       ],
       "name": "GUARDIAN REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -5161,7 +5167,7 @@
     {
       "ticker": "GCRA11",
       "logos": [
-        "data/logos/GCRA11.svg"
+        "data/GCRA11.svg"
       ],
       "name": "GALAPAGOS RECEBÍVEIS DO AGRONEGÓCIO - FIAGRO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -5279,7 +5285,7 @@
     {
       "ticker": "GGRC11",
       "logos": [
-        "data/logos/GGRC11.svg"
+        "data/GGRC11.svg"
       ],
       "name": "ZAGROS RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -5310,7 +5316,7 @@
     {
       "ticker": "GLCR11",
       "logos": [
-        "data/logos/GLCR11.svg"
+        "data/GLCR11.svg"
       ],
       "name": "GALAPAGOS HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -5457,7 +5463,7 @@
     {
       "ticker": "GRWA11",
       "logos": [
-        "data/logos/GRWA11.svg"
+        "data/GRWA11.svg"
       ],
       "name": "GREENWICH AGRO FI NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -5488,7 +5494,7 @@
     {
       "ticker": "GSFI11",
       "logos": [
-        "data/logos/GSFI11.svg"
+        "data/GSFI11.svg"
       ],
       "name": "GENERAL SHOPPING E OUTLETS DO BRASIL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -5548,7 +5554,7 @@
     {
       "ticker": "GTWR11",
       "logos": [
-        "data/logos/GTWR11.svg"
+        "data/GTWR11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO GREEN TOWERS RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -5637,7 +5643,7 @@
     {
       "ticker": "GZIT11",
       "logos": [
-        "data/logos/GZIT11.svg"
+        "data/GZIT11.svg"
       ],
       "name": "GAZIT MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -5697,7 +5703,7 @@
     {
       "ticker": "HABT11",
       "logos": [
-        "data/logos/HABT11.svg"
+        "data/HABT11.svg"
       ],
       "name": "HABITAT RECEBÍVEIS PULVERIZADOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -5844,7 +5850,7 @@
     {
       "ticker": "HCRI11",
       "logos": [
-        "data/logos/HCRI11.svg"
+        "data/HCRI11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII HOSPITAL DA CRIANÇA RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -5875,7 +5881,7 @@
     {
       "ticker": "HCTR11",
       "logos": [
-        "data/logos/HCTR11.svg"
+        "data/HCTR11.svg"
       ],
       "name": "HECTARE CE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -5906,7 +5912,7 @@
     {
       "ticker": "HDEL11",
       "logos": [
-        "data/logos/HDEL11.svg"
+        "data/HDEL11.svg"
       ],
       "name": "HEDGE DESENVOLVIMENTO LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -5937,7 +5943,7 @@
     {
       "ticker": "HFOF11",
       "logos": [
-        "data/logos/HFOF11.svg"
+        "data/HFOF11.svg"
       ],
       "name": "HEDGE TOP FOFII 3 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -5968,7 +5974,7 @@
     {
       "ticker": "HGAG11",
       "logos": [
-        "data/logos/HGAG11.svg"
+        "data/HGAG11.svg"
       ],
       "name": "HIGH FIAGRO - IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -6028,7 +6034,7 @@
     {
       "ticker": "HGBS11",
       "logos": [
-        "data/logos/HGBS11.svg"
+        "data/HGBS11.svg"
       ],
       "name": "HEDGE BRASIL SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -6059,7 +6065,7 @@
     {
       "ticker": "HGCR11",
       "logos": [
-        "data/logos/HGCR11.svg"
+        "data/HGCR11.svg"
       ],
       "name": "PÁTRIA RECEBÍVEIS IMOBILIÁRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -6177,7 +6183,7 @@
     {
       "ticker": "HGLG11",
       "logos": [
-        "data/logos/HGLG11.svg"
+        "data/HGLG11.svg"
       ],
       "name": "PÁTRIA LOG - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -6237,7 +6243,7 @@
     {
       "ticker": "HGRE11",
       "logos": [
-        "data/logos/HGRE11.svg"
+        "data/HGRE11.svg"
       ],
       "name": "PATRIA ESCRITÓRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -6384,7 +6390,7 @@
     {
       "ticker": "HLOG11",
       "logos": [
-        "data/logos/HLOG11.svg"
+        "data/HLOG11.svg"
       ],
       "name": "HEDGE LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -6502,7 +6508,7 @@
     {
       "ticker": "HPDP11",
       "logos": [
-        "data/logos/HPDP11.svg"
+        "data/HPDP11.svg"
       ],
       "name": "HEDGE SHOPPING PARQUE DOM PEDRO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -6533,7 +6539,7 @@
     {
       "ticker": "HRDF11",
       "logos": [
-        "data/logos/HRDF11.svg"
+        "data/HRDF11.svg"
       ],
       "name": "HEDGE REALTY DEVELOPMENT FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -6564,7 +6570,7 @@
     {
       "ticker": "HREC11",
       "logos": [
-        "data/logos/HREC11.svg"
+        "data/HREC11.svg"
       ],
       "name": "HEDGE RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -6624,7 +6630,7 @@
     {
       "ticker": "HSAF11",
       "logos": [
-        "data/logos/HSAF11.svg"
+        "data/HSAF11.svg"
       ],
       "name": "HSI ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESP LIMITADA",
       "currentPrice": 0.0,
@@ -6655,7 +6661,7 @@
     {
       "ticker": "HSLG11",
       "logos": [
-        "data/logos/HSLG11.svg"
+        "data/HSLG11.svg"
       ],
       "name": "HSI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESP LIMITADA",
       "currentPrice": 0.0,
@@ -6686,7 +6692,7 @@
     {
       "ticker": "HSML11",
       "logos": [
-        "data/logos/HSML11.svg"
+        "data/HSML11.svg"
       ],
       "name": "HSI MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -6746,7 +6752,7 @@
     {
       "ticker": "HTMX11",
       "logos": [
-        "data/logos/HTMX11.svg"
+        "data/HTMX11.svg"
       ],
       "name": "HOTEL MAXINVEST FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -6777,7 +6783,7 @@
     {
       "ticker": "HUCG11",
       "logos": [
-        "data/logos/HUCG11.svg"
+        "data/HUCG11.svg"
       ],
       "name": "Fundo de Investimento Imobiliário Hospital Unimed Campina Grande Responsabilidade Limitada",
       "currentPrice": 0.0,
@@ -6895,7 +6901,7 @@
     {
       "ticker": "IAAG11",
       "logos": [
-        "data/logos/IAAG11.svg"
+        "data/IAAG11.svg"
       ],
       "name": "INTER AMERRA FIAGRO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -6926,7 +6932,7 @@
     {
       "ticker": "IAGR11",
       "logos": [
-        "data/logos/IAGR11.svg"
+        "data/IAGR11.svg"
       ],
       "name": "SFI INVESTIMENTOS FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO DE RESP LIMITADA",
       "currentPrice": 0.0,
@@ -6986,7 +6992,7 @@
     {
       "ticker": "IBCR11",
       "logos": [
-        "data/logos/IBCR11.svg"
+        "data/IBCR11.svg"
       ],
       "name": "CRI INTEGRAL BREI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -7046,7 +7052,7 @@
     {
       "ticker": "ICNE11",
       "logos": [
-        "data/logos/ICNE11.svg"
+        "data/ICNE11.svg"
       ],
       "name": "ÍCONE - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -7077,7 +7083,7 @@
     {
       "ticker": "ICRI11",
       "logos": [
-        "data/logos/ICRI11.svg"
+        "data/ICRI11.svg"
       ],
       "name": "ITAÚ CRÉDITO IMOBILIÁRIO IPCA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -7224,7 +7230,7 @@
     {
       "ticker": "INLG11",
       "logos": [
-        "data/logos/INLG11.svg"
+        "data/INLG11.svg"
       ],
       "name": "INTER LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -7255,7 +7261,7 @@
     {
       "ticker": "INRD11",
       "logos": [
-        "data/logos/INRD11.svg"
+        "data/INRD11.svg"
       ],
       "name": "INTER RESIDENCE FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -7315,7 +7321,7 @@
     {
       "ticker": "IRIM11",
       "logos": [
-        "data/logos/IRIM11.svg"
+        "data/IRIM11.svg"
       ],
       "name": "IRIDIUM FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -7375,7 +7381,7 @@
     {
       "ticker": "ITIP11",
       "logos": [
-        "data/logos/ITIP11.svg"
+        "data/ITIP11.svg"
       ],
       "name": "INTER TEVA ÍNDICE DE PAPEL FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -7406,7 +7412,7 @@
     {
       "ticker": "ITIT11",
       "logos": [
-        "data/logos/ITIT11.svg"
+        "data/ITIT11.svg"
       ],
       "name": "INTER TEVA ÍNDICE DE TIJOLO FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -7437,7 +7443,7 @@
     {
       "ticker": "ITRI11",
       "logos": [
-        "data/logos/ITRI11.svg"
+        "data/ITRI11.svg"
       ],
       "name": "ITAÚ TOTAL RETURN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -7468,7 +7474,7 @@
     {
       "ticker": "JASC11",
       "logos": [
-        "data/logos/JASC11.svg"
+        "data/JASC11.svg"
       ],
       "name": "JASC RENDA VAREJO ESSENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -7528,7 +7534,7 @@
     {
       "ticker": "JCCJ11",
       "logos": [
-        "data/logos/JCCJ11.svg"
+        "data/JCCJ11.svg"
       ],
       "name": "JHSF CAPITAL MALLS - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -7617,7 +7623,7 @@
     {
       "ticker": "JGPX11",
       "logos": [
-        "data/logos/JGPX11.svg"
+        "data/JGPX11.svg"
       ],
       "name": "JGP CRÉDITO FI NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO IMOBILIÁRIO DE RESP LIMITADA",
       "currentPrice": 0.0,
@@ -7647,7 +7653,9 @@
     },
     {
       "ticker": "JPPA11",
-      "logos": [],
+      "logos": [
+        "data/JPPA11.svg"
+      ],
       "name": "JPP CAPITAL RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE  RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-07-31T00:00:00.000",
@@ -7735,7 +7743,7 @@
     {
       "ticker": "JSAF11",
       "logos": [
-        "data/logos/JSAF11.svg"
+        "data/JSAF11.svg"
       ],
       "name": "JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -7766,7 +7774,7 @@
     {
       "ticker": "JSCR11",
       "logos": [
-        "data/logos/JSCR11.svg"
+        "data/JSCR11.svg"
       ],
       "name": "JS RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
       "currentPrice": 0.0,
@@ -7797,7 +7805,7 @@
     {
       "ticker": "JSRE11",
       "logos": [
-        "data/logos/JSRE11.svg"
+        "data/JSRE11.svg"
       ],
       "name": "JS REAL ESTATE MULTIGESTÃO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -7828,7 +7836,7 @@
     {
       "ticker": "KCRE11",
       "logos": [
-        "data/logos/KCRE11.svg"
+        "data/KCRE11.svg"
       ],
       "name": "KINEA CREDITAS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -7888,7 +7896,7 @@
     {
       "ticker": "KEVE11",
       "logos": [
-        "data/logos/KEVE11.svg"
+        "data/KEVE11.svg"
       ],
       "name": "EVEN II KINEA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -8006,7 +8014,7 @@
     {
       "ticker": "KISU11",
       "logos": [
-        "data/logos/KISU11.svg"
+        "data/KISU11.svg"
       ],
       "name": "KILIMA FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS IMOBILIÁRIOS SUNO 30 RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -8037,7 +8045,7 @@
     {
       "ticker": "KIVO11",
       "logos": [
-        "data/logos/KIVO11.svg"
+        "data/KIVO11.svg"
       ],
       "name": "KILIMA VOLKANO RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -8068,7 +8076,7 @@
     {
       "ticker": "KNCA11",
       "logos": [
-        "data/logos/KNCA11.svg"
+        "data/KNCA11.svg"
       ],
       "name": "KINEA CRÉDITO AGRO FIAGRO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -8099,7 +8107,7 @@
     {
       "ticker": "KNCR11",
       "logos": [
-        "data/logos/KNCR11.svg"
+        "data/KNCR11.svg"
       ],
       "name": "KINEA RENDIMENTOS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -8130,7 +8138,7 @@
     {
       "ticker": "KNHF11",
       "logos": [
-        "data/logos/KNHF11.svg"
+        "data/KNHF11.svg"
       ],
       "name": "KINEA HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -8161,7 +8169,7 @@
     {
       "ticker": "KNHY11",
       "logos": [
-        "data/logos/KNHY11.svg"
+        "data/KNHY11.svg"
       ],
       "name": "KINEA HIGH YIELD CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO  RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -8279,7 +8287,7 @@
     {
       "ticker": "KNRI11",
       "logos": [
-        "data/logos/KNRI11.svg"
+        "data/KNRI11.svg"
       ],
       "name": "KINEA RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -8310,7 +8318,7 @@
     {
       "ticker": "KNSC11",
       "logos": [
-        "data/logos/KNSC11.svg"
+        "data/KNSC11.svg"
       ],
       "name": "KINEA SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -8341,7 +8349,7 @@
     {
       "ticker": "KNUQ11",
       "logos": [
-        "data/logos/KNUQ11.svg"
+        "data/KNUQ11.svg"
       ],
       "name": "KINEA UNIQUE HY CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -8372,7 +8380,7 @@
     {
       "ticker": "KOPA11",
       "logos": [
-        "data/logos/KOPA11.svg"
+        "data/KOPA11.svg"
       ],
       "name": "KINEA OPORTUNIDADES AGRO I FIAGRO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -8402,7 +8410,9 @@
     },
     {
       "ticker": "KORE11",
-      "logos": [],
+      "logos": [
+        "data/KORE11.svg"
+      ],
       "name": "KINEA OPORTUNIDADES REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-07-31T00:00:00.000",
@@ -8461,7 +8471,7 @@
     {
       "ticker": "LASC11",
       "logos": [
-        "data/logos/LASC11.svg"
+        "data/LASC11.svg"
       ],
       "name": "LEGATUS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -8579,7 +8589,7 @@
     {
       "ticker": "LIFE11",
       "logos": [
-        "data/logos/LIFE11.svg"
+        "data/LIFE11.svg"
       ],
       "name": "LIFE CAPITAL PARTNERS FUNDO DE INVESTIMENTOS IMOBILIÁRIOS",
       "currentPrice": 0.0,
@@ -8668,7 +8678,7 @@
     {
       "ticker": "LMAI11",
       "logos": [
-        "data/logos/LMAI11.svg"
+        "data/LMAI11.svg"
       ],
       "name": "LABINA MULTI ATIVOS IMOBILIÁRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -8728,7 +8738,7 @@
     {
       "ticker": "LPLP11",
       "logos": [
-        "data/logos/LPLP11.svg"
+        "data/LPLP11.svg"
       ],
       "name": "LAGO DA PEDRA - FUNDO DE INVESTIMENTO IMOBILIÁRIO  RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -8788,7 +8798,7 @@
     {
       "ticker": "LSAG11",
       "logos": [
-        "data/logos/LSAG11.svg"
+        "data/LSAG11.svg"
       ],
       "name": "RIZA AGRO II FI NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - FIAGRO - IMOBILIÁRIO - RESP LIMITADA",
       "currentPrice": 0.0,
@@ -8964,7 +8974,7 @@
     {
       "ticker": "LVBI11",
       "logos": [
-        "data/logos/LVBI11.svg"
+        "data/LVBI11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO VBI LOGÍSTICO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -9082,7 +9092,7 @@
     {
       "ticker": "MAXR11",
       "logos": [
-        "data/logos/MAXR11.svg"
+        "data/MAXR11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII MAX RETAIL RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -9286,7 +9296,9 @@
     },
     {
       "ticker": "MCRE11",
-      "logos": [],
+      "logos": [
+        "data/MCRE11.svg"
+      ],
       "name": "MAUÁ CAPITAL REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-07-31T00:00:00.000",
@@ -9373,7 +9385,9 @@
     },
     {
       "ticker": "MFII11",
-      "logos": [],
+      "logos": [
+        "data/MFII11.svg"
+      ],
       "name": "MERITO DESENVOLVIMENTO IMOBILIARIO FII",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-07-31T00:00:00.000",
@@ -9461,7 +9475,7 @@
     {
       "ticker": "MGHT11",
       "logos": [
-        "data/logos/MGHT11.svg"
+        "data/MGHT11.svg"
       ],
       "name": "TZDK FUNDO DE INVESTIMENTO IMOBILIÁRIORESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -9550,7 +9564,7 @@
     {
       "ticker": "MIDW11",
       "logos": [
-        "data/logos/MIDW11.svg"
+        "data/MIDW11.svg"
       ],
       "name": "MIDWAY MALL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -9697,7 +9711,7 @@
     {
       "ticker": "MXRF11",
       "logos": [
-        "data/logos/MXRF11.svg"
+        "data/MXRF11.svg"
       ],
       "name": "MAXI RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -9757,7 +9771,7 @@
     {
       "ticker": "NAVT11",
       "logos": [
-        "data/logos/NAVT11.svg"
+        "data/NAVT11.svg"
       ],
       "name": "NAVI IMOBILIÁRIO TOTAL RETURN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -9846,7 +9860,7 @@
     {
       "ticker": "NCRI11",
       "logos": [
-        "data/logos/NCRI11.svg"
+        "data/NCRI11.svg"
       ],
       "name": "NAVI CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -9906,7 +9920,7 @@
     {
       "ticker": "NEWU11",
       "logos": [
-        "data/logos/NEWU11.svg"
+        "data/NEWU11.svg"
       ],
       "name": "NEWPORT RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -9937,7 +9951,7 @@
     {
       "ticker": "NEXG11",
       "logos": [
-        "data/logos/NEXG11.svg"
+        "data/NEXG11.svg"
       ],
       "name": "NEX CRÉDITO AGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - FIAGRO RESP LIMITADA",
       "currentPrice": 0.0,
@@ -9997,7 +10011,7 @@
     {
       "ticker": "NSLU11",
       "logos": [
-        "data/logos/NSLU11.svg"
+        "data/NSLU11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII HOSPITAL NOSSA SENHORA DE LOURDES RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -10086,7 +10100,7 @@
     {
       "ticker": "OCRE11",
       "logos": [
-        "data/logos/OCRE11.svg"
+        "data/OCRE11.svg"
       ],
       "name": "OCTO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -10146,7 +10160,7 @@
     {
       "ticker": "OIAG11",
       "logos": [
-        "data/logos/OIAG11.svg"
+        "data/OIAG11.svg"
       ],
       "name": "OURINVEST INNOVATION - FIAGRO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -10177,7 +10191,7 @@
     {
       "ticker": "ONDA11",
       "logos": [
-        "data/logos/ONDA11.svg"
+        "data/ONDA11.svg"
       ],
       "name": "ONDA INVEST MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -10353,7 +10367,7 @@
     {
       "ticker": "OUJP11",
       "logos": [
-        "data/logos/OUJP11.svg"
+        "data/OUJP11.svg"
       ],
       "name": "OURINVEST JPP FUNDO DE INVESTIMENTO IMOBILIÁRIO DE  RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -10471,7 +10485,7 @@
     {
       "ticker": "PATA11",
       "logos": [
-        "data/logos/PATA11.svg"
+        "data/PATA11.svg"
       ],
       "name": "PATAGÔNIA CAPITAL MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
       "currentPrice": 0.0,
@@ -10502,7 +10516,7 @@
     {
       "ticker": "PATC11",
       "logos": [
-        "data/logos/PATC11.svg"
+        "data/PATC11.svg"
       ],
       "name": "PÁTRIA EDIFÍCIOS CORPORATIVOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -10562,7 +10576,7 @@
     {
       "ticker": "PCIP11",
       "logos": [
-        "data/logos/PCIP11.svg"
+        "data/PCIP11.svg"
       ],
       "name": "PATRIA CRÉDITO IMOBILIÁRIO ÍNDICE DE PREÇOS FII - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -10650,7 +10664,9 @@
     },
     {
       "ticker": "PEMA11",
-      "logos": [],
+      "logos": [
+        "data/PEMA11.svg"
+      ],
       "name": "PERFORMA REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-07-31T00:00:00.000",
@@ -10709,7 +10725,7 @@
     {
       "ticker": "PLCA11",
       "logos": [
-        "data/logos/PLCA11.svg"
+        "data/PLCA11.svg"
       ],
       "name": "PATRIA CREDITO AGRO FI NAS CADEIAS PRODUTIVAS DO AGRONEGOCIO - FIAGRO - RESP LIMITADA",
       "currentPrice": 0.0,
@@ -10798,7 +10814,7 @@
     {
       "ticker": "PLRI11",
       "logos": [
-        "data/logos/PLRI11.svg"
+        "data/PLRI11.svg"
       ],
       "name": "POLO FII - FII RECEBÍVEIS IMOBILIÁRIOS I - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -10829,7 +10845,7 @@
     {
       "ticker": "PMFO11",
       "logos": [
-        "data/logos/PMFO11.svg"
+        "data/PMFO11.svg"
       ],
       "name": "SPECIALE REAL ESTATE FUND OF FUNDS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -10889,7 +10905,7 @@
     {
       "ticker": "PMLL11",
       "logos": [
-        "data/logos/PMLL11.svg"
+        "data/PMLL11.svg"
       ],
       "name": "Patria Malls Fundo de Investimento Imobiliário - Responsabilidade Limitada",
       "currentPrice": 0.0,
@@ -11007,7 +11023,7 @@
     {
       "ticker": "PNPR11",
       "logos": [
-        "data/logos/PNPR11.svg"
+        "data/PNPR11.svg"
       ],
       "name": "PANORAMA PROPERTIES FUNDO DE INVESTIMENTO IMOBILIÁRIO",
       "currentPrice": 0.0,
@@ -11067,7 +11083,7 @@
     {
       "ticker": "PORD11",
       "logos": [
-        "data/logos/PORD11.svg"
+        "data/PORD11.svg"
       ],
       "name": "POLO CRÉDITO IMOBILIÁRIO - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -11127,7 +11143,7 @@
     {
       "ticker": "PQDP11",
       "logos": [
-        "data/logos/PQDP11.svg"
+        "data/PQDP11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII PARQUE DOM PEDRO SHOPPING CENTER RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -11158,7 +11174,7 @@
     {
       "ticker": "PRSN11",
       "logos": [
-        "data/logos/PRSN11.svg"
+        "data/PRSN11.svg"
       ],
       "name": "PERSONALE I FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -11189,7 +11205,7 @@
     {
       "ticker": "PRSV11",
       "logos": [
-        "data/logos/PRSV11.svg"
+        "data/PRSV11.svg"
       ],
       "name": "PRESIDENTE VARGAS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -11307,7 +11323,7 @@
     {
       "ticker": "PVBI11",
       "logos": [
-        "data/logos/PVBI11.svg"
+        "data/PVBI11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO VBI PRIME PROPERTIES - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -11541,7 +11557,7 @@
     {
       "ticker": "RBDS11",
       "logos": [
-        "data/logos/RBDS11.svg"
+        "data/RBDS11.svg"
       ],
       "name": "RB CAPITAL DESENV. RESIDENCIAL II FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -11630,7 +11646,7 @@
     {
       "ticker": "RBFM11",
       "logos": [
-        "data/logos/RBFM11.svg"
+        "data/RBFM11.svg"
       ],
       "name": "RIO BRAVO MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -11719,7 +11735,7 @@
     {
       "ticker": "RBHG11",
       "logos": [
-        "data/logos/RBHG11.svg"
+        "data/RBHG11.svg"
       ],
       "name": "RIO BRAVO CRÉDITO IMOBILIÁRIO HIGH GRADE FUNDO DE INVESTIMENTO  IMOBILIÁRIO - FII RESP LIMITADA",
       "currentPrice": 0.0,
@@ -11750,7 +11766,7 @@
     {
       "ticker": "RBHY11",
       "logos": [
-        "data/logos/RBHY11.svg"
+        "data/RBHY11.svg"
       ],
       "name": "RIO BRAVO CRÉDITO IMOBILIÁRIO HIGH YIELD FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESP LIMITADA",
       "currentPrice": 0.0,
@@ -11868,7 +11884,7 @@
     {
       "ticker": "RBOP11",
       "logos": [
-        "data/logos/RBOP11.svg"
+        "data/RBOP11.svg"
       ],
       "name": "RIO BRAVO OPORTUNIDADES IMOBILIÁRIAS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -11899,7 +11915,7 @@
     {
       "ticker": "RBRD11",
       "logos": [
-        "data/logos/RBRD11.svg"
+        "data/RBRD11.svg"
       ],
       "name": "RB CAPITAL RENDA II FII DE RESP LIMITADA",
       "currentPrice": 0.0,
@@ -11958,7 +11974,9 @@
     },
     {
       "ticker": "RBRI11",
-      "logos": [],
+      "logos": [
+        "data/RBRI11.svg"
+      ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RBR DESENVOLVIMENTO III RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-07-14T00:00:00.000",
@@ -11988,7 +12006,7 @@
     {
       "ticker": "RBRL11",
       "logos": [
-        "data/logos/RBRL11.svg"
+        "data/RBRL11.svg"
       ],
       "name": "PATRIA LOGÍSTICA II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
       "currentPrice": 0.0,
@@ -12048,7 +12066,7 @@
     {
       "ticker": "RBRP11",
       "logos": [
-        "data/logos/RBRP11.svg"
+        "data/RBRP11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO PATRIA PROPERTIES - FII RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -12079,7 +12097,7 @@
     {
       "ticker": "RBRR11",
       "logos": [
-        "data/logos/RBRR11.svg"
+        "data/RBRR11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII PATRIA RENDIMENTO HIGH GRADE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -12110,7 +12128,7 @@
     {
       "ticker": "RBRS11",
       "logos": [
-        "data/logos/RBRS11.svg"
+        "data/RBRS11.svg"
       ],
       "name": "RIO BRAVO RENDA RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -12141,7 +12159,7 @@
     {
       "ticker": "RBRX11",
       "logos": [
-        "data/logos/RBRX11.svg"
+        "data/RBRX11.svg"
       ],
       "name": "PATRIA PLUS MULTIESTRATÉGIA REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -12172,7 +12190,7 @@
     {
       "ticker": "RBRY11",
       "logos": [
-        "data/logos/RBRY11.svg"
+        "data/RBRY11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO PATRIA CRÉDITO IMOBILIÁRIO ESTRUTURADO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -12232,7 +12250,7 @@
     {
       "ticker": "RBVA11",
       "logos": [
-        "data/logos/RBVA11.svg"
+        "data/RBVA11.svg"
       ],
       "name": "RIO BRAVO RENDA VAREJO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -12292,7 +12310,7 @@
     {
       "ticker": "RCFF11",
       "logos": [
-        "data/logos/RCFF11.svg"
+        "data/RCFF11.svg"
       ],
       "name": "PATRIA DESENVOLVIMENTO COMERCIAL FEEDER FOF - FUNDO DE INVESTIMENTO IMOBILIÁRIO RL",
       "currentPrice": 0.0,
@@ -12323,7 +12341,7 @@
     {
       "ticker": "RCRB11",
       "logos": [
-        "data/logos/RCRB11.svg"
+        "data/RCRB11.svg"
       ],
       "name": "RIO BRAVO RENDA CORPORATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -12441,7 +12459,7 @@
     {
       "ticker": "RDLI11",
       "logos": [
-        "data/logos/RDLI11.svg"
+        "data/RDLI11.svg"
       ],
       "name": "RBR DESENVOLVIMENTO LOGÍSTICO I - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -12530,7 +12548,7 @@
     {
       "ticker": "RECM11",
       "logos": [
-        "data/logos/RECM11.svg"
+        "data/RECM11.svg"
       ],
       "name": "REC MULTIESTRATÉGIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -12561,7 +12579,7 @@
     {
       "ticker": "RECR11",
       "logos": [
-        "data/logos/RECR11.svg"
+        "data/RECR11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII REC RECEBÍVEIS IMOBILIÁRIOS - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -12592,7 +12610,7 @@
     {
       "ticker": "RECT11",
       "logos": [
-        "data/logos/RECT11.svg"
+        "data/RECT11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII REC RENDA IMOBILIÁRIA - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -12681,7 +12699,7 @@
     {
       "ticker": "RELG11",
       "logos": [
-        "data/logos/RELG11.svg"
+        "data/RELG11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO REC LOGÍSTICA - RESPONSABILIDADE  LIMITADA",
       "currentPrice": 0.0,
@@ -12741,7 +12759,7 @@
     {
       "ticker": "RENV11",
       "logos": [
-        "data/logos/RENV11.svg"
+        "data/RENV11.svg"
       ],
       "name": "CPV ENERGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -12801,7 +12819,7 @@
     {
       "ticker": "RINV11",
       "logos": [
-        "data/logos/RINV11.svg"
+        "data/RINV11.svg"
       ],
       "name": "REAL INVESTOR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -12919,7 +12937,7 @@
     {
       "ticker": "RNGO11",
       "logos": [
-        "data/logos/RNGO11.svg"
+        "data/RNGO11.svg"
       ],
       "name": "RIO NEGRO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -12950,7 +12968,7 @@
     {
       "ticker": "ROOF11",
       "logos": [
-        "data/logos/ROOF11.svg"
+        "data/ROOF11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO ROOFTOP I RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -12981,7 +12999,7 @@
     {
       "ticker": "RPRI11",
       "logos": [
-        "data/logos/RPRI11.svg"
+        "data/RPRI11.svg"
       ],
       "name": "RBR PREMIUM RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -13070,7 +13088,7 @@
     {
       "ticker": "RSPD11",
       "logos": [
-        "data/logos/RSPD11.svg"
+        "data/RSPD11.svg"
       ],
       "name": "RB CAPITAL DESENVOLVIMENTO RESIDENCIAL III FII - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -13101,7 +13119,7 @@
     {
       "ticker": "RURA11",
       "logos": [
-        "data/logos/RURA11.svg"
+        "data/RURA11.svg"
       ],
       "name": "ITAÚ ASSET RURAL FIAGRO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -13161,7 +13179,7 @@
     {
       "ticker": "RZAG11",
       "logos": [
-        "data/logos/RZAG11.svg"
+        "data/RZAG11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS RIZA AGRO - FIAGRO - IMOBILIÁRIO",
       "currentPrice": 0.0,
@@ -13221,7 +13239,7 @@
     {
       "ticker": "RZAT11",
       "logos": [
-        "data/logos/RZAT11.svg"
+        "data/RZAT11.svg"
       ],
       "name": "RIZA ARCTIUM REAL ESTATE FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -13339,7 +13357,7 @@
     {
       "ticker": "RZTR11",
       "logos": [
-        "data/logos/RZTR11.svg"
+        "data/RZTR11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RIZA TERRAX",
       "currentPrice": 0.0,
@@ -13515,7 +13533,7 @@
     {
       "ticker": "SAPI11",
       "logos": [
-        "data/logos/SAPI11.svg"
+        "data/SAPI11.svg"
       ],
       "name": "SANTANDER PAPÉIS IMOBILIÁRIOS FUNDO DE  INVESTIMENTO IMOBILIÁRIO - RESP LIMITADA",
       "currentPrice": 0.0,
@@ -13575,7 +13593,7 @@
     {
       "ticker": "SCPF11",
       "logos": [
-        "data/logos/SCPF11.svg"
+        "data/SCPF11.svg"
       ],
       "name": "SCP FII - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -13693,7 +13711,7 @@
     {
       "ticker": "SEQR11",
       "logos": [
-        "data/logos/SEQR11.svg"
+        "data/SEQR11.svg"
       ],
       "name": "SEQUÓIA III RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -13782,7 +13800,7 @@
     {
       "ticker": "SHPH11",
       "logos": [
-        "data/logos/SHPH11.svg"
+        "data/SHPH11.svg"
       ],
       "name": "SHOPPING PÁTIO HIGIENÓPOLIS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -13871,7 +13889,7 @@
     {
       "ticker": "SJAU11",
       "logos": [
-        "data/logos/SJAU11.svg"
+        "data/SJAU11.svg"
       ],
       "name": "SJ AU LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -13931,7 +13949,7 @@
     {
       "ticker": "SNAG11",
       "logos": [
-        "data/logos/SNAG11.svg"
+        "data/SNAG11.svg"
       ],
       "name": "SUNO AGRO - FIAGRO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -13962,7 +13980,7 @@
     {
       "ticker": "SNCI11",
       "logos": [
-        "data/logos/SNCI11.svg"
+        "data/SNCI11.svg"
       ],
       "name": "SUNO RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -14022,7 +14040,7 @@
     {
       "ticker": "SNEL11",
       "logos": [
-        "data/logos/SNEL11.svg"
+        "data/SNEL11.svg"
       ],
       "name": "SUNO ENERGIAS LIMPAS FUNDO DE INVESTIMENTO IMOBILIÁRIO IS RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -14053,7 +14071,7 @@
     {
       "ticker": "SNFF11",
       "logos": [
-        "data/logos/SNFF11.svg"
+        "data/SNFF11.svg"
       ],
       "name": "SUNO FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE",
       "currentPrice": 0.0,
@@ -14084,7 +14102,7 @@
     {
       "ticker": "SNFZ11",
       "logos": [
-        "data/logos/SNFZ11.svg"
+        "data/SNFZ11.svg"
       ],
       "name": "SUNO FAZENDAS FIAGRO",
       "currentPrice": 0.0,
@@ -14144,7 +14162,7 @@
     {
       "ticker": "SNME11",
       "logos": [
-        "data/logos/SNME11.svg"
+        "data/SNME11.svg"
       ],
       "name": "SUNO MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -14320,7 +14338,7 @@
     {
       "ticker": "SPTW11",
       "logos": [
-        "data/logos/SPTW11.svg"
+        "data/SPTW11.svg"
       ],
       "name": "SP DOWNTOWN FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
       "currentPrice": 0.0,
@@ -14351,7 +14369,7 @@
     {
       "ticker": "SPXS11",
       "logos": [
-        "data/logos/SPXS11.svg"
+        "data/SPXS11.svg"
       ],
       "name": "SPX REAL ESTATE MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -14498,7 +14516,7 @@
     {
       "ticker": "TEPP11",
       "logos": [
-        "data/logos/TEPP11.svg"
+        "data/TEPP11.svg"
       ],
       "name": "TELLUS PROPERTIES - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -14529,7 +14547,7 @@
     {
       "ticker": "TGAR11",
       "logos": [
-        "data/logos/TGAR11.svg"
+        "data/TGAR11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TG ATIVO REAL",
       "currentPrice": 0.0,
@@ -14618,7 +14636,7 @@
     {
       "ticker": "TMPS11",
       "logos": [
-        "data/logos/TMPS11.svg"
+        "data/TMPS11.svg"
       ],
       "name": "ITAÚ TEMPUS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -14678,7 +14696,7 @@
     {
       "ticker": "TORD11",
       "logos": [
-        "data/logos/TORD11.svg"
+        "data/TORD11.svg"
       ],
       "name": "TORDESILHAS EI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -14738,7 +14756,7 @@
     {
       "ticker": "TRBL11",
       "logos": [
-        "data/logos/TRBL11.svg"
+        "data/TRBL11.svg"
       ],
       "name": "TELLUS RIO BRAVO RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -14769,7 +14787,7 @@
     {
       "ticker": "TRCO11",
       "logos": [
-        "data/logos/TRCO11.svg"
+        "data/TRCO11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TORRE RIO CLARO OFFICES - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -14800,7 +14818,7 @@
     {
       "ticker": "TRNT11",
       "logos": [
-        "data/logos/TRNT11.svg"
+        "data/TRNT11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII TORRE NORTE",
       "currentPrice": 0.0,
@@ -14831,7 +14849,7 @@
     {
       "ticker": "TRXB11",
       "logos": [
-        "data/logos/TRXB11.svg"
+        "data/TRXB11.svg"
       ],
       "name": "TRX REAL ESTATE II FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -14862,7 +14880,7 @@
     {
       "ticker": "TRXF11",
       "logos": [
-        "data/logos/TRXF11.svg"
+        "data/TRXF11.svg"
       ],
       "name": "TRX REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -15009,7 +15027,7 @@
     {
       "ticker": "TVRI11",
       "logos": [
-        "data/logos/TVRI11.svg"
+        "data/TVRI11.svg"
       ],
       "name": "TIVIO RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -15097,7 +15115,9 @@
     },
     {
       "ticker": "URPR11",
-      "logos": [],
+      "logos": [
+        "data/URPR11.svg"
+      ],
       "name": "URCA PRIME RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-07-31T00:00:00.000",
@@ -15156,7 +15176,7 @@
     {
       "ticker": "VCRA11",
       "logos": [
-        "data/logos/VCRA11.svg"
+        "data/VCRA11.svg"
       ],
       "name": "VECTIS DATAGRO CRÉDITO AGRONEGÓCIO - FI NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO RESP LIMITADA",
       "currentPrice": 0.0,
@@ -15187,7 +15207,7 @@
     {
       "ticker": "VCRI11",
       "logos": [
-        "data/logos/VCRI11.svg"
+        "data/VCRI11.svg"
       ],
       "name": "VINCI CREDIT SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -15218,7 +15238,7 @@
     {
       "ticker": "VCRR11",
       "logos": [
-        "data/logos/VCRR11.svg"
+        "data/VCRR11.svg"
       ],
       "name": "PATRIA RENDA RESIDENCIAL FUNDO DE  INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA I FII",
       "currentPrice": 0.0,
@@ -15307,7 +15327,7 @@
     {
       "ticker": "VGIA11",
       "logos": [
-        "data/logos/VGIA11.svg"
+        "data/VGIA11.svg"
       ],
       "name": "VALORA CRA FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO - FIAGRO",
       "currentPrice": 0.0,
@@ -15338,7 +15358,7 @@
     {
       "ticker": "VGII11",
       "logos": [
-        "data/logos/VGII11.svg"
+        "data/VGII11.svg"
       ],
       "name": "VALORA CRI INFRA II FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -15398,7 +15418,7 @@
     {
       "ticker": "VGIR11",
       "logos": [
-        "data/logos/VGIR11.svg"
+        "data/VGIR11.svg"
       ],
       "name": "VALORA CRI CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -15429,7 +15449,7 @@
     {
       "ticker": "VGRI11",
       "logos": [
-        "data/logos/VGRI11.svg"
+        "data/VGRI11.svg"
       ],
       "name": "VALORA RENDA IMOBILIÁRIA FUNDO DE  INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -15518,7 +15538,7 @@
     {
       "ticker": "VILG11",
       "logos": [
-        "data/logos/VILG11.svg"
+        "data/VILG11.svg"
       ],
       "name": "VINCI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -15578,7 +15598,7 @@
     {
       "ticker": "VISC11",
       "logos": [
-        "data/logos/VISC11.svg"
+        "data/VISC11.svg"
       ],
       "name": "VINCI SHOPPING CENTERS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -15609,7 +15629,7 @@
     {
       "ticker": "VIUR11",
       "logos": [
-        "data/logos/VIUR11.svg"
+        "data/VIUR11.svg"
       ],
       "name": "VINCI IMÓVEIS URBANOS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE  LIMITADA",
       "currentPrice": 0.0,
@@ -15756,7 +15776,7 @@
     {
       "ticker": "VRTA11",
       "logos": [
-        "data/logos/VRTA11.svg"
+        "data/VRTA11.svg"
       ],
       "name": "FATOR VERITA FUNDO DE INVESTIMENTO IMOBILIARIO",
       "currentPrice": 0.0,
@@ -15786,7 +15806,9 @@
     },
     {
       "ticker": "VRTM11",
-      "logos": [],
+      "logos": [
+        "data/VRTM11.svg"
+      ],
       "name": "FATOR VERITÀ MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-07-31T00:00:00.000",
@@ -15874,7 +15896,7 @@
     {
       "ticker": "VSLH11",
       "logos": [
-        "data/logos/VSLH11.svg"
+        "data/VSLH11.svg"
       ],
       "name": "VERSALHES RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -15963,7 +15985,7 @@
     {
       "ticker": "VVCR11",
       "logos": [
-        "data/logos/VVCR11.svg"
+        "data/VVCR11.svg"
       ],
       "name": "V2 RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -15993,7 +16015,9 @@
     },
     {
       "ticker": "VVMR11",
-      "logos": [],
+      "logos": [
+        "data/VVMR11.svg"
+      ],
       "name": "V2 MULTI RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-07-29T00:00:00.000",
@@ -16052,7 +16076,7 @@
     {
       "ticker": "VVRI11",
       "logos": [
-        "data/logos/VVRI11.svg"
+        "data/VVRI11.svg"
       ],
       "name": "V2 RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -16112,7 +16136,7 @@
     {
       "ticker": "WHGR11",
       "logos": [
-        "data/logos/WHGR11.svg"
+        "data/WHGR11.svg"
       ],
       "name": "WHG REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -16143,7 +16167,7 @@
     {
       "ticker": "WPLZ11",
       "logos": [
-        "data/logos/WPLZ11.svg"
+        "data/WPLZ11.svg"
       ],
       "name": "SHOPPING WEST PLAZA FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -16203,7 +16227,7 @@
     {
       "ticker": "WTSP11",
       "logos": [
-        "data/logos/WTSP11.svg"
+        "data/WTSP11.svg"
       ],
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO OURINVEST RE I - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -16234,7 +16258,7 @@
     {
       "ticker": "XLPR11",
       "logos": [
-        "data/logos/XLPR11.svg"
+        "data/XLPR11.svg"
       ],
       "name": "XLPR FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -16265,7 +16289,7 @@
     {
       "ticker": "XPCA11",
       "logos": [
-        "data/logos/XPCA11.svg"
+        "data/XPCA11.svg"
       ],
       "name": "XP CRÉDITO AGRÍCOLA-FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS IMOB.-FIAGRO-IMOB.",
       "currentPrice": 0.0,
@@ -16325,7 +16349,7 @@
     {
       "ticker": "XPCM11",
       "logos": [
-        "data/logos/XPCM11.svg"
+        "data/XPCM11.svg"
       ],
       "name": "XP CORPORATE MACAÉ FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -16414,7 +16438,7 @@
     {
       "ticker": "XPLG11",
       "logos": [
-        "data/logos/XPLG11.svg"
+        "data/XPLG11.svg"
       ],
       "name": "XP LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA - FII",
       "currentPrice": 0.0,
@@ -16445,7 +16469,7 @@
     {
       "ticker": "XPML11",
       "logos": [
-        "data/logos/XPML11.svg"
+        "data/XPML11.svg"
       ],
       "name": "XP MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
       "currentPrice": 0.0,
@@ -16505,7 +16529,7 @@
     {
       "ticker": "XPSF11",
       "logos": [
-        "data/logos/XPSF11.svg"
+        "data/XPSF11.svg"
       ],
       "name": "XP SELECTION FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO - FII",
       "currentPrice": 0.0,
@@ -16652,7 +16676,7 @@
     {
       "ticker": "ZAVC11",
       "logos": [
-        "data/logos/ZAVC11.svg"
+        "data/ZAVC11.svg"
       ],
       "name": "ZAVIT CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -16683,7 +16707,7 @@
     {
       "ticker": "ZAVI11",
       "logos": [
-        "data/logos/ZAVI11.svg"
+        "data/ZAVI11.svg"
       ],
       "name": "ZAVIT REAL ESTATE FUND - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
@@ -16741,7 +16765,7 @@
       "rentPerSquareMeter": 0.0
     }
   ],
-  "lastUpdated": "2026-08-03T16:03:13.665813Z",
+  "lastUpdated": "2026-08-03T18:44:19.195232Z",
   "totalAssets": 560,
   "provider": "Fundamentus"
 }

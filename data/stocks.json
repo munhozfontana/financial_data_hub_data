@@ -3,8 +3,8 @@
     {
       "ticker": "AALR3",
       "logos": [
-        "data/logos/AALR3.png",
-        "data/logos/AALR3.svg"
+        "data/AALR3.png",
+        "data/AALR3.svg"
       ],
       "name": "ALLIAR ON NM",
       "currentPrice": 3.25,
@@ -90,8 +90,8 @@
     {
       "ticker": "ABCB4",
       "logos": [
-        "data/logos/ABCB4.png",
-        "data/logos/ABCB4.svg"
+        "data/ABCB4.png",
+        "data/ABCB4.svg"
       ],
       "name": "ABC Brasil PN N2",
       "currentPrice": 24.0,
@@ -135,8 +135,8 @@
     {
       "ticker": "ABEV3",
       "logos": [
-        "data/logos/ABEV3.png",
-        "data/logos/ABEV3.svg"
+        "data/ABEV3.png",
+        "data/ABEV3.svg"
       ],
       "name": "AMBEV S/A ON",
       "currentPrice": 15.99,
@@ -306,7 +306,7 @@
     {
       "ticker": "ADHM3",
       "logos": [
-        "data/logos/ADHM3.png"
+        "data/ADHM3.png"
       ],
       "name": "ADVANCED-DH ON",
       "currentPrice": 1.56,
@@ -518,8 +518,8 @@
     {
       "ticker": "AERI3",
       "logos": [
-        "data/logos/AERI3.png",
-        "data/logos/AERI3.svg"
+        "data/AERI3.png",
+        "data/AERI3.svg"
       ],
       "name": "AERIS ON NM",
       "currentPrice": 2.15,
@@ -563,7 +563,7 @@
     {
       "ticker": "AESB3",
       "logos": [
-        "data/logos/AESB3.png"
+        "data/AESB3.png"
       ],
       "name": "AES BRASIL ON NM",
       "currentPrice": 8.11,
@@ -691,8 +691,8 @@
     {
       "ticker": "AFLT3",
       "logos": [
-        "data/logos/AFLT3.png",
-        "data/logos/AFLT3.svg"
+        "data/AFLT3.png",
+        "data/AFLT3.svg"
       ],
       "name": "AFLUENTE T ON",
       "currentPrice": 7.17,
@@ -946,8 +946,8 @@
     {
       "ticker": "AGRO3",
       "logos": [
-        "data/logos/AGRO3.png",
-        "data/logos/AGRO3.svg"
+        "data/AGRO3.png",
+        "data/AGRO3.svg"
       ],
       "name": "BRASILAGRO ON NM",
       "currentPrice": 19.04,
@@ -991,8 +991,8 @@
     {
       "ticker": "AGXY3",
       "logos": [
-        "data/logos/AGXY3.png",
-        "data/logos/AGXY3.svg"
+        "data/AGXY3.png",
+        "data/AGXY3.svg"
       ],
       "name": "AGROGALAXY ON NM",
       "currentPrice": 1.76,
@@ -1036,8 +1036,8 @@
     {
       "ticker": "AHEB3",
       "logos": [
-        "data/logos/AHEB3.png",
-        "data/logos/AHEB3.svg"
+        "data/AHEB3.png",
+        "data/AHEB3.svg"
       ],
       "name": "PARQUE ANHEMBI ON",
       "currentPrice": 23.9,
@@ -1081,7 +1081,7 @@
     {
       "ticker": "AHEB5",
       "logos": [
-        "data/logos/AHEB5.png"
+        "data/AHEB5.png"
       ],
       "name": "PARQUE ANHEMBI PNA",
       "currentPrice": 58.0,
@@ -1125,7 +1125,7 @@
     {
       "ticker": "AHEB6",
       "logos": [
-        "data/logos/AHEB6.png"
+        "data/AHEB6.png"
       ],
       "name": "PARQUE ANHEMBI PNB",
       "currentPrice": 55.0,
@@ -1211,8 +1211,8 @@
     {
       "ticker": "ALLD3",
       "logos": [
-        "data/logos/ALLD3.png",
-        "data/logos/ALLD3.svg"
+        "data/ALLD3.png",
+        "data/ALLD3.svg"
       ],
       "name": "ALLIED ON NM",
       "currentPrice": 4.58,
@@ -1382,8 +1382,8 @@
     {
       "ticker": "ALOS3",
       "logos": [
-        "data/logos/ALOS3.png",
-        "data/logos/ALOS3.svg"
+        "data/ALOS3.png",
+        "data/ALOS3.svg"
       ],
       "name": "ALLOS ON",
       "currentPrice": 27.09,
@@ -1427,8 +1427,8 @@
     {
       "ticker": "ALPA3",
       "logos": [
-        "data/logos/ALPA3.png",
-        "data/logos/ALPA3.svg"
+        "data/ALPA3.png",
+        "data/ALPA3.svg"
       ],
       "name": "ALPARGATAS ON N1",
       "currentPrice": 9.1,
@@ -1472,7 +1472,7 @@
     {
       "ticker": "ALPA4",
       "logos": [
-        "data/logos/ALPA4.png"
+        "data/ALPA4.png"
       ],
       "name": "ALPARGATAS PN N1",
       "currentPrice": 12.27,
@@ -1516,8 +1516,8 @@
     {
       "ticker": "ALPK3",
       "logos": [
-        "data/logos/ALPK3.png",
-        "data/logos/ALPK3.svg"
+        "data/ALPK3.png",
+        "data/ALPK3.svg"
       ],
       "name": "ESTAPAR ON NM",
       "currentPrice": 4.39,
@@ -1603,7 +1603,7 @@
     {
       "ticker": "ALUP11",
       "logos": [
-        "data/logos/ALUP11.png"
+        "data/ALUP11.png"
       ],
       "name": "ALUPAR UNT N2",
       "currentPrice": 32.62,
@@ -1647,8 +1647,8 @@
     {
       "ticker": "ALUP3",
       "logos": [
-        "data/logos/ALUP3.png",
-        "data/logos/ALUP3.svg"
+        "data/ALUP3.png",
+        "data/ALUP3.svg"
       ],
       "name": "ALUPAR ON N2",
       "currentPrice": 11.53,
@@ -1692,7 +1692,7 @@
     {
       "ticker": "ALUP4",
       "logos": [
-        "data/logos/ALUP4.png"
+        "data/ALUP4.png"
       ],
       "name": "ALUPAR PN N2",
       "currentPrice": 10.53,
@@ -1736,8 +1736,8 @@
     {
       "ticker": "AMAR3",
       "logos": [
-        "data/logos/AMAR3.png",
-        "data/logos/AMAR3.svg"
+        "data/AMAR3.png",
+        "data/AMAR3.svg"
       ],
       "name": "LOJAS MARISA ON NM",
       "currentPrice": 0.57,
@@ -1781,8 +1781,8 @@
     {
       "ticker": "AMBP3",
       "logos": [
-        "data/logos/AMBP3.png",
-        "data/logos/AMBP3.svg"
+        "data/AMBP3.png",
+        "data/AMBP3.svg"
       ],
       "name": "AMBIPAR ON NM",
       "currentPrice": 0.17,
@@ -1910,8 +1910,8 @@
     {
       "ticker": "AMER3",
       "logos": [
-        "data/logos/AMER3.png",
-        "data/logos/AMER3.svg"
+        "data/AMER3.png",
+        "data/AMER3.svg"
       ],
       "name": "AMERICANAS ON",
       "currentPrice": 4.64,
@@ -1997,7 +1997,7 @@
     {
       "ticker": "AMOB3",
       "logos": [
-        "data/logos/AMOB3.svg"
+        "data/AMOB3.svg"
       ],
       "name": "AUTOMOB ON NM",
       "currentPrice": 13.25,
@@ -2083,8 +2083,8 @@
     {
       "ticker": "ANIM3",
       "logos": [
-        "data/logos/ANIM3.png",
-        "data/logos/ANIM3.svg"
+        "data/ANIM3.png",
+        "data/ANIM3.svg"
       ],
       "name": "ANIMA ON NM",
       "currentPrice": 2.18,
@@ -2128,7 +2128,7 @@
     {
       "ticker": "APER3",
       "logos": [
-        "data/logos/APER3.png"
+        "data/APER3.png"
       ],
       "name": "ALPER S.A. ON",
       "currentPrice": 46.75,
@@ -2172,7 +2172,7 @@
     {
       "ticker": "APTI4",
       "logos": [
-        "data/logos/APTI4.png"
+        "data/APTI4.png"
       ],
       "name": "ALIPERTI PN",
       "currentPrice": 3500.0,
@@ -2426,8 +2426,8 @@
     {
       "ticker": "ARML3",
       "logos": [
-        "data/logos/ARML3.png",
-        "data/logos/ARML3.svg"
+        "data/ARML3.png",
+        "data/ARML3.svg"
       ],
       "name": "ARMAC ON NM",
       "currentPrice": 3.56,
@@ -2471,8 +2471,8 @@
     {
       "ticker": "ARND3",
       "logos": [
-        "data/logos/ARND3.png",
-        "data/logos/ARND3.svg"
+        "data/ARND3.png",
+        "data/ARND3.svg"
       ],
       "name": "ARANDU ON NM",
       "currentPrice": 0.5,
@@ -2726,8 +2726,8 @@
     {
       "ticker": "ASAI3",
       "logos": [
-        "data/logos/ASAI3.png",
-        "data/logos/ASAI3.svg"
+        "data/ASAI3.png",
+        "data/ASAI3.svg"
       ],
       "name": "ASSAI ON NM",
       "currentPrice": 8.5,
@@ -2897,7 +2897,7 @@
     {
       "ticker": "ATED3",
       "logos": [
-        "data/logos/ATED3.svg"
+        "data/ATED3.svg"
       ],
       "name": "ATOM EDUC ON",
       "currentPrice": 1.49,
@@ -2941,7 +2941,7 @@
     {
       "ticker": "AUAU3",
       "logos": [
-        "data/logos/AUAU3.svg"
+        "data/AUAU3.svg"
       ],
       "name": "PETZCOBASI ON NM",
       "currentPrice": 3.49,
@@ -3027,8 +3027,8 @@
     {
       "ticker": "AURE3",
       "logos": [
-        "data/logos/AURE3.png",
-        "data/logos/AURE3.svg"
+        "data/AURE3.png",
+        "data/AURE3.svg"
       ],
       "name": "AUREN ON NM",
       "currentPrice": 10.98,
@@ -3156,8 +3156,8 @@
     {
       "ticker": "AVLL3",
       "logos": [
-        "data/logos/AVLL3.png",
-        "data/logos/AVLL3.svg"
+        "data/AVLL3.png",
+        "data/AVLL3.svg"
       ],
       "name": "ALPHAVILLE ON NM",
       "currentPrice": 10.5,
@@ -3201,8 +3201,8 @@
     {
       "ticker": "AXIA3",
       "logos": [
-        "data/logos/AXIA3.png",
-        "data/logos/AXIA3.svg"
+        "data/AXIA3.png",
+        "data/AXIA3.svg"
       ],
       "name": "AXIA ENERGIA ON N1",
       "currentPrice": 52.82,
@@ -3246,7 +3246,7 @@
     {
       "ticker": "AXIA6",
       "logos": [
-        "data/logos/AXIA6.png"
+        "data/AXIA6.png"
       ],
       "name": "AXIA ENERGIA PNB N1",
       "currentPrice": 55.78,
@@ -3290,8 +3290,8 @@
     {
       "ticker": "AZEV3",
       "logos": [
-        "data/logos/AZEV3.png",
-        "data/logos/AZEV3.svg"
+        "data/AZEV3.png",
+        "data/AZEV3.svg"
       ],
       "name": "AZEVEDO & TRAVASSOS ON",
       "currentPrice": 4.5,
@@ -3335,7 +3335,7 @@
     {
       "ticker": "AZEV4",
       "logos": [
-        "data/logos/AZEV4.png"
+        "data/AZEV4.png"
       ],
       "name": "AZEVEDO & TRAVASSOS PN",
       "currentPrice": 2.14,
@@ -3379,7 +3379,7 @@
     {
       "ticker": "AZTE3",
       "logos": [
-        "data/logos/AZTE3.svg"
+        "data/AZTE3.svg"
       ],
       "name": "AZT ENERGIA ON",
       "currentPrice": 1.63,
@@ -3423,7 +3423,7 @@
     {
       "ticker": "AZUL3",
       "logos": [
-        "data/logos/AZUL3.svg"
+        "data/AZUL3.svg"
       ],
       "name": "AZUL ON N2",
       "currentPrice": 22.16,
@@ -3509,8 +3509,8 @@
     {
       "ticker": "AZZA3",
       "logos": [
-        "data/logos/AZZA3.png",
-        "data/logos/AZZA3.svg"
+        "data/AZZA3.png",
+        "data/AZZA3.svg"
       ],
       "name": "AZZAS 2154 ON",
       "currentPrice": 16.42,
@@ -3554,8 +3554,8 @@
     {
       "ticker": "B3SA3",
       "logos": [
-        "data/logos/B3SA3.png",
-        "data/logos/B3SA3.svg"
+        "data/B3SA3.png",
+        "data/B3SA3.svg"
       ],
       "name": "B3 ON",
       "currentPrice": 15.73,
@@ -3725,8 +3725,8 @@
     {
       "ticker": "BALM3",
       "logos": [
-        "data/logos/BALM3.png",
-        "data/logos/BALM3.svg"
+        "data/BALM3.png",
+        "data/BALM3.svg"
       ],
       "name": "BAUMER ON",
       "currentPrice": 26.0,
@@ -3770,7 +3770,7 @@
     {
       "ticker": "BALM4",
       "logos": [
-        "data/logos/BALM4.png"
+        "data/BALM4.png"
       ],
       "name": "BAUMER PN",
       "currentPrice": 16.01,
@@ -3814,7 +3814,7 @@
     {
       "ticker": "BAUH4",
       "logos": [
-        "data/logos/BAUH4.png"
+        "data/BAUH4.png"
       ],
       "name": "EXCELSIOR PN",
       "currentPrice": 93.9,
@@ -3858,8 +3858,8 @@
     {
       "ticker": "BAZA3",
       "logos": [
-        "data/logos/BAZA3.png",
-        "data/logos/BAZA3.svg"
+        "data/BAZA3.png",
+        "data/BAZA3.svg"
       ],
       "name": "BANCO DA AMAZONIA S.A. ON",
       "currentPrice": 62.99,
@@ -3903,7 +3903,8 @@
     {
       "ticker": "BBAS3",
       "logos": [
-        "data/logos/BBAS3.png"
+        "data/BBAS3.png",
+        "data/BBAS3.svg"
       ],
       "name": "BANCO DO BRASIL S.A. ON",
       "currentPrice": 21.35,
@@ -3947,8 +3948,8 @@
     {
       "ticker": "BBDC3",
       "logos": [
-        "data/logos/BBDC3.png",
-        "data/logos/BBDC3.svg"
+        "data/BBDC3.png",
+        "data/BBDC3.svg"
       ],
       "name": "BANCO BRADESCO S.A. ON N1",
       "currentPrice": 15.99,
@@ -3992,7 +3993,7 @@
     {
       "ticker": "BBDC4",
       "logos": [
-        "data/logos/BBDC4.png"
+        "data/BBDC4.png"
       ],
       "name": "BANCO BRADESCO S.A. PN N1",
       "currentPrice": 18.43,
@@ -4036,8 +4037,8 @@
     {
       "ticker": "BBSE3",
       "logos": [
-        "data/logos/BBSE3.png",
-        "data/logos/BBSE3.svg"
+        "data/BBSE3.png",
+        "data/BBSE3.svg"
       ],
       "name": "BBSEGURIDADE ON NM",
       "currentPrice": 41.26,
@@ -4249,8 +4250,8 @@
     {
       "ticker": "BDLL3",
       "logos": [
-        "data/logos/BDLL3.png",
-        "data/logos/BDLL3.svg"
+        "data/BDLL3.png",
+        "data/BDLL3.svg"
       ],
       "name": "BARDELLA ON",
       "currentPrice": 4.1,
@@ -4294,7 +4295,7 @@
     {
       "ticker": "BDLL4",
       "logos": [
-        "data/logos/BDLL4.png"
+        "data/BDLL4.png"
       ],
       "name": "BARDELLA PN",
       "currentPrice": 3.6,
@@ -4422,8 +4423,8 @@
     {
       "ticker": "BEEF3",
       "logos": [
-        "data/logos/BEEF3.png",
-        "data/logos/BEEF3.svg"
+        "data/BEEF3.png",
+        "data/BEEF3.svg"
       ],
       "name": "Minerva ON NM",
       "currentPrice": 3.66,
@@ -4467,8 +4468,8 @@
     {
       "ticker": "BEES3",
       "logos": [
-        "data/logos/BEES3.png",
-        "data/logos/BEES3.svg"
+        "data/BEES3.png",
+        "data/BEES3.svg"
       ],
       "name": "BANESTES S/A ON",
       "currentPrice": 8.74,
@@ -4512,7 +4513,7 @@
     {
       "ticker": "BEES4",
       "logos": [
-        "data/logos/BEES4.png"
+        "data/BEES4.png"
       ],
       "name": "BANESTES S/A PN",
       "currentPrice": 9.14,
@@ -4892,8 +4893,8 @@
     {
       "ticker": "BGIP3",
       "logos": [
-        "data/logos/BGIP3.png",
-        "data/logos/BGIP3.svg"
+        "data/BGIP3.png",
+        "data/BGIP3.svg"
       ],
       "name": "BANESE ON",
       "currentPrice": 47.3,
@@ -4937,7 +4938,7 @@
     {
       "ticker": "BGIP4",
       "logos": [
-        "data/logos/BGIP4.png"
+        "data/BGIP4.png"
       ],
       "name": "BANESE PN",
       "currentPrice": 32.71,
@@ -5023,8 +5024,8 @@
     {
       "ticker": "BHIA3",
       "logos": [
-        "data/logos/BHIA3.png",
-        "data/logos/BHIA3.svg"
+        "data/BHIA3.png",
+        "data/BHIA3.svg"
       ],
       "name": "CASAS BAHIA ON",
       "currentPrice": 0.78,
@@ -5152,7 +5153,7 @@
     {
       "ticker": "BIDI11",
       "logos": [
-        "data/logos/BIDI11.png"
+        "data/BIDI11.png"
       ],
       "name": "BANCO INTER UNT N2",
       "currentPrice": 10.4,
@@ -5196,7 +5197,7 @@
     {
       "ticker": "BIDI3",
       "logos": [
-        "data/logos/BIDI3.png"
+        "data/BIDI3.png"
       ],
       "name": "BANCO INTER ON N2",
       "currentPrice": 3.4,
@@ -5240,7 +5241,7 @@
     {
       "ticker": "BIDI4",
       "logos": [
-        "data/logos/BIDI4.png"
+        "data/BIDI4.png"
       ],
       "name": "BANCO INTER PN N2",
       "currentPrice": 3.41,
@@ -5284,7 +5285,7 @@
     {
       "ticker": "BIED3",
       "logos": [
-        "data/logos/BIED3.svg"
+        "data/BIED3.svg"
       ],
       "name": "BIOMA EDUC ON",
       "currentPrice": 7.19,
@@ -5328,8 +5329,8 @@
     {
       "ticker": "BIOM3",
       "logos": [
-        "data/logos/BIOM3.png",
-        "data/logos/BIOM3.svg"
+        "data/BIOM3.png",
+        "data/BIOM3.svg"
       ],
       "name": "BIOMM SA ON",
       "currentPrice": 5.51,
@@ -5457,8 +5458,8 @@
     {
       "ticker": "BLAU3",
       "logos": [
-        "data/logos/BLAU3.png",
-        "data/logos/BLAU3.svg"
+        "data/BLAU3.png",
+        "data/BLAU3.svg"
       ],
       "name": "BLAU ON NM",
       "currentPrice": 8.6,
@@ -5502,7 +5503,7 @@
     {
       "ticker": "BLUT3",
       "logos": [
-        "data/logos/BLUT3.png"
+        "data/BLUT3.png"
       ],
       "name": "B TECH EQI ON",
       "currentPrice": 5.14,
@@ -5546,7 +5547,7 @@
     {
       "ticker": "BLUT4",
       "logos": [
-        "data/logos/BLUT4.png"
+        "data/BLUT4.png"
       ],
       "name": "B TECH EQI PN",
       "currentPrice": 1.52,
@@ -5590,8 +5591,8 @@
     {
       "ticker": "BMEB3",
       "logos": [
-        "data/logos/BMEB3.png",
-        "data/logos/BMEB3.svg"
+        "data/BMEB3.png",
+        "data/BMEB3.svg"
       ],
       "name": "BANCO MERCANTIL DO BRASIL S/A ON",
       "currentPrice": 49.05,
@@ -5635,7 +5636,7 @@
     {
       "ticker": "BMEB4",
       "logos": [
-        "data/logos/BMEB4.png"
+        "data/BMEB4.png"
       ],
       "name": "BANCO MERCANTIL DO BRASIL S/A PN",
       "currentPrice": 57.9,
@@ -5763,8 +5764,8 @@
     {
       "ticker": "BMGB4",
       "logos": [
-        "data/logos/BMGB4.png",
-        "data/logos/BMGB4.svg"
+        "data/BMGB4.png",
+        "data/BMGB4.svg"
       ],
       "name": "BANCO BMG PN N1",
       "currentPrice": 5.32,
@@ -5808,7 +5809,7 @@
     {
       "ticker": "BMIN3",
       "logos": [
-        "data/logos/BMIN3.png"
+        "data/BMIN3.png"
       ],
       "name": "BANCO MERCANTIL DE INVESTIMENTOS SA ON",
       "currentPrice": 21.49,
@@ -5852,7 +5853,7 @@
     {
       "ticker": "BMIN4",
       "logos": [
-        "data/logos/BMIN4.png"
+        "data/BMIN4.png"
       ],
       "name": "BANCO MERCANTIL DE INVESTIMENTOS SA PN",
       "currentPrice": 17.6,
@@ -5896,8 +5897,8 @@
     {
       "ticker": "BMKS3",
       "logos": [
-        "data/logos/BMKS3.png",
-        "data/logos/BMKS3.svg"
+        "data/BMKS3.png",
+        "data/BMKS3.svg"
       ],
       "name": "MONARK ON",
       "currentPrice": 377.21,
@@ -5941,8 +5942,8 @@
     {
       "ticker": "BMOB3",
       "logos": [
-        "data/logos/BMOB3.png",
-        "data/logos/BMOB3.svg"
+        "data/BMOB3.png",
+        "data/BMOB3.svg"
       ],
       "name": "BEMOBI TECH ON NM",
       "currentPrice": 23.8,
@@ -6070,8 +6071,8 @@
     {
       "ticker": "BNBR3",
       "logos": [
-        "data/logos/BNBR3.png",
-        "data/logos/BNBR3.svg"
+        "data/BNBR3.png",
+        "data/BNBR3.svg"
       ],
       "name": "BANCO DO NORDESTE ON",
       "currentPrice": 116.0,
@@ -6199,7 +6200,7 @@
     {
       "ticker": "BOAS3",
       "logos": [
-        "data/logos/BOAS3.png"
+        "data/BOAS3.png"
       ],
       "name": "BOA VISTA ON NM",
       "currentPrice": 7.95,
@@ -6243,7 +6244,7 @@
     {
       "ticker": "BOBR3",
       "logos": [
-        "data/logos/BOBR3.png"
+        "data/BOBR3.png"
       ],
       "name": "BOMBRIL SA ON",
       "currentPrice": 1.0,
@@ -6287,7 +6288,7 @@
     {
       "ticker": "BOBR4",
       "logos": [
-        "data/logos/BOBR4.png"
+        "data/BOBR4.png"
       ],
       "name": "BOMBRIL SA PN",
       "currentPrice": 1.21,
@@ -6373,7 +6374,7 @@
     {
       "ticker": "BPAC11",
       "logos": [
-        "data/logos/BPAC11.png"
+        "data/BPAC11.png"
       ],
       "name": "BTGP BANCO UNT",
       "currentPrice": 56.8,
@@ -6417,8 +6418,8 @@
     {
       "ticker": "BPAC3",
       "logos": [
-        "data/logos/BPAC3.png",
-        "data/logos/BPAC3.svg"
+        "data/BPAC3.png",
+        "data/BPAC3.svg"
       ],
       "name": "BTGP BANCO ON",
       "currentPrice": 22.12,
@@ -6462,7 +6463,7 @@
     {
       "ticker": "BPAC5",
       "logos": [
-        "data/logos/BPAC5.png"
+        "data/BPAC5.png"
       ],
       "name": "BTGP BANCO PNA",
       "currentPrice": 17.75,
@@ -6506,7 +6507,7 @@
     {
       "ticker": "BPAN4",
       "logos": [
-        "data/logos/BPAN4.png"
+        "data/BPAN4.png"
       ],
       "name": "BANCO PAN PN",
       "currentPrice": 12.75,
@@ -6550,7 +6551,7 @@
     {
       "ticker": "BPAR3",
       "logos": [
-        "data/logos/BPAR3.png"
+        "data/BPAR3.png"
       ],
       "name": "BANPARÁ S.A. ON",
       "currentPrice": 180.0,
@@ -6594,7 +6595,7 @@
     {
       "ticker": "BPAT33",
       "logos": [
-        "data/logos/BPAT33.png"
+        "data/BPAT33.png"
       ],
       "name": "Patagonia DR3",
       "currentPrice": 20.0,
@@ -6638,7 +6639,7 @@
     {
       "ticker": "BPHA3",
       "logos": [
-        "data/logos/BPHA3.png"
+        "data/BPHA3.png"
       ],
       "name": "BRAZIL PHARMA S.A. ON NM",
       "currentPrice": 0.62,
@@ -6766,8 +6767,8 @@
     {
       "ticker": "BRAP3",
       "logos": [
-        "data/logos/BRAP3.png",
-        "data/logos/BRAP3.svg"
+        "data/BRAP3.png",
+        "data/BRAP3.svg"
       ],
       "name": "BRADESPAR S/A ON N1",
       "currentPrice": 18.6,
@@ -6811,7 +6812,7 @@
     {
       "ticker": "BRAP4",
       "logos": [
-        "data/logos/BRAP4.png"
+        "data/BRAP4.png"
       ],
       "name": "BRADESPAR S/A PN N1",
       "currentPrice": 22.0,
@@ -6855,8 +6856,8 @@
     {
       "ticker": "BRAV3",
       "logos": [
-        "data/logos/BRAV3.png",
-        "data/logos/BRAV3.svg"
+        "data/BRAV3.png",
+        "data/BRAV3.svg"
       ],
       "name": "BRAVA ON",
       "currentPrice": 19.8,
@@ -6900,7 +6901,7 @@
     {
       "ticker": "BRBI11",
       "logos": [
-        "data/logos/BRBI11.png"
+        "data/BRBI11.png"
       ],
       "name": "BR PARTNERS UNT N2",
       "currentPrice": 14.38,
@@ -6944,7 +6945,7 @@
     {
       "ticker": "BRFS3",
       "logos": [
-        "data/logos/BRFS3.png"
+        "data/BRFS3.png"
       ],
       "name": "BRF Foods ON NM",
       "currentPrice": 17.95,
@@ -6988,7 +6989,7 @@
     {
       "ticker": "BRGE11",
       "logos": [
-        "data/logos/BRGE11.png"
+        "data/BRGE11.png"
       ],
       "name": "CONSORCIO ALFA PNE",
       "currentPrice": 13.18,
@@ -7032,7 +7033,7 @@
     {
       "ticker": "BRGE12",
       "logos": [
-        "data/logos/BRGE12.png"
+        "data/BRGE12.png"
       ],
       "name": "CONSORCIO ALFA PNF",
       "currentPrice": 13.47,
@@ -7076,7 +7077,7 @@
     {
       "ticker": "BRGE3",
       "logos": [
-        "data/logos/BRGE3.png"
+        "data/BRGE3.png"
       ],
       "name": "CONSORCIO ALFA ON",
       "currentPrice": 13.5,
@@ -7120,7 +7121,7 @@
     {
       "ticker": "BRGE5",
       "logos": [
-        "data/logos/BRGE5.png"
+        "data/BRGE5.png"
       ],
       "name": "CONSORCIO ALFA PNA",
       "currentPrice": 13.18,
@@ -7164,7 +7165,7 @@
     {
       "ticker": "BRGE6",
       "logos": [
-        "data/logos/BRGE6.png"
+        "data/BRGE6.png"
       ],
       "name": "CONSORCIO ALFA PNB",
       "currentPrice": 12.92,
@@ -7208,7 +7209,7 @@
     {
       "ticker": "BRGE7",
       "logos": [
-        "data/logos/BRGE7.png"
+        "data/BRGE7.png"
       ],
       "name": "CONSORCIO ALFA PNC",
       "currentPrice": 13.07,
@@ -7252,7 +7253,7 @@
     {
       "ticker": "BRGE8",
       "logos": [
-        "data/logos/BRGE8.png"
+        "data/BRGE8.png"
       ],
       "name": "CONSORCIO ALFA PND",
       "currentPrice": 13.17,
@@ -7338,7 +7339,7 @@
     {
       "ticker": "BRIV3",
       "logos": [
-        "data/logos/BRIV3.png"
+        "data/BRIV3.png"
       ],
       "name": "ALFA DE INVESTIMENTO ON",
       "currentPrice": 12.86,
@@ -7382,7 +7383,7 @@
     {
       "ticker": "BRIV4",
       "logos": [
-        "data/logos/BRIV4.png"
+        "data/BRIV4.png"
       ],
       "name": "ALFA DE INVESTIMENTO PN",
       "currentPrice": 12.54,
@@ -7426,8 +7427,8 @@
     {
       "ticker": "BRKM3",
       "logos": [
-        "data/logos/BRKM3.png",
-        "data/logos/BRKM3.svg"
+        "data/BRKM3.png",
+        "data/BRKM3.svg"
       ],
       "name": "BRASKEM ON N1",
       "currentPrice": 5.0,
@@ -7471,7 +7472,7 @@
     {
       "ticker": "BRKM5",
       "logos": [
-        "data/logos/BRKM5.png"
+        "data/BRKM5.png"
       ],
       "name": "BRASKEM PNA N1",
       "currentPrice": 5.97,
@@ -7515,7 +7516,7 @@
     {
       "ticker": "BRKM6",
       "logos": [
-        "data/logos/BRKM6.png"
+        "data/BRKM6.png"
       ],
       "name": "BRASKEM PNB N1",
       "currentPrice": 6.0,
@@ -7559,7 +7560,7 @@
     {
       "ticker": "BRML3",
       "logos": [
-        "data/logos/BRML3.png"
+        "data/BRML3.png"
       ],
       "name": "BR MALLS PARTICIPAÇÔES S/A ON",
       "currentPrice": 8.26,
@@ -7603,7 +7604,7 @@
     {
       "ticker": "BRPR3",
       "logos": [
-        "data/logos/BRPR3.png"
+        "data/BRPR3.png"
       ],
       "name": "BR PROPERTIES ON NM",
       "currentPrice": 131.17,
@@ -7647,8 +7648,8 @@
     {
       "ticker": "BRSR3",
       "logos": [
-        "data/logos/BRSR3.png",
-        "data/logos/BRSR3.svg"
+        "data/BRSR3.png",
+        "data/BRSR3.svg"
       ],
       "name": "BANRISUL S/A ON",
       "currentPrice": 17.71,
@@ -7734,7 +7735,7 @@
     {
       "ticker": "BRSR5",
       "logos": [
-        "data/logos/BRSR5.png"
+        "data/BRSR5.png"
       ],
       "name": "BANRISUL S/A PNA",
       "currentPrice": 15.93,
@@ -7778,7 +7779,7 @@
     {
       "ticker": "BRSR6",
       "logos": [
-        "data/logos/BRSR6.png"
+        "data/BRSR6.png"
       ],
       "name": "BANRISUL S/A PNB",
       "currentPrice": 14.06,
@@ -7822,8 +7823,8 @@
     {
       "ticker": "BRST3",
       "logos": [
-        "data/logos/BRST3.png",
-        "data/logos/BRST3.svg"
+        "data/BRST3.png",
+        "data/BRST3.svg"
       ],
       "name": "BRISANET ON NM",
       "currentPrice": 2.76,
@@ -8077,7 +8078,7 @@
     {
       "ticker": "BSEV3",
       "logos": [
-        "data/logos/BSEV3.png"
+        "data/BSEV3.png"
       ],
       "name": "BIOSEV ON NM",
       "currentPrice": 9.0,
@@ -8163,8 +8164,8 @@
     {
       "ticker": "BSLI3",
       "logos": [
-        "data/logos/BSLI3.png",
-        "data/logos/BSLI3.svg"
+        "data/BSLI3.png",
+        "data/BSLI3.svg"
       ],
       "name": "BRB ON",
       "currentPrice": 2.95,
@@ -8208,7 +8209,7 @@
     {
       "ticker": "BSLI4",
       "logos": [
-        "data/logos/BSLI4.png"
+        "data/BSLI4.png"
       ],
       "name": "BRB ON",
       "currentPrice": 3.04,
@@ -8420,8 +8421,8 @@
     {
       "ticker": "CALI3",
       "logos": [
-        "data/logos/CALI3.png",
-        "data/logos/CALI3.svg"
+        "data/CALI3.png",
+        "data/CALI3.svg"
       ],
       "name": "CAL S/A ON",
       "currentPrice": 29.99,
@@ -8465,7 +8466,7 @@
     {
       "ticker": "CALI4",
       "logos": [
-        "data/logos/CALI4.png"
+        "data/CALI4.png"
       ],
       "name": "CAL S/A PN",
       "currentPrice": 50.0,
@@ -8509,8 +8510,8 @@
     {
       "ticker": "CAMB3",
       "logos": [
-        "data/logos/CAMB3.png",
-        "data/logos/CAMB3.svg"
+        "data/CAMB3.png",
+        "data/CAMB3.svg"
       ],
       "name": "PENALTY ON",
       "currentPrice": 9.33,
@@ -8554,7 +8555,7 @@
     {
       "ticker": "CAMB4",
       "logos": [
-        "data/logos/CAMB4.png"
+        "data/CAMB4.png"
       ],
       "name": "PENALTY PN",
       "currentPrice": 6.25,
@@ -8598,8 +8599,8 @@
     {
       "ticker": "CAML3",
       "logos": [
-        "data/logos/CAML3.png",
-        "data/logos/CAML3.svg"
+        "data/CAML3.png",
+        "data/CAML3.svg"
       ],
       "name": "CAMIL ON NM",
       "currentPrice": 4.69,
@@ -8643,8 +8644,8 @@
     {
       "ticker": "CASH3",
       "logos": [
-        "data/logos/CASH3.png",
-        "data/logos/CASH3.svg"
+        "data/CASH3.png",
+        "data/CASH3.svg"
       ],
       "name": "MELIUZ ON NM",
       "currentPrice": 4.58,
@@ -8688,7 +8689,7 @@
     {
       "ticker": "CASN3",
       "logos": [
-        "data/logos/CASN3.png"
+        "data/CASN3.png"
       ],
       "name": "CASAN ON",
       "currentPrice": 10.45,
@@ -8732,8 +8733,8 @@
     {
       "ticker": "CBAV3",
       "logos": [
-        "data/logos/CBAV3.png",
-        "data/logos/CBAV3.svg"
+        "data/CBAV3.png",
+        "data/CBAV3.svg"
       ],
       "name": "CBA ON NM",
       "currentPrice": 11.08,
@@ -8777,8 +8778,8 @@
     {
       "ticker": "CBEE3",
       "logos": [
-        "data/logos/CBEE3.png",
-        "data/logos/CBEE3.svg"
+        "data/CBEE3.png",
+        "data/CBEE3.svg"
       ],
       "name": "AMPLA ENERG ON",
       "currentPrice": 10.01,
@@ -9116,7 +9117,7 @@
     {
       "ticker": "CCXC3",
       "logos": [
-        "data/logos/CCXC3.png"
+        "data/CCXC3.png"
       ],
       "name": "CCX CARVAO ON NM",
       "currentPrice": 1.16,
@@ -9160,8 +9161,8 @@
     {
       "ticker": "CEAB3",
       "logos": [
-        "data/logos/CEAB3.png",
-        "data/logos/CEAB3.svg"
+        "data/CEAB3.png",
+        "data/CEAB3.svg"
       ],
       "name": "CEA MODAS ON NM",
       "currentPrice": 9.44,
@@ -9205,8 +9206,8 @@
     {
       "ticker": "CEBR3",
       "logos": [
-        "data/logos/CEBR3.png",
-        "data/logos/CEBR3.svg"
+        "data/CEBR3.png",
+        "data/CEBR3.svg"
       ],
       "name": "CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA ON",
       "currentPrice": 23.67,
@@ -9250,7 +9251,7 @@
     {
       "ticker": "CEBR5",
       "logos": [
-        "data/logos/CEBR5.png"
+        "data/CEBR5.png"
       ],
       "name": "CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA PNA",
       "currentPrice": 23.77,
@@ -9294,7 +9295,7 @@
     {
       "ticker": "CEBR6",
       "logos": [
-        "data/logos/CEBR6.png"
+        "data/CEBR6.png"
       ],
       "name": "CEB - COMPANHIA ENERGÉTICA DE BRASÍLIA PNB",
       "currentPrice": 28.0,
@@ -9338,7 +9339,7 @@
     {
       "ticker": "CEDO3",
       "logos": [
-        "data/logos/CEDO3.png"
+        "data/CEDO3.png"
       ],
       "name": "CIA. DE FIAÇÃO E TECIDOS CEDRO CACHOEIRA ON",
       "currentPrice": 9.0,
@@ -9382,7 +9383,7 @@
     {
       "ticker": "CEDO4",
       "logos": [
-        "data/logos/CEDO4.png"
+        "data/CEDO4.png"
       ],
       "name": "CIA. DE FIAÇÃO E TECIDOS CEDRO CACHOEIRA PN",
       "currentPrice": 6.24,
@@ -9426,8 +9427,8 @@
     {
       "ticker": "CEEB3",
       "logos": [
-        "data/logos/CEEB3.png",
-        "data/logos/CEEB3.svg"
+        "data/CEEB3.png",
+        "data/CEEB3.svg"
       ],
       "name": "COELBA ON",
       "currentPrice": 46.51,
@@ -9471,7 +9472,7 @@
     {
       "ticker": "CEEB5",
       "logos": [
-        "data/logos/CEEB5.png"
+        "data/CEEB5.png"
       ],
       "name": "COELBA PNA",
       "currentPrice": 40.0,
@@ -9515,8 +9516,8 @@
     {
       "ticker": "CEED3",
       "logos": [
-        "data/logos/CEED3.png",
-        "data/logos/CEED3.svg"
+        "data/CEED3.png",
+        "data/CEED3.svg"
       ],
       "name": "CEEE-D ON N1",
       "currentPrice": 7.3,
@@ -9560,7 +9561,7 @@
     {
       "ticker": "CEED4",
       "logos": [
-        "data/logos/CEED4.png"
+        "data/CEED4.png"
       ],
       "name": "CEEE-D PN N1",
       "currentPrice": 20.0,
@@ -9604,7 +9605,7 @@
     {
       "ticker": "CEGR3",
       "logos": [
-        "data/logos/CEGR3.png"
+        "data/CEGR3.png"
       ],
       "name": "CEG ON",
       "currentPrice": 35.0,
@@ -9690,7 +9691,7 @@
     {
       "ticker": "CEPE3",
       "logos": [
-        "data/logos/CEPE3.png"
+        "data/CEPE3.png"
       ],
       "name": "CELPE ON",
       "currentPrice": 128.0,
@@ -9734,7 +9735,7 @@
     {
       "ticker": "CEPE5",
       "logos": [
-        "data/logos/CEPE5.png"
+        "data/CEPE5.png"
       ],
       "name": "CELPE PNA",
       "currentPrice": 40.12,
@@ -9778,7 +9779,7 @@
     {
       "ticker": "CEPE6",
       "logos": [
-        "data/logos/CEPE6.png"
+        "data/CEPE6.png"
       ],
       "name": "CELPE PNB",
       "currentPrice": 43.0,
@@ -9822,7 +9823,7 @@
     {
       "ticker": "CESP3",
       "logos": [
-        "data/logos/CESP3.png"
+        "data/CESP3.png"
       ],
       "name": "CESP CIA ENERGETICA SAO PAULO ON",
       "currentPrice": 25.55,
@@ -9908,7 +9909,7 @@
     {
       "ticker": "CESP5",
       "logos": [
-        "data/logos/CESP5.png"
+        "data/CESP5.png"
       ],
       "name": "CESP CIA ENERGETICA SAO PAULO PNA",
       "currentPrice": 25.0,
@@ -9952,7 +9953,7 @@
     {
       "ticker": "CESP6",
       "logos": [
-        "data/logos/CESP6.png"
+        "data/CESP6.png"
       ],
       "name": "CESP CIA ENERGETICA SAO PAULO PNB",
       "currentPrice": 25.25,
@@ -10038,8 +10039,8 @@
     {
       "ticker": "CGAS3",
       "logos": [
-        "data/logos/CGAS3.png",
-        "data/logos/CGAS3.svg"
+        "data/CGAS3.png",
+        "data/CGAS3.svg"
       ],
       "name": "COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS ON",
       "currentPrice": 124.54,
@@ -10083,7 +10084,7 @@
     {
       "ticker": "CGAS5",
       "logos": [
-        "data/logos/CGAS5.png"
+        "data/CGAS5.png"
       ],
       "name": "COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS PNAS",
       "currentPrice": 122.5,
@@ -10211,7 +10212,8 @@
     {
       "ticker": "CGRA3",
       "logos": [
-        "data/logos/CGRA3.png"
+        "data/CGRA3.png",
+        "data/CGRA3.svg"
       ],
       "name": "GRAZZIOTIN ON",
       "currentPrice": 24.06,
@@ -10255,7 +10257,7 @@
     {
       "ticker": "CGRA4",
       "logos": [
-        "data/logos/CGRA4.png"
+        "data/CGRA4.png"
       ],
       "name": "GRAZZIOTIN PN",
       "currentPrice": 24.43,
@@ -10299,7 +10301,7 @@
     {
       "ticker": "CIEL3",
       "logos": [
-        "data/logos/CIEL3.png"
+        "data/CIEL3.png"
       ],
       "name": "CIELO ON NM",
       "currentPrice": 5.83,
@@ -10511,7 +10513,7 @@
     {
       "ticker": "CLSA3",
       "logos": [
-        "data/logos/CLSA3.png"
+        "data/CLSA3.png"
       ],
       "name": "CLEARSALE ON NM",
       "currentPrice": 10.51,
@@ -10555,8 +10557,8 @@
     {
       "ticker": "CLSC3",
       "logos": [
-        "data/logos/CLSC3.png",
-        "data/logos/CLSC3.svg"
+        "data/CLSC3.png",
+        "data/CLSC3.svg"
       ],
       "name": "CELESC ON N2",
       "currentPrice": 127.99,
@@ -10600,7 +10602,7 @@
     {
       "ticker": "CLSC4",
       "logos": [
-        "data/logos/CLSC4.png"
+        "data/CLSC4.png"
       ],
       "name": "CELESC PN N2",
       "currentPrice": 141.83,
@@ -10770,8 +10772,8 @@
     {
       "ticker": "CMIG3",
       "logos": [
-        "data/logos/CMIG3.png",
-        "data/logos/CMIG3.svg"
+        "data/CMIG3.png",
+        "data/CMIG3.svg"
       ],
       "name": "CEMIG ON N1",
       "currentPrice": 16.34,
@@ -10815,7 +10817,7 @@
     {
       "ticker": "CMIG4",
       "logos": [
-        "data/logos/CMIG4.png"
+        "data/CMIG4.png"
       ],
       "name": "CEMIG PN N1",
       "currentPrice": 11.34,
@@ -10859,8 +10861,8 @@
     {
       "ticker": "CMIN3",
       "logos": [
-        "data/logos/CMIN3.png",
-        "data/logos/CMIN3.svg"
+        "data/CMIN3.png",
+        "data/CMIN3.svg"
       ],
       "name": "CSNMINERACAO ON N2",
       "currentPrice": 5.71,
@@ -10988,8 +10990,8 @@
     {
       "ticker": "COCE3",
       "logos": [
-        "data/logos/COCE3.png",
-        "data/logos/COCE3.svg"
+        "data/COCE3.png",
+        "data/COCE3.svg"
       ],
       "name": "CIA ENERG CEARA - COELCE ON",
       "currentPrice": 32.29,
@@ -11033,7 +11035,7 @@
     {
       "ticker": "COCE5",
       "logos": [
-        "data/logos/COCE5.png"
+        "data/COCE5.png"
       ],
       "name": "CIA ENERG CEARA - COELCE PNA",
       "currentPrice": 35.98,
@@ -11077,7 +11079,7 @@
     {
       "ticker": "COCE6",
       "logos": [
-        "data/logos/COCE6.png"
+        "data/COCE6.png"
       ],
       "name": "CIA ENERG CEARA - COELCE PNB",
       "currentPrice": 35.0,
@@ -11121,8 +11123,8 @@
     {
       "ticker": "COGN3",
       "logos": [
-        "data/logos/COGN3.png",
-        "data/logos/COGN3.svg"
+        "data/COGN3.png",
+        "data/COGN3.svg"
       ],
       "name": "COGNA ON",
       "currentPrice": 2.28,
@@ -11166,7 +11168,7 @@
     {
       "ticker": "CORR3",
       "logos": [
-        "data/logos/CORR3.png"
+        "data/CORR3.png"
       ],
       "name": "CORREA RIBEIRO SA COM. IND. ON",
       "currentPrice": 12.0,
@@ -11210,7 +11212,7 @@
     {
       "ticker": "CORR4",
       "logos": [
-        "data/logos/CORR4.png"
+        "data/CORR4.png"
       ],
       "name": "CORREA RIBEIRO SA COM. IND. PN",
       "currentPrice": 82.0,
@@ -11254,8 +11256,8 @@
     {
       "ticker": "CPFE3",
       "logos": [
-        "data/logos/CPFE3.png",
-        "data/logos/CPFE3.svg"
+        "data/CPFE3.png",
+        "data/CPFE3.svg"
       ],
       "name": "CPFL ENERGIA S.A. ON",
       "currentPrice": 46.14,
@@ -11467,8 +11469,8 @@
     {
       "ticker": "CPLE3",
       "logos": [
-        "data/logos/CPLE3.png",
-        "data/logos/CPLE3.svg"
+        "data/CPLE3.png",
+        "data/CPLE3.svg"
       ],
       "name": "COPEL ON",
       "currentPrice": 14.83,
@@ -11512,7 +11514,7 @@
     {
       "ticker": "CPLE5",
       "logos": [
-        "data/logos/CPLE5.png"
+        "data/CPLE5.png"
       ],
       "name": "COPEL PNA",
       "currentPrice": 13.58,
@@ -11556,7 +11558,7 @@
     {
       "ticker": "CPLE6",
       "logos": [
-        "data/logos/CPLE6.png"
+        "data/CPLE6.png"
       ],
       "name": "COPEL PNB",
       "currentPrice": 14.26,
@@ -11642,7 +11644,7 @@
     {
       "ticker": "CPRE3",
       "logos": [
-        "data/logos/CPRE3.png"
+        "data/CPRE3.png"
       ],
       "name": "CPFL RENOVAV ON NM",
       "currentPrice": 18.23,
@@ -11812,7 +11814,7 @@
     {
       "ticker": "CREM3",
       "logos": [
-        "data/logos/CREM3.png"
+        "data/CREM3.png"
       ],
       "name": "CREMER S.A. ON",
       "currentPrice": 14.5,
@@ -11898,7 +11900,7 @@
     {
       "ticker": "CRFB3",
       "logos": [
-        "data/logos/CRFB3.png"
+        "data/CRFB3.png"
       ],
       "name": "CARREFOUR BR ON NM",
       "currentPrice": 8.48,
@@ -11942,7 +11944,7 @@
     {
       "ticker": "CRIV3",
       "logos": [
-        "data/logos/CRIV3.png"
+        "data/CRIV3.png"
       ],
       "name": "ALFA FINANCEIRA ON",
       "currentPrice": 6.98,
@@ -11986,7 +11988,7 @@
     {
       "ticker": "CRIV4",
       "logos": [
-        "data/logos/CRIV4.png"
+        "data/CRIV4.png"
       ],
       "name": "ALFA FINANCEIRA PN",
       "currentPrice": 6.74,
@@ -12030,8 +12032,8 @@
     {
       "ticker": "CRPG3",
       "logos": [
-        "data/logos/CRPG3.png",
-        "data/logos/CRPG3.svg"
+        "data/CRPG3.png",
+        "data/CRPG3.svg"
       ],
       "name": "CRISTAL ON",
       "currentPrice": 17.0,
@@ -12075,7 +12077,7 @@
     {
       "ticker": "CRPG5",
       "logos": [
-        "data/logos/CRPG5.png"
+        "data/CRPG5.png"
       ],
       "name": "CRISTAL PNA",
       "currentPrice": 11.2,
@@ -12119,7 +12121,7 @@
     {
       "ticker": "CRPG6",
       "logos": [
-        "data/logos/CRPG6.png"
+        "data/CRPG6.png"
       ],
       "name": "CRISTAL PNB",
       "currentPrice": 12.8,
@@ -12289,7 +12291,7 @@
     {
       "ticker": "CSAB3",
       "logos": [
-        "data/logos/CSAB3.png"
+        "data/CSAB3.png"
       ],
       "name": "COMPANHIA DE SEGUROS ALIANÇA DA BAHIA ON",
       "currentPrice": 30.5,
@@ -12333,7 +12335,7 @@
     {
       "ticker": "CSAB4",
       "logos": [
-        "data/logos/CSAB4.png"
+        "data/CSAB4.png"
       ],
       "name": "COMPANHIA DE SEGUROS ALIANÇA DA BAHIA PN",
       "currentPrice": 48.97,
@@ -12377,8 +12379,8 @@
     {
       "ticker": "CSAN3",
       "logos": [
-        "data/logos/CSAN3.png",
-        "data/logos/CSAN3.svg"
+        "data/CSAN3.png",
+        "data/CSAN3.svg"
       ],
       "name": "COSAN SA INDUSTRIA E COMERCIO ON",
       "currentPrice": 4.07,
@@ -12422,8 +12424,8 @@
     {
       "ticker": "CSED3",
       "logos": [
-        "data/logos/CSED3.png",
-        "data/logos/CSED3.svg"
+        "data/CSED3.png",
+        "data/CSED3.svg"
       ],
       "name": "CRUZEIRO EDU ON NM",
       "currentPrice": 4.5,
@@ -12467,8 +12469,8 @@
     {
       "ticker": "CSMG3",
       "logos": [
-        "data/logos/CSMG3.png",
-        "data/logos/CSMG3.svg"
+        "data/CSMG3.png",
+        "data/CSMG3.svg"
       ],
       "name": "COPASA MG ON",
       "currentPrice": 64.17,
@@ -12512,8 +12514,8 @@
     {
       "ticker": "CSNA3",
       "logos": [
-        "data/logos/CSNA3.png",
-        "data/logos/CSNA3.svg"
+        "data/CSNA3.png",
+        "data/CSNA3.svg"
       ],
       "name": "CSN ON",
       "currentPrice": 4.84,
@@ -12641,7 +12643,7 @@
     {
       "ticker": "CSRN3",
       "logos": [
-        "data/logos/CSRN3.png"
+        "data/CSRN3.png"
       ],
       "name": "COSERN ON",
       "currentPrice": 13.6,
@@ -12685,7 +12687,7 @@
     {
       "ticker": "CSRN5",
       "logos": [
-        "data/logos/CSRN5.png"
+        "data/CSRN5.png"
       ],
       "name": "COSERN PNA",
       "currentPrice": 15.1,
@@ -12729,7 +12731,7 @@
     {
       "ticker": "CSRN6",
       "logos": [
-        "data/logos/CSRN6.png"
+        "data/CSRN6.png"
       ],
       "name": "COSERN PNB",
       "currentPrice": 15.5,
@@ -12857,8 +12859,8 @@
     {
       "ticker": "CSUD3",
       "logos": [
-        "data/logos/CSUD3.png",
-        "data/logos/CSUD3.svg"
+        "data/CSUD3.png",
+        "data/CSUD3.svg"
       ],
       "name": "CSU DIGITAL ON",
       "currentPrice": 14.2,
@@ -12902,8 +12904,8 @@
     {
       "ticker": "CTAX3",
       "logos": [
-        "data/logos/CTAX3.png",
-        "data/logos/CTAX3.svg"
+        "data/CTAX3.png",
+        "data/CTAX3.svg"
       ],
       "name": "CONTAX ON",
       "currentPrice": 1.1,
@@ -12989,7 +12991,7 @@
     {
       "ticker": "CTKA3",
       "logos": [
-        "data/logos/CTKA3.png"
+        "data/CTKA3.png"
       ],
       "name": "KARSTEN ON",
       "currentPrice": 44.0,
@@ -13033,7 +13035,7 @@
     {
       "ticker": "CTKA4",
       "logos": [
-        "data/logos/CTKA4.png"
+        "data/CTKA4.png"
       ],
       "name": "KARSTEN PN",
       "currentPrice": 32.64,
@@ -13077,7 +13079,7 @@
     {
       "ticker": "CTNM3",
       "logos": [
-        "data/logos/CTNM3.png"
+        "data/CTNM3.png"
       ],
       "name": "COTEMINAS ON",
       "currentPrice": 7.13,
@@ -13121,7 +13123,7 @@
     {
       "ticker": "CTNM4",
       "logos": [
-        "data/logos/CTNM4.png"
+        "data/CTNM4.png"
       ],
       "name": "COTEMINAS PN",
       "currentPrice": 0.86,
@@ -13249,7 +13251,7 @@
     {
       "ticker": "CTSA3",
       "logos": [
-        "data/logos/CTSA3.png"
+        "data/CTSA3.png"
       ],
       "name": "SANTANENSE ON",
       "currentPrice": 2.0,
@@ -13293,7 +13295,7 @@
     {
       "ticker": "CTSA4",
       "logos": [
-        "data/logos/CTSA4.png"
+        "data/CTSA4.png"
       ],
       "name": "SANTANENSE PN",
       "currentPrice": 1.29,
@@ -13337,7 +13339,7 @@
     {
       "ticker": "CTSA8",
       "logos": [
-        "data/logos/CTSA8.png"
+        "data/CTSA8.png"
       ],
       "name": "SANTANENSE PND",
       "currentPrice": 1.0,
@@ -13423,8 +13425,8 @@
     {
       "ticker": "CURY3",
       "logos": [
-        "data/logos/CURY3.png",
-        "data/logos/CURY3.svg"
+        "data/CURY3.png",
+        "data/CURY3.svg"
       ],
       "name": "CURY S/A ON NM",
       "currentPrice": 30.09,
@@ -13468,8 +13470,8 @@
     {
       "ticker": "CVCB3",
       "logos": [
-        "data/logos/CVCB3.png",
-        "data/logos/CVCB3.svg"
+        "data/CVCB3.png",
+        "data/CVCB3.svg"
       ],
       "name": "CVC BRASIL ON NM",
       "currentPrice": 1.31,
@@ -13513,8 +13515,8 @@
     {
       "ticker": "CXSE3",
       "logos": [
-        "data/logos/CXSE3.png",
-        "data/logos/CXSE3.svg"
+        "data/CXSE3.png",
+        "data/CXSE3.svg"
       ],
       "name": "CAIXA SEGURI ON NM",
       "currentPrice": 20.25,
@@ -13558,8 +13560,8 @@
     {
       "ticker": "CYRE3",
       "logos": [
-        "data/logos/CYRE3.png",
-        "data/logos/CYRE3.svg"
+        "data/CYRE3.png",
+        "data/CYRE3.svg"
       ],
       "name": "CYRELA BRAZIL REALTY PN",
       "currentPrice": 21.37,
@@ -13603,7 +13605,7 @@
     {
       "ticker": "CYRE4",
       "logos": [
-        "data/logos/CYRE4.png"
+        "data/CYRE4.png"
       ],
       "name": "CYRELA BRAZIL REALTY PN",
       "currentPrice": 20.37,
@@ -13815,8 +13817,8 @@
     {
       "ticker": "DASA3",
       "logos": [
-        "data/logos/DASA3.png",
-        "data/logos/DASA3.svg"
+        "data/DASA3.png",
+        "data/DASA3.svg"
       ],
       "name": "DIAGNOSTICOS DA AMERICA SA ON",
       "currentPrice": 2.61,
@@ -13944,8 +13946,8 @@
     {
       "ticker": "DESK3",
       "logos": [
-        "data/logos/DESK3.png",
-        "data/logos/DESK3.svg"
+        "data/DESK3.png",
+        "data/DESK3.svg"
       ],
       "name": "DESKTOPSIGMA ON NM",
       "currentPrice": 18.6,
@@ -13989,8 +13991,8 @@
     {
       "ticker": "DEXP3",
       "logos": [
-        "data/logos/DEXP3.png",
-        "data/logos/DEXP3.svg"
+        "data/DEXP3.png",
+        "data/DEXP3.svg"
       ],
       "name": "DEXXOS PAR ON",
       "currentPrice": 7.25,
@@ -14034,7 +14036,7 @@
     {
       "ticker": "DEXP4",
       "logos": [
-        "data/logos/DEXP4.png"
+        "data/DEXP4.png"
       ],
       "name": "DEXXOS PAR PN",
       "currentPrice": 7.1,
@@ -14246,8 +14248,8 @@
     {
       "ticker": "DIRR3",
       "logos": [
-        "data/logos/DIRR3.png",
-        "data/logos/DIRR3.svg"
+        "data/DIRR3.png",
+        "data/DIRR3.svg"
       ],
       "name": "Direcional Engenharia ON NM",
       "currentPrice": 11.35,
@@ -14375,7 +14377,7 @@
     {
       "ticker": "DMMO3",
       "logos": [
-        "data/logos/DMMO3.png"
+        "data/DMMO3.png"
       ],
       "name": "DOMMO ON",
       "currentPrice": 1.76,
@@ -14419,8 +14421,8 @@
     {
       "ticker": "DMVF3",
       "logos": [
-        "data/logos/DMVF3.png",
-        "data/logos/DMVF3.svg"
+        "data/DMVF3.png",
+        "data/DMVF3.svg"
       ],
       "name": "D1000VFARMA ON NM",
       "currentPrice": 6.87,
@@ -14548,7 +14550,7 @@
     {
       "ticker": "DOHL3",
       "logos": [
-        "data/logos/DOHL3.png"
+        "data/DOHL3.png"
       ],
       "name": "DOHLER ON",
       "currentPrice": 6.51,
@@ -14592,7 +14594,7 @@
     {
       "ticker": "DOHL4",
       "logos": [
-        "data/logos/DOHL4.png"
+        "data/DOHL4.png"
       ],
       "name": "DOHLER PN",
       "currentPrice": 3.74,
@@ -14636,8 +14638,8 @@
     {
       "ticker": "DOTZ3",
       "logos": [
-        "data/logos/DOTZ3.png",
-        "data/logos/DOTZ3.svg"
+        "data/DOTZ3.png",
+        "data/DOTZ3.svg"
       ],
       "name": "DOTZ SA ON NM",
       "currentPrice": 5.58,
@@ -14807,8 +14809,8 @@
     {
       "ticker": "DTCY3",
       "logos": [
-        "data/logos/DTCY3.png",
-        "data/logos/DTCY3.svg"
+        "data/DTCY3.png",
+        "data/DTCY3.svg"
       ],
       "name": "DTCOM ON",
       "currentPrice": 2.3,
@@ -15062,8 +15064,8 @@
     {
       "ticker": "DXCO3",
       "logos": [
-        "data/logos/DXCO3.png",
-        "data/logos/DXCO3.svg"
+        "data/DXCO3.png",
+        "data/DXCO3.svg"
       ],
       "name": "DEXCO ON",
       "currentPrice": 5.1,
@@ -15149,7 +15151,8 @@
     {
       "ticker": "EALT3",
       "logos": [
-        "data/logos/EALT3.png"
+        "data/EALT3.png",
+        "data/EALT3.svg"
       ],
       "name": "ELECTRO AÇO ALTONA S/A ON",
       "currentPrice": 12.01,
@@ -15193,7 +15196,7 @@
     {
       "ticker": "EALT4",
       "logos": [
-        "data/logos/EALT4.png"
+        "data/EALT4.png"
       ],
       "name": "ELECTRO AÇO ALTONA S/A PN",
       "currentPrice": 11.12,
@@ -15573,8 +15576,8 @@
     {
       "ticker": "ECOR3",
       "logos": [
-        "data/logos/ECOR3.png",
-        "data/logos/ECOR3.svg"
+        "data/ECOR3.png",
+        "data/ECOR3.svg"
       ],
       "name": "ECORODOVIAS ON NM",
       "currentPrice": 6.93,
@@ -15618,7 +15621,7 @@
     {
       "ticker": "ECPR3",
       "logos": [
-        "data/logos/ECPR3.png"
+        "data/ECPR3.png"
       ],
       "name": "ENCORPAR ON",
       "currentPrice": 90.25,
@@ -15662,7 +15665,7 @@
     {
       "ticker": "ECPR4",
       "logos": [
-        "data/logos/ECPR4.png"
+        "data/ECPR4.png"
       ],
       "name": "ENCORPAR PN",
       "currentPrice": 90.74,
@@ -15706,7 +15709,7 @@
     {
       "ticker": "EEEL3",
       "logos": [
-        "data/logos/EEEL3.png"
+        "data/EEEL3.png"
       ],
       "name": "CEEE ON N1",
       "currentPrice": 421.01,
@@ -15750,7 +15753,7 @@
     {
       "ticker": "EEEL4",
       "logos": [
-        "data/logos/EEEL4.png"
+        "data/EEEL4.png"
       ],
       "name": "CEEE PN N1",
       "currentPrice": 410.0,
@@ -15836,8 +15839,8 @@
     {
       "ticker": "EGIE3",
       "logos": [
-        "data/logos/EGIE3.png",
-        "data/logos/EGIE3.svg"
+        "data/EGIE3.png",
+        "data/EGIE3.svg"
       ],
       "name": "ENGIE BRASIL ON",
       "currentPrice": 29.8,
@@ -15881,7 +15884,7 @@
     {
       "ticker": "EKTR3",
       "logos": [
-        "data/logos/EKTR3.png"
+        "data/EKTR3.png"
       ],
       "name": "ELEKTRO ELETRICIDADE E SERVIÇOS S.A. ON",
       "currentPrice": 51.52,
@@ -15925,7 +15928,7 @@
     {
       "ticker": "EKTR4",
       "logos": [
-        "data/logos/EKTR4.png"
+        "data/EKTR4.png"
       ],
       "name": "ELEKTRO ELETRICIDADE E SERVIÇOS S.A. PN",
       "currentPrice": 39.82,
@@ -16053,7 +16056,7 @@
     {
       "ticker": "ELEK3",
       "logos": [
-        "data/logos/ELEK3.png"
+        "data/ELEK3.png"
       ],
       "name": "ELEKEIROZ S/A ON",
       "currentPrice": 19.11,
@@ -16097,7 +16100,7 @@
     {
       "ticker": "ELEK4",
       "logos": [
-        "data/logos/ELEK4.png"
+        "data/ELEK4.png"
       ],
       "name": "ELEKEIROZ S/A PN",
       "currentPrice": 26.0,
@@ -16225,7 +16228,7 @@
     {
       "ticker": "ELMD3",
       "logos": [
-        "data/logos/ELMD3.png"
+        "data/ELMD3.png"
       ],
       "name": "ELETROMIDIA ON NM",
       "currentPrice": 31.0,
@@ -16269,7 +16272,7 @@
     {
       "ticker": "ELPL3",
       "logos": [
-        "data/logos/ELPL3.png"
+        "data/ELPL3.png"
       ],
       "name": "AES ELETROPAULO ON",
       "currentPrice": 49.32,
@@ -16523,7 +16526,7 @@
     {
       "ticker": "EMAE4",
       "logos": [
-        "data/logos/EMAE4.png"
+        "data/EMAE4.png"
       ],
       "name": "EMAE PN",
       "currentPrice": 36.47,
@@ -16567,8 +16570,8 @@
     {
       "ticker": "EMBJ3",
       "logos": [
-        "data/logos/EMBJ3.png",
-        "data/logos/EMBJ3.svg"
+        "data/EMBJ3.png",
+        "data/EMBJ3.svg"
       ],
       "name": "EMBRAER ON NM",
       "currentPrice": 86.89,
@@ -16612,7 +16615,7 @@
     {
       "ticker": "ENAT3",
       "logos": [
-        "data/logos/ENAT3.png"
+        "data/ENAT3.png"
       ],
       "name": "ENAUTA PART ON NM",
       "currentPrice": 21.64,
@@ -16656,7 +16659,7 @@
     {
       "ticker": "ENBR3",
       "logos": [
-        "data/logos/ENBR3.png"
+        "data/ENBR3.png"
       ],
       "name": "EDP ENERGIAS DO BRASIL S/A ON",
       "currentPrice": 24.08,
@@ -16826,8 +16829,8 @@
     {
       "ticker": "ENEV3",
       "logos": [
-        "data/logos/ENEV3.png",
-        "data/logos/ENEV3.svg"
+        "data/ENEV3.png",
+        "data/ENEV3.svg"
       ],
       "name": "ENEVA ON",
       "currentPrice": 26.31,
@@ -16871,7 +16874,7 @@
     {
       "ticker": "ENGI11",
       "logos": [
-        "data/logos/ENGI11.png"
+        "data/ENGI11.png"
       ],
       "name": "ENERGISA UNT N2",
       "currentPrice": 49.81,
@@ -16915,8 +16918,8 @@
     {
       "ticker": "ENGI3",
       "logos": [
-        "data/logos/ENGI3.png",
-        "data/logos/ENGI3.svg"
+        "data/ENGI3.png",
+        "data/ENGI3.svg"
       ],
       "name": "ENERGISA ON",
       "currentPrice": 11.88,
@@ -16960,7 +16963,7 @@
     {
       "ticker": "ENGI4",
       "logos": [
-        "data/logos/ENGI4.png"
+        "data/ENGI4.png"
       ],
       "name": "ENERGISA PN",
       "currentPrice": 9.45,
@@ -17004,8 +17007,8 @@
     {
       "ticker": "ENJU3",
       "logos": [
-        "data/logos/ENJU3.png",
-        "data/logos/ENJU3.svg"
+        "data/ENJU3.png",
+        "data/ENJU3.svg"
       ],
       "name": "ENJOEI ON NM",
       "currentPrice": 0.7,
@@ -17049,8 +17052,8 @@
     {
       "ticker": "ENMT3",
       "logos": [
-        "data/logos/ENMT3.png",
-        "data/logos/ENMT3.svg"
+        "data/ENMT3.png",
+        "data/ENMT3.svg"
       ],
       "name": "ENERGISA MT ON",
       "currentPrice": 35.68,
@@ -17094,7 +17097,7 @@
     {
       "ticker": "ENMT4",
       "logos": [
-        "data/logos/ENMT4.png"
+        "data/ENMT4.png"
       ],
       "name": "ENERGISA MT ON",
       "currentPrice": 35.87,
@@ -17138,8 +17141,8 @@
     {
       "ticker": "EPAR3",
       "logos": [
-        "data/logos/EPAR3.png",
-        "data/logos/EPAR3.svg"
+        "data/EPAR3.png",
+        "data/EPAR3.svg"
       ],
       "name": "EMBPAR S/A ON",
       "currentPrice": 1.32,
@@ -17225,7 +17228,7 @@
     {
       "ticker": "EQMA3B",
       "logos": [
-        "data/logos/EQMA3B.svg"
+        "data/EQMA3B.svg"
       ],
       "name": "CEMAR ON MB",
       "currentPrice": 30.0,
@@ -17353,8 +17356,8 @@
     {
       "ticker": "EQPA3",
       "logos": [
-        "data/logos/EQPA3.png",
-        "data/logos/EQPA3.svg"
+        "data/EQPA3.png",
+        "data/EQPA3.svg"
       ],
       "name": "EQTL PARA ON",
       "currentPrice": 5.31,
@@ -17398,7 +17401,7 @@
     {
       "ticker": "EQPA5",
       "logos": [
-        "data/logos/EQPA5.png"
+        "data/EQPA5.png"
       ],
       "name": "EQTL PARA PNA",
       "currentPrice": 10.5,
@@ -17442,7 +17445,7 @@
     {
       "ticker": "EQPA6",
       "logos": [
-        "data/logos/EQPA6.png"
+        "data/EQPA6.png"
       ],
       "name": "EQTL PARA PNB",
       "currentPrice": 6.59,
@@ -17486,7 +17489,7 @@
     {
       "ticker": "EQPA7",
       "logos": [
-        "data/logos/EQPA7.png"
+        "data/EQPA7.png"
       ],
       "name": "EQTL PARA PNC",
       "currentPrice": 10.0,
@@ -17530,8 +17533,8 @@
     {
       "ticker": "EQTL3",
       "logos": [
-        "data/logos/EQTL3.png",
-        "data/logos/EQTL3.svg"
+        "data/EQTL3.png",
+        "data/EQTL3.svg"
       ],
       "name": "EQUATORIAL ENERGIA S.A. ON NM",
       "currentPrice": 38.66,
@@ -17617,8 +17620,8 @@
     {
       "ticker": "ESPA3",
       "logos": [
-        "data/logos/ESPA3.png",
-        "data/logos/ESPA3.svg"
+        "data/ESPA3.png",
+        "data/ESPA3.svg"
       ],
       "name": "ESPACOLASER ON NM",
       "currentPrice": 8.06,
@@ -17746,7 +17749,7 @@
     {
       "ticker": "ESTR3",
       "logos": [
-        "data/logos/ESTR3.png"
+        "data/ESTR3.png"
       ],
       "name": "ESTRELA ON",
       "currentPrice": 3.01,
@@ -17790,7 +17793,7 @@
     {
       "ticker": "ESTR4",
       "logos": [
-        "data/logos/ESTR4.png"
+        "data/ESTR4.png"
       ],
       "name": "ESTRELA PN",
       "currentPrice": 1.7,
@@ -17834,8 +17837,8 @@
     {
       "ticker": "ETER3",
       "logos": [
-        "data/logos/ETER3.png",
-        "data/logos/ETER3.svg"
+        "data/ETER3.png",
+        "data/ETER3.svg"
       ],
       "name": "ETERNIT ON",
       "currentPrice": 3.77,
@@ -17921,8 +17924,8 @@
     {
       "ticker": "EUCA3",
       "logos": [
-        "data/logos/EUCA3.png",
-        "data/logos/EUCA3.svg"
+        "data/EUCA3.png",
+        "data/EUCA3.svg"
       ],
       "name": "EUCATEX ON",
       "currentPrice": 22.0,
@@ -17966,7 +17969,7 @@
     {
       "ticker": "EUCA4",
       "logos": [
-        "data/logos/EUCA4.png"
+        "data/EUCA4.png"
       ],
       "name": "EUCATEX PN",
       "currentPrice": 23.0,
@@ -18010,8 +18013,8 @@
     {
       "ticker": "EVEN3",
       "logos": [
-        "data/logos/EVEN3.png",
-        "data/logos/EVEN3.svg"
+        "data/EVEN3.png",
+        "data/EVEN3.svg"
       ],
       "name": "Even ON NM",
       "currentPrice": 4.83,
@@ -18055,8 +18058,8 @@
     {
       "ticker": "EZTC3",
       "logos": [
-        "data/logos/EZTC3.png",
-        "data/logos/EZTC3.svg"
+        "data/EZTC3.png",
+        "data/EZTC3.svg"
       ],
       "name": "EZTec ON NM",
       "currentPrice": 11.07,
@@ -18100,7 +18103,7 @@
     {
       "ticker": "FBMC3",
       "logos": [
-        "data/logos/FBMC3.png"
+        "data/FBMC3.png"
       ],
       "name": "FIBAM ON",
       "currentPrice": 80.0,
@@ -18144,7 +18147,7 @@
     {
       "ticker": "FBMC4",
       "logos": [
-        "data/logos/FBMC4.png"
+        "data/FBMC4.png"
       ],
       "name": "FIBAM PN",
       "currentPrice": 1.96,
@@ -18314,8 +18317,8 @@
     {
       "ticker": "FESA3",
       "logos": [
-        "data/logos/FESA3.png",
-        "data/logos/FESA3.svg"
+        "data/FESA3.png",
+        "data/FESA3.svg"
       ],
       "name": "FERBASA ON",
       "currentPrice": 9.75,
@@ -18359,7 +18362,7 @@
     {
       "ticker": "FESA4",
       "logos": [
-        "data/logos/FESA4.png"
+        "data/FESA4.png"
       ],
       "name": "FERBASA PN",
       "currentPrice": 5.99,
@@ -18571,8 +18574,8 @@
     {
       "ticker": "FHER3",
       "logos": [
-        "data/logos/FHER3.png",
-        "data/logos/FHER3.svg"
+        "data/FHER3.png",
+        "data/FHER3.svg"
       ],
       "name": "Fer Heringer ON NM",
       "currentPrice": 3.45,
@@ -18658,8 +18661,8 @@
     {
       "ticker": "FICT3",
       "logos": [
-        "data/logos/FICT3.png",
-        "data/logos/FICT3.svg"
+        "data/FICT3.png",
+        "data/FICT3.svg"
       ],
       "name": "FICTORALIMEN ON",
       "currentPrice": 0.2,
@@ -18703,8 +18706,8 @@
     {
       "ticker": "FIEI3",
       "logos": [
-        "data/logos/FIEI3.png",
-        "data/logos/FIEI3.svg"
+        "data/FIEI3.png",
+        "data/FIEI3.svg"
       ],
       "name": "FICA ON",
       "currentPrice": 9.39,
@@ -18748,7 +18751,7 @@
     {
       "ticker": "FIGE3",
       "logos": [
-        "data/logos/FIGE3.png"
+        "data/FIGE3.png"
       ],
       "name": "INVESTIMENTOS BEMGE ON",
       "currentPrice": 33.0,
@@ -18792,7 +18795,7 @@
     {
       "ticker": "FIGE4",
       "logos": [
-        "data/logos/FIGE4.png"
+        "data/FIGE4.png"
       ],
       "name": "INVESTIMENTOS BEMGE PN",
       "currentPrice": 38.01,
@@ -18836,8 +18839,8 @@
     {
       "ticker": "FIQE3",
       "logos": [
-        "data/logos/FIQE3.png",
-        "data/logos/FIQE3.svg"
+        "data/FIQE3.png",
+        "data/FIQE3.svg"
       ],
       "name": "UNIFIQUE ON NM",
       "currentPrice": 5.4,
@@ -19007,8 +19010,8 @@
     {
       "ticker": "FLRY3",
       "logos": [
-        "data/logos/FLRY3.png",
-        "data/logos/FLRY3.svg"
+        "data/FLRY3.png",
+        "data/FLRY3.svg"
       ],
       "name": "FLEURY ON NM",
       "currentPrice": 17.14,
@@ -19052,8 +19055,8 @@
     {
       "ticker": "FRAS3",
       "logos": [
-        "data/logos/FRAS3.png",
-        "data/logos/FRAS3.svg"
+        "data/FRAS3.png",
+        "data/FRAS3.svg"
       ],
       "name": "FRAS-LE S.A. ON",
       "currentPrice": 21.17,
@@ -19139,7 +19142,7 @@
     {
       "ticker": "FRIO3",
       "logos": [
-        "data/logos/FRIO3.png"
+        "data/FRIO3.png"
       ],
       "name": "Metalfrio ON NM",
       "currentPrice": 205.0,
@@ -19183,7 +19186,7 @@
     {
       "ticker": "FRTA3",
       "logos": [
-        "data/logos/FRTA3.png"
+        "data/FRTA3.png"
       ],
       "name": "POMIFRUTAS ON NM",
       "currentPrice": 1.31,
@@ -19563,7 +19566,7 @@
     {
       "ticker": "GBIO33",
       "logos": [
-        "data/logos/GBIO33.png"
+        "data/GBIO33.png"
       ],
       "name": "BIOTOSCANA DR3",
       "currentPrice": 10.4,
@@ -19607,8 +19610,8 @@
     {
       "ticker": "GEPA3",
       "logos": [
-        "data/logos/GEPA3.png",
-        "data/logos/GEPA3.svg"
+        "data/GEPA3.png",
+        "data/GEPA3.svg"
       ],
       "name": "DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA ON",
       "currentPrice": 34.99,
@@ -19652,7 +19655,7 @@
     {
       "ticker": "GEPA4",
       "logos": [
-        "data/logos/GEPA4.png"
+        "data/GEPA4.png"
       ],
       "name": "DUKE ENERGY INT,GERAÇÃO PARANAPANEMA SA PN",
       "currentPrice": 38.0,
@@ -19780,7 +19783,7 @@
     {
       "ticker": "GETT3",
       "logos": [
-        "data/logos/GETT3.png"
+        "data/GETT3.png"
       ],
       "name": "GETNET BR ON",
       "currentPrice": 2.4,
@@ -19824,7 +19827,7 @@
     {
       "ticker": "GETT4",
       "logos": [
-        "data/logos/GETT4.png"
+        "data/GETT4.png"
       ],
       "name": "GETNET BR PN",
       "currentPrice": 2.4,
@@ -19868,8 +19871,8 @@
     {
       "ticker": "GFSA3",
       "logos": [
-        "data/logos/GFSA3.png",
-        "data/logos/GFSA3.svg"
+        "data/GFSA3.png",
+        "data/GFSA3.svg"
       ],
       "name": "GAFISA ON",
       "currentPrice": 0.27,
@@ -19913,8 +19916,8 @@
     {
       "ticker": "GGBR3",
       "logos": [
-        "data/logos/GGBR3.png",
-        "data/logos/GGBR3.svg"
+        "data/GGBR3.png",
+        "data/GGBR3.svg"
       ],
       "name": "GERDAU S.A. ON N1",
       "currentPrice": 21.49,
@@ -19958,7 +19961,7 @@
     {
       "ticker": "GGBR4",
       "logos": [
-        "data/logos/GGBR4.png"
+        "data/GGBR4.png"
       ],
       "name": "GERDAU S.A. PN N1",
       "currentPrice": 24.98,
@@ -20002,8 +20005,8 @@
     {
       "ticker": "GGPS3",
       "logos": [
-        "data/logos/GGPS3.png",
-        "data/logos/GGPS3.svg"
+        "data/GGPS3.png",
+        "data/GGPS3.svg"
       ],
       "name": "GPS ON NM",
       "currentPrice": 11.72,
@@ -20089,8 +20092,8 @@
     {
       "ticker": "GMAT3",
       "logos": [
-        "data/logos/GMAT3.png",
-        "data/logos/GMAT3.svg"
+        "data/GMAT3.png",
+        "data/GMAT3.svg"
       ],
       "name": "GRUPO MATEUS ON NM",
       "currentPrice": 4.03,
@@ -20134,7 +20137,7 @@
     {
       "ticker": "GNDI3",
       "logos": [
-        "data/logos/GNDI3.png"
+        "data/GNDI3.png"
       ],
       "name": "INTERMEDICA ON NM",
       "currentPrice": 66.95,
@@ -20178,8 +20181,8 @@
     {
       "ticker": "GOAU3",
       "logos": [
-        "data/logos/GOAU3.png",
-        "data/logos/GOAU3.svg"
+        "data/GOAU3.png",
+        "data/GOAU3.svg"
       ],
       "name": "METALÚRGICA GERDAU ON N1",
       "currentPrice": 9.8,
@@ -20223,7 +20226,7 @@
     {
       "ticker": "GOAU4",
       "logos": [
-        "data/logos/GOAU4.png"
+        "data/GOAU4.png"
       ],
       "name": "METALÚRGICA GERDAU PN N1",
       "currentPrice": 10.92,
@@ -20309,7 +20312,7 @@
     {
       "ticker": "GPAR3",
       "logos": [
-        "data/logos/GPAR3.png"
+        "data/GPAR3.png"
       ],
       "name": "CELGPAR ON",
       "currentPrice": 10.51,
@@ -20353,7 +20356,7 @@
     {
       "ticker": "GPIV33",
       "logos": [
-        "data/logos/GPIV33.png"
+        "data/GPIV33.png"
       ],
       "name": "GP INVESTMENTS, LTD DR3",
       "currentPrice": 4.42,
@@ -20397,8 +20400,8 @@
     {
       "ticker": "GRND3",
       "logos": [
-        "data/logos/GRND3.png",
-        "data/logos/GRND3.svg"
+        "data/GRND3.png",
+        "data/GRND3.svg"
       ],
       "name": "GRENDENE SA ON",
       "currentPrice": 3.75,
@@ -20484,8 +20487,8 @@
     {
       "ticker": "GSHP3",
       "logos": [
-        "data/logos/GSHP3.png",
-        "data/logos/GSHP3.svg"
+        "data/GSHP3.png",
+        "data/GSHP3.svg"
       ],
       "name": "Generalshopp ON NM",
       "currentPrice": 3.6,
@@ -20613,8 +20616,8 @@
     {
       "ticker": "HAGA3",
       "logos": [
-        "data/logos/HAGA3.png",
-        "data/logos/HAGA3.svg"
+        "data/HAGA3.png",
+        "data/HAGA3.svg"
       ],
       "name": "HAGA ON",
       "currentPrice": 2.5,
@@ -20658,7 +20661,7 @@
     {
       "ticker": "HAGA4",
       "logos": [
-        "data/logos/HAGA4.png"
+        "data/HAGA4.png"
       ],
       "name": "HAGA ON",
       "currentPrice": 1.54,
@@ -20702,8 +20705,8 @@
     {
       "ticker": "HAPV3",
       "logos": [
-        "data/logos/HAPV3.png",
-        "data/logos/HAPV3.svg"
+        "data/HAPV3.png",
+        "data/HAPV3.svg"
       ],
       "name": "HAPVIDA ON NM",
       "currentPrice": 11.28,
@@ -20747,8 +20750,8 @@
     {
       "ticker": "HBOR3",
       "logos": [
-        "data/logos/HBOR3.png",
-        "data/logos/HBOR3.svg"
+        "data/HBOR3.png",
+        "data/HBOR3.svg"
       ],
       "name": "Helbor ON",
       "currentPrice": 1.87,
@@ -20792,8 +20795,8 @@
     {
       "ticker": "HBRE3",
       "logos": [
-        "data/logos/HBRE3.png",
-        "data/logos/HBRE3.svg"
+        "data/HBRE3.png",
+        "data/HBRE3.svg"
       ],
       "name": "HBR REALTY ON NM",
       "currentPrice": 2.08,
@@ -20837,8 +20840,8 @@
     {
       "ticker": "HBSA3",
       "logos": [
-        "data/logos/HBSA3.png",
-        "data/logos/HBSA3.svg"
+        "data/HBSA3.png",
+        "data/HBSA3.svg"
       ],
       "name": "HIDROVIAS ON NM",
       "currentPrice": 3.14,
@@ -20882,7 +20885,7 @@
     {
       "ticker": "HBTS5",
       "logos": [
-        "data/logos/HBTS5.png"
+        "data/HBTS5.png"
       ],
       "name": "CIA HABITASUL PNA",
       "currentPrice": 32.38,
@@ -20926,7 +20929,7 @@
     {
       "ticker": "HETA3",
       "logos": [
-        "data/logos/HETA3.png"
+        "data/HETA3.png"
       ],
       "name": "HERCULES S/A ON",
       "currentPrice": 96.0,
@@ -20970,7 +20973,7 @@
     {
       "ticker": "HETA4",
       "logos": [
-        "data/logos/HETA4.png"
+        "data/HETA4.png"
       ],
       "name": "HERCULES S/A PN",
       "currentPrice": 4.8,
@@ -21014,7 +21017,7 @@
     {
       "ticker": "HGTX3",
       "logos": [
-        "data/logos/HGTX3.png"
+        "data/HGTX3.png"
       ],
       "name": "CIA HERING ON N1",
       "currentPrice": 37.5,
@@ -21100,7 +21103,7 @@
     {
       "ticker": "HOOT4",
       "logos": [
-        "data/logos/HOOT4.png"
+        "data/HOOT4.png"
       ],
       "name": "HOTEIS OTHON S.A. PN",
       "currentPrice": 6.66,
@@ -21144,8 +21147,8 @@
     {
       "ticker": "HYPE3",
       "logos": [
-        "data/logos/HYPE3.png",
-        "data/logos/HYPE3.svg"
+        "data/HYPE3.png",
+        "data/HYPE3.svg"
       ],
       "name": "HYPERA ON",
       "currentPrice": 21.27,
@@ -21273,7 +21276,7 @@
     {
       "ticker": "IDVL3",
       "logos": [
-        "data/logos/IDVL3.png"
+        "data/IDVL3.png"
       ],
       "name": "Indusval ON N1",
       "currentPrice": 2.16,
@@ -21317,7 +21320,7 @@
     {
       "ticker": "IDVL4",
       "logos": [
-        "data/logos/IDVL4.png"
+        "data/IDVL4.png"
       ],
       "name": "Indusval PN N1",
       "currentPrice": 2.67,
@@ -21445,8 +21448,8 @@
     {
       "ticker": "IFCM3",
       "logos": [
-        "data/logos/IFCM3.png",
-        "data/logos/IFCM3.svg"
+        "data/IFCM3.png",
+        "data/IFCM3.svg"
       ],
       "name": "INFRACOMM ON NM",
       "currentPrice": 1.43,
@@ -21490,7 +21493,7 @@
     {
       "ticker": "IGBR3",
       "logos": [
-        "data/logos/IGBR3.png"
+        "data/IGBR3.png"
       ],
       "name": "GRADIENTE ON",
       "currentPrice": 175.99,
@@ -21618,7 +21621,7 @@
     {
       "ticker": "IGTA3",
       "logos": [
-        "data/logos/IGTA3.png"
+        "data/IGTA3.png"
       ],
       "name": "IGUATEMI ON NM",
       "currentPrice": 33.13,
@@ -21662,7 +21665,7 @@
     {
       "ticker": "IGTI11",
       "logos": [
-        "data/logos/IGTI11.png"
+        "data/IGTI11.png"
       ],
       "name": "IGUATEMI S.A UNT N1",
       "currentPrice": 24.83,
@@ -21706,8 +21709,8 @@
     {
       "ticker": "IGTI3",
       "logos": [
-        "data/logos/IGTI3.png",
-        "data/logos/IGTI3.svg"
+        "data/IGTI3.png",
+        "data/IGTI3.svg"
       ],
       "name": "IGUATEMI S.A ON N1",
       "currentPrice": 3.08,
@@ -22129,8 +22132,8 @@
     {
       "ticker": "INEP3",
       "logos": [
-        "data/logos/INEP3.png",
-        "data/logos/INEP3.svg"
+        "data/INEP3.png",
+        "data/INEP3.svg"
       ],
       "name": "INEPAR S/A ON",
       "currentPrice": 1.56,
@@ -22174,7 +22177,7 @@
     {
       "ticker": "INEP4",
       "logos": [
-        "data/logos/INEP4.png"
+        "data/INEP4.png"
       ],
       "name": "INEPAR S/A PN",
       "currentPrice": 1.54,
@@ -22260,8 +22263,8 @@
     {
       "ticker": "INTB3",
       "logos": [
-        "data/logos/INTB3.png",
-        "data/logos/INTB3.svg"
+        "data/INTB3.png",
+        "data/INTB3.svg"
       ],
       "name": "INTELBRAS ON NM",
       "currentPrice": 14.65,
@@ -22305,8 +22308,8 @@
     {
       "ticker": "IRBR3",
       "logos": [
-        "data/logos/IRBR3.png",
-        "data/logos/IRBR3.svg"
+        "data/IRBR3.png",
+        "data/IRBR3.svg"
       ],
       "name": "IRBBRASIL RE ON NM",
       "currentPrice": 56.06,
@@ -22350,8 +22353,8 @@
     {
       "ticker": "ISAE3",
       "logos": [
-        "data/logos/ISAE3.png",
-        "data/logos/ISAE3.svg"
+        "data/ISAE3.png",
+        "data/ISAE3.svg"
       ],
       "name": "ISA ENERGIA ON",
       "currentPrice": 31.35,
@@ -22395,7 +22398,7 @@
     {
       "ticker": "ISAE4",
       "logos": [
-        "data/logos/ISAE4.png"
+        "data/ISAE4.png"
       ],
       "name": "ISA ENERGIA PN",
       "currentPrice": 26.89,
@@ -22439,7 +22442,7 @@
     {
       "ticker": "ITEC3",
       "logos": [
-        "data/logos/ITEC3.png"
+        "data/ITEC3.png"
       ],
       "name": "ITAUTEC PHILCO SA - GRUPO ITAUTEC PHILCO ON",
       "currentPrice": 40.1,
@@ -22483,8 +22486,8 @@
     {
       "ticker": "ITSA3",
       "logos": [
-        "data/logos/ITSA3.png",
-        "data/logos/ITSA3.svg"
+        "data/ITSA3.png",
+        "data/ITSA3.svg"
       ],
       "name": "ITAÚSA ON N1",
       "currentPrice": 13.92,
@@ -22528,7 +22531,7 @@
     {
       "ticker": "ITSA4",
       "logos": [
-        "data/logos/ITSA4.png"
+        "data/ITSA4.png"
       ],
       "name": "ITAÚSA PN N1",
       "currentPrice": 13.82,
@@ -22572,8 +22575,8 @@
     {
       "ticker": "ITUB3",
       "logos": [
-        "data/logos/ITUB3.png",
-        "data/logos/ITUB3.svg"
+        "data/ITUB3.png",
+        "data/ITUB3.svg"
       ],
       "name": "ITAUUNIBANCO ON N1",
       "currentPrice": 45.64,
@@ -22617,7 +22620,7 @@
     {
       "ticker": "ITUB4",
       "logos": [
-        "data/logos/ITUB4.png"
+        "data/ITUB4.png"
       ],
       "name": "ITAUUNIBANCO PN N1",
       "currentPrice": 42.89,
@@ -22703,8 +22706,8 @@
     {
       "ticker": "JALL3",
       "logos": [
-        "data/logos/JALL3.png",
-        "data/logos/JALL3.svg"
+        "data/JALL3.png",
+        "data/JALL3.svg"
       ],
       "name": "JALLESMACHAD ON NM",
       "currentPrice": 2.05,
@@ -22790,7 +22793,7 @@
     {
       "ticker": "JBSS3",
       "logos": [
-        "data/logos/JBSS3.png"
+        "data/JBSS3.png"
       ],
       "name": "JBS ON NM",
       "currentPrice": 39.03,
@@ -22876,8 +22879,8 @@
     {
       "ticker": "JFEN3",
       "logos": [
-        "data/logos/JFEN3.png",
-        "data/logos/JFEN3.svg"
+        "data/JFEN3.png",
+        "data/JFEN3.svg"
       ],
       "name": "JOÃO FORTES ENGENHARIA S.A. ON",
       "currentPrice": 0.54,
@@ -22921,8 +22924,8 @@
     {
       "ticker": "JHSF3",
       "logos": [
-        "data/logos/JHSF3.png",
-        "data/logos/JHSF3.svg"
+        "data/JHSF3.png",
+        "data/JHSF3.svg"
       ],
       "name": "JHSF Part ON NM",
       "currentPrice": 11.06,
@@ -22966,8 +22969,8 @@
     {
       "ticker": "JOPA3",
       "logos": [
-        "data/logos/JOPA3.png",
-        "data/logos/JOPA3.svg"
+        "data/JOPA3.png",
+        "data/JOPA3.svg"
       ],
       "name": "JOSAPAR S/A ON",
       "currentPrice": 17.1,
@@ -23011,7 +23014,7 @@
     {
       "ticker": "JOPA4",
       "logos": [
-        "data/logos/JOPA4.png"
+        "data/JOPA4.png"
       ],
       "name": "JOSAPAR S/A PN",
       "currentPrice": 18.0,
@@ -23055,8 +23058,8 @@
     {
       "ticker": "JSLG3",
       "logos": [
-        "data/logos/JSLG3.png",
-        "data/logos/JSLG3.svg"
+        "data/JSLG3.png",
+        "data/JSLG3.svg"
       ],
       "name": "JULIO SIMOES ON NM",
       "currentPrice": 5.6,
@@ -23100,8 +23103,8 @@
     {
       "ticker": "KEPL3",
       "logos": [
-        "data/logos/KEPL3.png",
-        "data/logos/KEPL3.svg"
+        "data/KEPL3.png",
+        "data/KEPL3.svg"
       ],
       "name": "KEPLER WEBER SA ON",
       "currentPrice": 6.38,
@@ -23145,7 +23148,7 @@
     {
       "ticker": "KLBN11",
       "logos": [
-        "data/logos/KLBN11.png"
+        "data/KLBN11.png"
       ],
       "name": "KLABIN UNT N2",
       "currentPrice": 18.25,
@@ -23189,8 +23192,8 @@
     {
       "ticker": "KLBN3",
       "logos": [
-        "data/logos/KLBN3.png",
-        "data/logos/KLBN3.svg"
+        "data/KLBN3.png",
+        "data/KLBN3.svg"
       ],
       "name": "KLABIN ON N2",
       "currentPrice": 3.67,
@@ -23234,7 +23237,7 @@
     {
       "ticker": "KLBN4",
       "logos": [
-        "data/logos/KLBN4.png"
+        "data/KLBN4.png"
       ],
       "name": "KLABIN PN N2",
       "currentPrice": 3.64,
@@ -23362,7 +23365,7 @@
     {
       "ticker": "KRSA3",
       "logos": [
-        "data/logos/KRSA3.png"
+        "data/KRSA3.png"
       ],
       "name": "KORA SAUDE ON NM",
       "currentPrice": 8.87,
@@ -23448,7 +23451,7 @@
     {
       "ticker": "LAME3",
       "logos": [
-        "data/logos/LAME3.png"
+        "data/LAME3.png"
       ],
       "name": "LOJAS AMERICANAS S.A. ON",
       "currentPrice": 6.62,
@@ -23492,7 +23495,7 @@
     {
       "ticker": "LAME4",
       "logos": [
-        "data/logos/LAME4.png"
+        "data/LAME4.png"
       ],
       "name": "LOJAS AMERICANAS S.A. PN",
       "currentPrice": 6.55,
@@ -23536,8 +23539,8 @@
     {
       "ticker": "LAND3",
       "logos": [
-        "data/logos/LAND3.png",
-        "data/logos/LAND3.svg"
+        "data/LAND3.png",
+        "data/LAND3.svg"
       ],
       "name": "TERRASANTAPA ON NM",
       "currentPrice": 9.11,
@@ -23665,8 +23668,8 @@
     {
       "ticker": "LAVV3",
       "logos": [
-        "data/logos/LAVV3.png",
-        "data/logos/LAVV3.svg"
+        "data/LAVV3.png",
+        "data/LAVV3.svg"
       ],
       "name": "LAVVI ON NM",
       "currentPrice": 10.32,
@@ -23710,7 +23713,7 @@
     {
       "ticker": "LCAM3",
       "logos": [
-        "data/logos/LCAM3.png"
+        "data/LCAM3.png"
       ],
       "name": "LOCAMERICA ON NM",
       "currentPrice": 24.15,
@@ -24006,8 +24009,8 @@
     {
       "ticker": "LEVE3",
       "logos": [
-        "data/logos/LEVE3.png",
-        "data/logos/LEVE3.svg"
+        "data/LEVE3.png",
+        "data/LEVE3.svg"
       ],
       "name": "MAHLE METAL LEVE ON",
       "currentPrice": 31.88,
@@ -24261,8 +24264,8 @@
     {
       "ticker": "LIGT3",
       "logos": [
-        "data/logos/LIGT3.png",
-        "data/logos/LIGT3.svg"
+        "data/LIGT3.png",
+        "data/LIGT3.svg"
       ],
       "name": "LIGHT SA ON",
       "currentPrice": 3.26,
@@ -24306,7 +24309,7 @@
     {
       "ticker": "LINX3",
       "logos": [
-        "data/logos/LINX3.png"
+        "data/LINX3.png"
       ],
       "name": "LINX ON NM",
       "currentPrice": 37.4,
@@ -24350,7 +24353,7 @@
     {
       "ticker": "LIPR3",
       "logos": [
-        "data/logos/LIPR3.png"
+        "data/LIPR3.png"
       ],
       "name": "LIGHTPAR ON",
       "currentPrice": 36.01,
@@ -24478,8 +24481,8 @@
     {
       "ticker": "LJQQ3",
       "logos": [
-        "data/logos/LJQQ3.png",
-        "data/logos/LJQQ3.svg"
+        "data/LJQQ3.png",
+        "data/LJQQ3.svg"
       ],
       "name": "QUERO-QUERO ON NM",
       "currentPrice": 1.25,
@@ -24523,8 +24526,8 @@
     {
       "ticker": "LOGG3",
       "logos": [
-        "data/logos/LOGG3.png",
-        "data/logos/LOGG3.svg"
+        "data/LOGG3.png",
+        "data/LOGG3.svg"
       ],
       "name": "LOG COM PROP ON NM",
       "currentPrice": 25.43,
@@ -24568,8 +24571,8 @@
     {
       "ticker": "LOGN3",
       "logos": [
-        "data/logos/LOGN3.png",
-        "data/logos/LOGN3.svg"
+        "data/LOGN3.png",
+        "data/LOGN3.svg"
       ],
       "name": "Log-In ON NM",
       "currentPrice": 28.25,
@@ -24613,8 +24616,8 @@
     {
       "ticker": "LPSB3",
       "logos": [
-        "data/logos/LPSB3.png",
-        "data/logos/LPSB3.svg"
+        "data/LPSB3.png",
+        "data/LPSB3.svg"
       ],
       "name": "LOPES BRASIL ON NM",
       "currentPrice": 1.45,
@@ -24658,8 +24661,8 @@
     {
       "ticker": "LREN3",
       "logos": [
-        "data/logos/LREN3.png",
-        "data/logos/LREN3.svg"
+        "data/LREN3.png",
+        "data/LREN3.svg"
       ],
       "name": "RENNER ON",
       "currentPrice": 13.6,
@@ -24745,8 +24748,8 @@
     {
       "ticker": "LUPA3",
       "logos": [
-        "data/logos/LUPA3.png",
-        "data/logos/LUPA3.svg"
+        "data/LUPA3.png",
+        "data/LUPA3.svg"
       ],
       "name": "LUPATECH ON NM",
       "currentPrice": 0.64,
@@ -24790,7 +24793,7 @@
     {
       "ticker": "LUXM3",
       "logos": [
-        "data/logos/LUXM3.png"
+        "data/LUXM3.png"
       ],
       "name": "TREVISA INVESTIMENTOS SA ON",
       "currentPrice": 10.0,
@@ -24834,7 +24837,7 @@
     {
       "ticker": "LUXM4",
       "logos": [
-        "data/logos/LUXM4.png"
+        "data/LUXM4.png"
       ],
       "name": "TREVISA INVESTIMENTOS SA PN",
       "currentPrice": 2.76,
@@ -24878,8 +24881,8 @@
     {
       "ticker": "LWSA3",
       "logos": [
-        "data/logos/LWSA3.png",
-        "data/logos/LWSA3.svg"
+        "data/LWSA3.png",
+        "data/LWSA3.svg"
       ],
       "name": "LOCAWEB ON NM",
       "currentPrice": 3.72,
@@ -25007,7 +25010,7 @@
     {
       "ticker": "MAPT3",
       "logos": [
-        "data/logos/MAPT3.png"
+        "data/MAPT3.png"
       ],
       "name": "CIA MARCOPOLO ON",
       "currentPrice": 2.5,
@@ -25051,7 +25054,7 @@
     {
       "ticker": "MAPT4",
       "logos": [
-        "data/logos/MAPT4.png"
+        "data/MAPT4.png"
       ],
       "name": "CIA MARCOPOLO PN",
       "currentPrice": 3.0,
@@ -25137,8 +25140,8 @@
     {
       "ticker": "MATD3",
       "logos": [
-        "data/logos/MATD3.png",
-        "data/logos/MATD3.svg"
+        "data/MATD3.png",
+        "data/MATD3.svg"
       ],
       "name": "MATER DEI ON NM",
       "currentPrice": 4.84,
@@ -25182,8 +25185,8 @@
     {
       "ticker": "MBRF3",
       "logos": [
-        "data/logos/MBRF3.png",
-        "data/logos/MBRF3.svg"
+        "data/MBRF3.png",
+        "data/MBRF3.svg"
       ],
       "name": "MARFRIG ON NM",
       "currentPrice": 17.54,
@@ -25227,8 +25230,8 @@
     {
       "ticker": "MDIA3",
       "logos": [
-        "data/logos/MDIA3.png",
-        "data/logos/MDIA3.svg"
+        "data/MDIA3.png",
+        "data/MDIA3.svg"
       ],
       "name": "M.DIASBRANCO ON NM",
       "currentPrice": 17.15,
@@ -25272,8 +25275,8 @@
     {
       "ticker": "MDNE3",
       "logos": [
-        "data/logos/MDNE3.png",
-        "data/logos/MDNE3.svg"
+        "data/MDNE3.png",
+        "data/MDNE3.svg"
       ],
       "name": "MOURA DUBEUX ON NM",
       "currentPrice": 24.71,
@@ -25317,8 +25320,8 @@
     {
       "ticker": "MEAL3",
       "logos": [
-        "data/logos/MEAL3.png",
-        "data/logos/MEAL3.svg"
+        "data/MEAL3.png",
+        "data/MEAL3.svg"
       ],
       "name": "IMC S/A ON NM",
       "currentPrice": 0.61,
@@ -25404,8 +25407,8 @@
     {
       "ticker": "MELK3",
       "logos": [
-        "data/logos/MELK3.png",
-        "data/logos/MELK3.svg"
+        "data/MELK3.png",
+        "data/MELK3.svg"
       ],
       "name": "MELNICK ON NM",
       "currentPrice": 2.87,
@@ -25533,7 +25536,7 @@
     {
       "ticker": "MERC3",
       "logos": [
-        "data/logos/MERC3.png"
+        "data/MERC3.png"
       ],
       "name": "MERCANTIL BRASIL ON",
       "currentPrice": 15.28,
@@ -25577,7 +25580,7 @@
     {
       "ticker": "MERC4",
       "logos": [
-        "data/logos/MERC4.png"
+        "data/MERC4.png"
       ],
       "name": "MERCANTIL BRASIL PN",
       "currentPrice": 16.25,
@@ -25621,7 +25624,7 @@
     {
       "ticker": "MGEL3",
       "logos": [
-        "data/logos/MGEL3.png"
+        "data/MGEL3.png"
       ],
       "name": "MANGELS ON",
       "currentPrice": 25.0,
@@ -25665,7 +25668,7 @@
     {
       "ticker": "MGEL4",
       "logos": [
-        "data/logos/MGEL4.png"
+        "data/MGEL4.png"
       ],
       "name": "MANGELS PN N1",
       "currentPrice": 5.2,
@@ -25709,8 +25712,8 @@
     {
       "ticker": "MGLU3",
       "logos": [
-        "data/logos/MGLU3.png",
-        "data/logos/MGLU3.svg"
+        "data/MGLU3.png",
+        "data/MGLU3.svg"
       ],
       "name": "MAGAZ LUIZA ON NM",
       "currentPrice": 5.03,
@@ -25796,8 +25799,8 @@
     {
       "ticker": "MILS3",
       "logos": [
-        "data/logos/MILS3.png",
-        "data/logos/MILS3.svg"
+        "data/MILS3.png",
+        "data/MILS3.svg"
       ],
       "name": "MILLS ON NM",
       "currentPrice": 15.75,
@@ -25841,8 +25844,8 @@
     {
       "ticker": "MLAS3",
       "logos": [
-        "data/logos/MLAS3.png",
-        "data/logos/MLAS3.svg"
+        "data/MLAS3.png",
+        "data/MLAS3.svg"
       ],
       "name": "MULTILASER ON NM",
       "currentPrice": 1.77,
@@ -26138,7 +26141,7 @@
     {
       "ticker": "MMXM3",
       "logos": [
-        "data/logos/MMXM3.png"
+        "data/MMXM3.png"
       ],
       "name": "MMX MINER ON NM",
       "currentPrice": 14.0,
@@ -26182,8 +26185,8 @@
     {
       "ticker": "MNDL3",
       "logos": [
-        "data/logos/MNDL3.png",
-        "data/logos/MNDL3.svg"
+        "data/MNDL3.png",
+        "data/MNDL3.svg"
       ],
       "name": "MUNDIAL S/A ON",
       "currentPrice": 18.5,
@@ -26269,8 +26272,8 @@
     {
       "ticker": "MNPR3",
       "logos": [
-        "data/logos/MNPR3.png",
-        "data/logos/MNPR3.svg"
+        "data/MNPR3.png",
+        "data/MNPR3.svg"
       ],
       "name": "MINUPAR ON",
       "currentPrice": 3.94,
@@ -26440,7 +26443,7 @@
     {
       "ticker": "MOAR3",
       "logos": [
-        "data/logos/MOAR3.png"
+        "data/MOAR3.png"
       ],
       "name": "MONTEIRO ARANHA ON",
       "currentPrice": 61.21,
@@ -26484,7 +26487,7 @@
     {
       "ticker": "MODL11",
       "logos": [
-        "data/logos/MODL11.png"
+        "data/MODL11.png"
       ],
       "name": "MODALMAIS UNT N2",
       "currentPrice": 8.46,
@@ -26528,7 +26531,7 @@
     {
       "ticker": "MODL3",
       "logos": [
-        "data/logos/MODL3.png"
+        "data/MODL3.png"
       ],
       "name": "MODALMAIS ON N2",
       "currentPrice": 3.08,
@@ -26572,7 +26575,7 @@
     {
       "ticker": "MODL4",
       "logos": [
-        "data/logos/MODL4.png"
+        "data/MODL4.png"
       ],
       "name": "MODALMAIS PN N2",
       "currentPrice": 2.72,
@@ -26616,7 +26619,7 @@
     {
       "ticker": "MOSI3",
       "logos": [
-        "data/logos/MOSI3.png"
+        "data/MOSI3.png"
       ],
       "name": "MOSAICO SA ON NM",
       "currentPrice": 8.24,
@@ -26660,8 +26663,8 @@
     {
       "ticker": "MOTV3",
       "logos": [
-        "data/logos/MOTV3.png",
-        "data/logos/MOTV3.svg"
+        "data/MOTV3.png",
+        "data/MOTV3.svg"
       ],
       "name": "MOTIVA SA ON",
       "currentPrice": 14.76,
@@ -26705,8 +26708,8 @@
     {
       "ticker": "MOVI3",
       "logos": [
-        "data/logos/MOVI3.png",
-        "data/logos/MOVI3.svg"
+        "data/MOVI3.png",
+        "data/MOVI3.svg"
       ],
       "name": "MOVIDA ON NM",
       "currentPrice": 7.88,
@@ -26792,7 +26795,8 @@
     {
       "ticker": "MRSA3B",
       "logos": [
-        "data/logos/MRSA3B.png"
+        "data/MRSA3B.png",
+        "data/MRSA3B.svg"
       ],
       "name": "MRS LOGÍSTICA S/A ON MB",
       "currentPrice": 39.8,
@@ -26836,7 +26840,7 @@
     {
       "ticker": "MRSA5B",
       "logos": [
-        "data/logos/MRSA5B.png"
+        "data/MRSA5B.png"
       ],
       "name": "MRS LOGÍSTICA S/A PNA MB",
       "currentPrice": 35.58,
@@ -26880,7 +26884,7 @@
     {
       "ticker": "MRSA6B",
       "logos": [
-        "data/logos/MRSA6B.png"
+        "data/MRSA6B.png"
       ],
       "name": "MRS LOGÍSTICA S/A PNB MB",
       "currentPrice": 32.0,
@@ -27008,8 +27012,8 @@
     {
       "ticker": "MRVE3",
       "logos": [
-        "data/logos/MRVE3.png",
-        "data/logos/MRVE3.svg"
+        "data/MRVE3.png",
+        "data/MRVE3.svg"
       ],
       "name": "MRV ON NM",
       "currentPrice": 4.74,
@@ -27137,7 +27141,7 @@
     {
       "ticker": "MSPA3",
       "logos": [
-        "data/logos/MSPA3.png"
+        "data/MSPA3.png"
       ],
       "name": "MELHORAMENTOS ON",
       "currentPrice": 40.3,
@@ -27181,7 +27185,7 @@
     {
       "ticker": "MSPA4",
       "logos": [
-        "data/logos/MSPA4.png"
+        "data/MSPA4.png"
       ],
       "name": "MELHORAMENTOS PN",
       "currentPrice": 35.1,
@@ -27309,7 +27313,7 @@
     {
       "ticker": "MTIG3",
       "logos": [
-        "data/logos/MTIG3.png"
+        "data/MTIG3.png"
       ],
       "name": "IGUAÇU ON",
       "currentPrice": 5.21,
@@ -27353,7 +27357,7 @@
     {
       "ticker": "MTIG4",
       "logos": [
-        "data/logos/MTIG4.png"
+        "data/MTIG4.png"
       ],
       "name": "IGUAÇU PN",
       "currentPrice": 23.0,
@@ -27397,8 +27401,8 @@
     {
       "ticker": "MTRE3",
       "logos": [
-        "data/logos/MTRE3.png",
-        "data/logos/MTRE3.svg"
+        "data/MTRE3.png",
+        "data/MTRE3.svg"
       ],
       "name": "MITRE REALTY ON NM",
       "currentPrice": 2.89,
@@ -27442,7 +27446,7 @@
     {
       "ticker": "MTSA4",
       "logos": [
-        "data/logos/MTSA4.png"
+        "data/MTSA4.png"
       ],
       "name": "METISA PN",
       "currentPrice": 48.0,
@@ -27486,8 +27490,8 @@
     {
       "ticker": "MULT3",
       "logos": [
-        "data/logos/MULT3.png",
-        "data/logos/MULT3.svg"
+        "data/MULT3.png",
+        "data/MULT3.svg"
       ],
       "name": "Multiplan ON N2",
       "currentPrice": 28.13,
@@ -27531,7 +27535,7 @@
     {
       "ticker": "MWET3",
       "logos": [
-        "data/logos/MWET3.png"
+        "data/MWET3.png"
       ],
       "name": "WETZEL S.A. ON",
       "currentPrice": 16.0,
@@ -27575,7 +27579,7 @@
     {
       "ticker": "MWET4",
       "logos": [
-        "data/logos/MWET4.png"
+        "data/MWET4.png"
       ],
       "name": "WETZEL S.A. PN",
       "currentPrice": 15.89,
@@ -27619,8 +27623,8 @@
     {
       "ticker": "MYPK3",
       "logos": [
-        "data/logos/MYPK3.png",
-        "data/logos/MYPK3.svg"
+        "data/MYPK3.png",
+        "data/MYPK3.svg"
       ],
       "name": "IOCHPE-MAXION ON",
       "currentPrice": 9.71,
@@ -27706,7 +27710,7 @@
     {
       "ticker": "NAFG3",
       "logos": [
-        "data/logos/NAFG3.png"
+        "data/NAFG3.png"
       ],
       "name": "NADIR FIGUEIREDO ON",
       "currentPrice": 64.37,
@@ -27750,7 +27754,7 @@
     {
       "ticker": "NAFG4",
       "logos": [
-        "data/logos/NAFG4.png"
+        "data/NAFG4.png"
       ],
       "name": "NADIR FIGUEIREDO PN",
       "currentPrice": 64.42,
@@ -27794,7 +27798,7 @@
     {
       "ticker": "NATU3",
       "logos": [
-        "data/logos/NATU3.svg"
+        "data/NATU3.svg"
       ],
       "name": "NATURA COSMETICOS SA ON",
       "currentPrice": 8.38,
@@ -27838,7 +27842,7 @@
     {
       "ticker": "NEOE3",
       "logos": [
-        "data/logos/NEOE3.png"
+        "data/NEOE3.png"
       ],
       "name": "NEOENERGIA ON NM",
       "currentPrice": 33.8,
@@ -27966,8 +27970,8 @@
     {
       "ticker": "NEXP3",
       "logos": [
-        "data/logos/NEXP3.png",
-        "data/logos/NEXP3.svg"
+        "data/NEXP3.png",
+        "data/NEXP3.svg"
       ],
       "name": "NEXPE ON",
       "currentPrice": 2.37,
@@ -28011,7 +28015,7 @@
     {
       "ticker": "NGRD3",
       "logos": [
-        "data/logos/NGRD3.png"
+        "data/NGRD3.png"
       ],
       "name": "NEOGRID ON NM",
       "currentPrice": 34.28,
@@ -28055,8 +28059,8 @@
     {
       "ticker": "NORD3",
       "logos": [
-        "data/logos/NORD3.png",
-        "data/logos/NORD3.svg"
+        "data/NORD3.png",
+        "data/NORD3.svg"
       ],
       "name": "NORDON INDS METALURGICAS SA ON",
       "currentPrice": 1.44,
@@ -28100,7 +28104,7 @@
     {
       "ticker": "NTCO3",
       "logos": [
-        "data/logos/NTCO3.png"
+        "data/NTCO3.png"
       ],
       "name": "GRUPO NATURA ON NM",
       "currentPrice": 10.8,
@@ -28144,8 +28148,8 @@
     {
       "ticker": "NUTR3",
       "logos": [
-        "data/logos/NUTR3.png",
-        "data/logos/NUTR3.svg"
+        "data/NUTR3.png",
+        "data/NUTR3.svg"
       ],
       "name": "NUTRIPLANT ON",
       "currentPrice": 2.21,
@@ -28189,7 +28193,7 @@
     {
       "ticker": "OBTC3",
       "logos": [
-        "data/logos/OBTC3.svg"
+        "data/OBTC3.svg"
       ],
       "name": "ORANJEBTC ON",
       "currentPrice": 6.25,
@@ -28233,7 +28237,7 @@
     {
       "ticker": "ODER3",
       "logos": [
-        "data/logos/ODER3.png"
+        "data/ODER3.png"
       ],
       "name": "CONSERVAS ODERICH SA ON",
       "currentPrice": 0.0,
@@ -28277,7 +28281,7 @@
     {
       "ticker": "ODER4",
       "logos": [
-        "data/logos/ODER4.png"
+        "data/ODER4.png"
       ],
       "name": "CONSERVAS ODERICH SA PN",
       "currentPrice": 100.0,
@@ -28321,8 +28325,8 @@
     {
       "ticker": "OFSA3",
       "logos": [
-        "data/logos/OFSA3.png",
-        "data/logos/OFSA3.svg"
+        "data/OFSA3.png",
+        "data/OFSA3.svg"
       ],
       "name": "OUROFINO S/A ON NM",
       "currentPrice": 27.0,
@@ -28366,7 +28370,7 @@
     {
       "ticker": "OGXP3",
       "logos": [
-        "data/logos/OGXP3.png"
+        "data/OGXP3.png"
       ],
       "name": "OGX ON",
       "currentPrice": 1.63,
@@ -28410,8 +28414,8 @@
     {
       "ticker": "OIBR3",
       "logos": [
-        "data/logos/OIBR3.png",
-        "data/logos/OIBR3.svg"
+        "data/OIBR3.png",
+        "data/OIBR3.svg"
       ],
       "name": "OI ON N1",
       "currentPrice": 0.12,
@@ -28455,7 +28459,7 @@
     {
       "ticker": "OIBR4",
       "logos": [
-        "data/logos/OIBR4.png"
+        "data/OIBR4.png"
       ],
       "name": "OI ON N1",
       "currentPrice": 0.37,
@@ -28499,7 +28503,7 @@
     {
       "ticker": "OMGE3",
       "logos": [
-        "data/logos/OMGE3.png"
+        "data/OMGE3.png"
       ],
       "name": "OMEGA GER ON NM",
       "currentPrice": 27.57,
@@ -28543,7 +28547,7 @@
     {
       "ticker": "ONCO3",
       "logos": [
-        "data/logos/ONCO3.png"
+        "data/ONCO3.png"
       ],
       "name": "ONCOCLINICAS ON NM",
       "currentPrice": 0.55,
@@ -28587,8 +28591,8 @@
     {
       "ticker": "OPCT3",
       "logos": [
-        "data/logos/OPCT3.png",
-        "data/logos/OPCT3.svg"
+        "data/OPCT3.png",
+        "data/OPCT3.svg"
       ],
       "name": "OCEANPACT ON NM",
       "currentPrice": 10.3,
@@ -28632,8 +28636,8 @@
     {
       "ticker": "ORVR3",
       "logos": [
-        "data/logos/ORVR3.png",
-        "data/logos/ORVR3.svg"
+        "data/ORVR3.png",
+        "data/ORVR3.svg"
       ],
       "name": "ORIZON ON NM",
       "currentPrice": 70.5,
@@ -28719,8 +28723,8 @@
     {
       "ticker": "OSXB3",
       "logos": [
-        "data/logos/OSXB3.png",
-        "data/logos/OSXB3.svg"
+        "data/OSXB3.png",
+        "data/OSXB3.svg"
       ],
       "name": "OSX BRASIL ON NM",
       "currentPrice": 1.1,
@@ -28890,7 +28894,7 @@
     {
       "ticker": "PARD3",
       "logos": [
-        "data/logos/PARD3.png"
+        "data/PARD3.png"
       ],
       "name": "IHPARDINI ON NM",
       "currentPrice": 20.25,
@@ -28934,7 +28938,7 @@
     {
       "ticker": "PASS3",
       "logos": [
-        "data/logos/PASS3.svg"
+        "data/PASS3.svg"
       ],
       "name": "COMPASS ON NM",
       "currentPrice": 24.84,
@@ -28978,7 +28982,7 @@
     {
       "ticker": "PATI3",
       "logos": [
-        "data/logos/PATI3.png"
+        "data/PATI3.png"
       ],
       "name": "PANATLANTICA ON",
       "currentPrice": 30.22,
@@ -29022,7 +29026,7 @@
     {
       "ticker": "PATI4",
       "logos": [
-        "data/logos/PATI4.png"
+        "data/PATI4.png"
       ],
       "name": "PANATLANTICA PN",
       "currentPrice": 29.5,
@@ -29066,8 +29070,8 @@
     {
       "ticker": "PCAR3",
       "logos": [
-        "data/logos/PCAR3.png",
-        "data/logos/PCAR3.svg"
+        "data/PCAR3.png",
+        "data/PCAR3.svg"
       ],
       "name": "PÃO DE AÇÚCAR ON",
       "currentPrice": 2.59,
@@ -29111,7 +29115,7 @@
     {
       "ticker": "PCAR4",
       "logos": [
-        "data/logos/PCAR4.png"
+        "data/PCAR4.png"
       ],
       "name": "PÃO DE AÇÚCAR PN N1",
       "currentPrice": 72.11,
@@ -29197,8 +29201,8 @@
     {
       "ticker": "PDGR3",
       "logos": [
-        "data/logos/PDGR3.png",
-        "data/logos/PDGR3.svg"
+        "data/PDGR3.png",
+        "data/PDGR3.svg"
       ],
       "name": "PDG REALT ON NM",
       "currentPrice": 1.23,
@@ -29242,8 +29246,8 @@
     {
       "ticker": "PDTC3",
       "logos": [
-        "data/logos/PDTC3.png",
-        "data/logos/PDTC3.svg"
+        "data/PDTC3.png",
+        "data/PDTC3.svg"
       ],
       "name": "PADTEC ON",
       "currentPrice": 1.91,
@@ -29287,8 +29291,8 @@
     {
       "ticker": "PEAB3",
       "logos": [
-        "data/logos/PEAB3.png",
-        "data/logos/PEAB3.svg"
+        "data/PEAB3.png",
+        "data/PEAB3.svg"
       ],
       "name": "CIA. DE PARTICIPAÇÕES ALIANÇA DA BAHIA ON",
       "currentPrice": 39.0,
@@ -29332,7 +29336,7 @@
     {
       "ticker": "PEAB4",
       "logos": [
-        "data/logos/PEAB4.png"
+        "data/PEAB4.png"
       ],
       "name": "CIA. DE PARTICIPAÇÕES ALIANÇA DA BAHIA PN",
       "currentPrice": 39.5,
@@ -29376,8 +29380,8 @@
     {
       "ticker": "PETR3",
       "logos": [
-        "data/logos/PETR3.png",
-        "data/logos/PETR3.svg"
+        "data/PETR3.png",
+        "data/PETR3.svg"
       ],
       "name": "PETROBRAS ON",
       "currentPrice": 49.04,
@@ -29421,7 +29425,7 @@
     {
       "ticker": "PETR4",
       "logos": [
-        "data/logos/PETR4.png"
+        "data/PETR4.png"
       ],
       "name": "PETROBRAS PN",
       "currentPrice": 43.42,
@@ -29465,7 +29469,7 @@
     {
       "ticker": "PETZ3",
       "logos": [
-        "data/logos/PETZ3.png"
+        "data/PETZ3.png"
       ],
       "name": "PETZ ON NM",
       "currentPrice": 4.39,
@@ -29509,8 +29513,8 @@
     {
       "ticker": "PFRM3",
       "logos": [
-        "data/logos/PFRM3.png",
-        "data/logos/PFRM3.svg"
+        "data/PFRM3.png",
+        "data/PFRM3.svg"
       ],
       "name": "PROFARMA ON NM",
       "currentPrice": 6.92,
@@ -29554,8 +29558,8 @@
     {
       "ticker": "PGMN3",
       "logos": [
-        "data/logos/PGMN3.png",
-        "data/logos/PGMN3.svg"
+        "data/PGMN3.png",
+        "data/PGMN3.svg"
       ],
       "name": "PAGUE MENOS ON NM",
       "currentPrice": 3.18,
@@ -29599,8 +29603,8 @@
     {
       "ticker": "PINE3",
       "logos": [
-        "data/logos/PINE3.png",
-        "data/logos/PINE3.svg"
+        "data/PINE3.png",
+        "data/PINE3.svg"
       ],
       "name": "Pine ON N1",
       "currentPrice": 12.34,
@@ -29644,7 +29648,7 @@
     {
       "ticker": "PINE4",
       "logos": [
-        "data/logos/PINE4.png"
+        "data/PINE4.png"
       ],
       "name": "Pine PN",
       "currentPrice": 13.07,
@@ -29730,8 +29734,8 @@
     {
       "ticker": "PLAS3",
       "logos": [
-        "data/logos/PLAS3.png",
-        "data/logos/PLAS3.svg"
+        "data/PLAS3.png",
+        "data/PLAS3.svg"
       ],
       "name": "PLASCAR PARTICIPAÇÕES INDUSTRIAIS S.A ON",
       "currentPrice": 2.45,
@@ -29859,8 +29863,8 @@
     {
       "ticker": "PLPL3",
       "logos": [
-        "data/logos/PLPL3.png",
-        "data/logos/PLPL3.svg"
+        "data/PLPL3.png",
+        "data/PLPL3.svg"
       ],
       "name": "PLANOEPLANO ON NM",
       "currentPrice": 7.36,
@@ -29988,8 +29992,8 @@
     {
       "ticker": "PMAM3",
       "logos": [
-        "data/logos/PMAM3.png",
-        "data/logos/PMAM3.svg"
+        "data/PMAM3.png",
+        "data/PMAM3.svg"
       ],
       "name": "PARANAPANEMA S.A. ON",
       "currentPrice": 0.24,
@@ -30285,8 +30289,8 @@
     {
       "ticker": "PNVL3",
       "logos": [
-        "data/logos/PNVL3.png",
-        "data/logos/PNVL3.svg"
+        "data/PNVL3.png",
+        "data/PNVL3.svg"
       ],
       "name": "PANVEL FARMÁCIAS ON",
       "currentPrice": 11.85,
@@ -30330,7 +30334,7 @@
     {
       "ticker": "PNVL4",
       "logos": [
-        "data/logos/PNVL4.png"
+        "data/PNVL4.png"
       ],
       "name": "PANVEL FARMÁCIAS PN",
       "currentPrice": 18.62,
@@ -30374,8 +30378,8 @@
     {
       "ticker": "POMO3",
       "logos": [
-        "data/logos/POMO3.png",
-        "data/logos/POMO3.svg"
+        "data/POMO3.png",
+        "data/POMO3.svg"
       ],
       "name": "MARCOPOLO ON",
       "currentPrice": 4.9,
@@ -30419,7 +30423,7 @@
     {
       "ticker": "POMO4",
       "logos": [
-        "data/logos/POMO4.png"
+        "data/POMO4.png"
       ],
       "name": "MARCOPOLO PN N2",
       "currentPrice": 5.31,
@@ -30547,7 +30551,7 @@
     {
       "ticker": "PORT3",
       "logos": [
-        "data/logos/PORT3.png"
+        "data/PORT3.png"
       ],
       "name": "WILSON SONS ON NM",
       "currentPrice": 18.76,
@@ -30591,8 +30595,8 @@
     {
       "ticker": "POSI3",
       "logos": [
-        "data/logos/POSI3.png",
-        "data/logos/POSI3.svg"
+        "data/POSI3.png",
+        "data/POSI3.svg"
       ],
       "name": "POSITIVO TEC ON NM",
       "currentPrice": 3.55,
@@ -30636,7 +30640,7 @@
     {
       "ticker": "POWE3",
       "logos": [
-        "data/logos/POWE3.png"
+        "data/POWE3.png"
       ],
       "name": "FOCUS ON ON NM",
       "currentPrice": 10.9,
@@ -30890,8 +30894,8 @@
     {
       "ticker": "PRIO3",
       "logos": [
-        "data/logos/PRIO3.png",
-        "data/logos/PRIO3.svg"
+        "data/PRIO3.png",
+        "data/PRIO3.svg"
       ],
       "name": "PETRORIO ON NM",
       "currentPrice": 60.85,
@@ -30977,8 +30981,8 @@
     {
       "ticker": "PRNR3",
       "logos": [
-        "data/logos/PRNR3.png",
-        "data/logos/PRNR3.svg"
+        "data/PRNR3.png",
+        "data/PRNR3.svg"
       ],
       "name": "PRINER ON NM",
       "currentPrice": 19.74,
@@ -31106,8 +31110,8 @@
     {
       "ticker": "PSSA3",
       "logos": [
-        "data/logos/PSSA3.png",
-        "data/logos/PSSA3.svg"
+        "data/PSSA3.png",
+        "data/PSSA3.svg"
       ],
       "name": "PORTO SEGURO SA ON",
       "currentPrice": 54.7,
@@ -31151,8 +31155,8 @@
     {
       "ticker": "PTBL3",
       "logos": [
-        "data/logos/PTBL3.png",
-        "data/logos/PTBL3.svg"
+        "data/PTBL3.png",
+        "data/PTBL3.svg"
       ],
       "name": "PORTOBELLO S/A ON",
       "currentPrice": 1.68,
@@ -31322,7 +31326,7 @@
     {
       "ticker": "PTNT3",
       "logos": [
-        "data/logos/PTNT3.png"
+        "data/PTNT3.png"
       ],
       "name": "PETTENATI ON",
       "currentPrice": 8.42,
@@ -31366,7 +31370,7 @@
     {
       "ticker": "PTNT4",
       "logos": [
-        "data/logos/PTNT4.png"
+        "data/PTNT4.png"
       ],
       "name": "PETTENATI PN",
       "currentPrice": 8.5,
@@ -31536,8 +31540,8 @@
     {
       "ticker": "QUAL3",
       "logos": [
-        "data/logos/QUAL3.png",
-        "data/logos/QUAL3.svg"
+        "data/QUAL3.png",
+        "data/QUAL3.svg"
       ],
       "name": "QUALICORP ON NM",
       "currentPrice": 1.53,
@@ -31581,8 +31585,8 @@
     {
       "ticker": "RADL3",
       "logos": [
-        "data/logos/RADL3.png",
-        "data/logos/RADL3.svg"
+        "data/RADL3.png",
+        "data/RADL3.svg"
       ],
       "name": "RAIADROGASIL ON",
       "currentPrice": 18.48,
@@ -31668,8 +31672,8 @@
     {
       "ticker": "RAIL3",
       "logos": [
-        "data/logos/RAIL3.png",
-        "data/logos/RAIL3.svg"
+        "data/RAIL3.png",
+        "data/RAIL3.svg"
       ],
       "name": "RUMO S.A. ON NM",
       "currentPrice": 14.44,
@@ -31713,8 +31717,8 @@
     {
       "ticker": "RAIZ4",
       "logos": [
-        "data/logos/RAIZ4.png",
-        "data/logos/RAIZ4.svg"
+        "data/RAIZ4.png",
+        "data/RAIZ4.svg"
       ],
       "name": "RAIZEN PN N2",
       "currentPrice": 0.26,
@@ -31758,8 +31762,8 @@
     {
       "ticker": "RANI3",
       "logos": [
-        "data/logos/RANI3.png",
-        "data/logos/RANI3.svg"
+        "data/RANI3.png",
+        "data/RANI3.svg"
       ],
       "name": "IRANI ON",
       "currentPrice": 8.11,
@@ -31803,7 +31807,7 @@
     {
       "ticker": "RANI4",
       "logos": [
-        "data/logos/RANI4.png"
+        "data/RANI4.png"
       ],
       "name": "IRANI PN",
       "currentPrice": 5.5,
@@ -31847,8 +31851,8 @@
     {
       "ticker": "RAPT3",
       "logos": [
-        "data/logos/RAPT3.png",
-        "data/logos/RAPT3.svg"
+        "data/RAPT3.png",
+        "data/RAPT3.svg"
       ],
       "name": "RANDON S.A. IMPLEMENTOS E PARTICIPAÇÕES ON N1",
       "currentPrice": 4.74,
@@ -31892,7 +31896,7 @@
     {
       "ticker": "RAPT4",
       "logos": [
-        "data/logos/RAPT4.png"
+        "data/RAPT4.png"
       ],
       "name": "RANDON S.A. IMPLEMENTOS E PARTICIPAÇÕES PN N1",
       "currentPrice": 4.9,
@@ -31936,8 +31940,8 @@
     {
       "ticker": "RCSL3",
       "logos": [
-        "data/logos/RCSL3.png",
-        "data/logos/RCSL3.svg"
+        "data/RCSL3.png",
+        "data/RCSL3.svg"
       ],
       "name": "RECRUSUL ON",
       "currentPrice": 0.46,
@@ -31981,7 +31985,7 @@
     {
       "ticker": "RCSL4",
       "logos": [
-        "data/logos/RCSL4.png"
+        "data/RCSL4.png"
       ],
       "name": "RECRUSUL PN",
       "currentPrice": 0.73,
@@ -32235,7 +32239,7 @@
     {
       "ticker": "RDNI3",
       "logos": [
-        "data/logos/RDNI3.png"
+        "data/RDNI3.png"
       ],
       "name": "RNI ON NM",
       "currentPrice": 2.14,
@@ -32279,8 +32283,8 @@
     {
       "ticker": "RDOR3",
       "logos": [
-        "data/logos/RDOR3.png",
-        "data/logos/RDOR3.svg"
+        "data/RDOR3.png",
+        "data/RDOR3.svg"
       ],
       "name": "REDE D OR ON NM",
       "currentPrice": 34.64,
@@ -32366,8 +32370,8 @@
     {
       "ticker": "RECV3",
       "logos": [
-        "data/logos/RECV3.png",
-        "data/logos/RECV3.svg"
+        "data/RECV3.png",
+        "data/RECV3.svg"
       ],
       "name": "PETRORECONCA ON NM",
       "currentPrice": 10.67,
@@ -32411,8 +32415,8 @@
     {
       "ticker": "REDE3",
       "logos": [
-        "data/logos/REDE3.png",
-        "data/logos/REDE3.svg"
+        "data/REDE3.png",
+        "data/REDE3.svg"
       ],
       "name": "REDE EMPRESAS DE ENERGIA ELÉTRICA S.A. ON",
       "currentPrice": 5.82,
@@ -32540,8 +32544,8 @@
     {
       "ticker": "RENT3",
       "logos": [
-        "data/logos/RENT3.png",
-        "data/logos/RENT3.svg"
+        "data/RENT3.png",
+        "data/RENT3.svg"
       ],
       "name": "LOCALIZA RENT A CAR ON",
       "currentPrice": 37.61,
@@ -32795,8 +32799,8 @@
     {
       "ticker": "RIAA3",
       "logos": [
-        "data/logos/RIAA3.png",
-        "data/logos/RIAA3.svg"
+        "data/RIAA3.png",
+        "data/RIAA3.svg"
       ],
       "name": "RIACHUELO ON NM",
       "currentPrice": 7.95,
@@ -33008,7 +33012,7 @@
     {
       "ticker": "RLOG3",
       "logos": [
-        "data/logos/RLOG3.png"
+        "data/RLOG3.png"
       ],
       "name": "COSAN LOG ON NM",
       "currentPrice": 23.08,
@@ -33052,7 +33056,7 @@
     {
       "ticker": "RNEW11",
       "logos": [
-        "data/logos/RNEW11.png"
+        "data/RNEW11.png"
       ],
       "name": "RENOVA UNT N2",
       "currentPrice": 3.23,
@@ -33096,8 +33100,8 @@
     {
       "ticker": "RNEW3",
       "logos": [
-        "data/logos/RNEW3.png",
-        "data/logos/RNEW3.svg"
+        "data/RNEW3.png",
+        "data/RNEW3.svg"
       ],
       "name": "RENOVA ON N2",
       "currentPrice": 0.82,
@@ -33141,7 +33145,7 @@
     {
       "ticker": "RNEW4",
       "logos": [
-        "data/logos/RNEW4.png"
+        "data/RNEW4.png"
       ],
       "name": "RENOVA PN N2",
       "currentPrice": 0.81,
@@ -33269,8 +33273,8 @@
     {
       "ticker": "ROMI3",
       "logos": [
-        "data/logos/ROMI3.png",
-        "data/logos/ROMI3.svg"
+        "data/ROMI3.png",
+        "data/ROMI3.svg"
       ],
       "name": "ROMI ON",
       "currentPrice": 5.87,
@@ -33356,7 +33360,7 @@
     {
       "ticker": "RPAD3",
       "logos": [
-        "data/logos/RPAD3.png"
+        "data/RPAD3.png"
       ],
       "name": "ALFA HOLDINGS ON",
       "currentPrice": 6.51,
@@ -33400,7 +33404,7 @@
     {
       "ticker": "RPAD5",
       "logos": [
-        "data/logos/RPAD5.png"
+        "data/RPAD5.png"
       ],
       "name": "ALFA HOLDINGS PNA",
       "currentPrice": 6.65,
@@ -33444,7 +33448,7 @@
     {
       "ticker": "RPAD6",
       "logos": [
-        "data/logos/RPAD6.png"
+        "data/RPAD6.png"
       ],
       "name": "ALFA HOLDINGS PNB",
       "currentPrice": 6.5,
@@ -33488,8 +33492,8 @@
     {
       "ticker": "RPMG3",
       "logos": [
-        "data/logos/RPMG3.png",
-        "data/logos/RPMG3.svg"
+        "data/RPMG3.png",
+        "data/RPMG3.svg"
       ],
       "name": "REFINARIA DE PETRÓLEOS DE MANGUINHOS S.A ON",
       "currentPrice": 1.15,
@@ -33617,7 +33621,7 @@
     {
       "ticker": "RSID3",
       "logos": [
-        "data/logos/RSID3.png"
+        "data/RSID3.png"
       ],
       "name": "ROSSI RESIDENCIAL ON N1",
       "currentPrice": 1.6,
@@ -33745,7 +33749,7 @@
     {
       "ticker": "RSUL4",
       "logos": [
-        "data/logos/RSUL4.png"
+        "data/RSUL4.png"
       ],
       "name": "METALURGICA RIOSULENSE S/A PN",
       "currentPrice": 42.4,
@@ -33789,7 +33793,7 @@
     {
       "ticker": "RVEE3",
       "logos": [
-        "data/logos/RVEE3.svg"
+        "data/RVEE3.svg"
       ],
       "name": "REVEE ON NM",
       "currentPrice": 0.84,
@@ -33917,7 +33921,7 @@
     {
       "ticker": "SANB11",
       "logos": [
-        "data/logos/SANB11.png"
+        "data/SANB11.png"
       ],
       "name": "SANTANDER UNT",
       "currentPrice": 28.62,
@@ -33961,8 +33965,8 @@
     {
       "ticker": "SANB3",
       "logos": [
-        "data/logos/SANB3.png",
-        "data/logos/SANB3.svg"
+        "data/SANB3.png",
+        "data/SANB3.svg"
       ],
       "name": "SANTANDER ON",
       "currentPrice": 14.45,
@@ -34006,7 +34010,7 @@
     {
       "ticker": "SANB4",
       "logos": [
-        "data/logos/SANB4.png"
+        "data/SANB4.png"
       ],
       "name": "SANTANDER PN",
       "currentPrice": 14.14,
@@ -34050,7 +34054,7 @@
     {
       "ticker": "SAPR11",
       "logos": [
-        "data/logos/SAPR11.png"
+        "data/SAPR11.png"
       ],
       "name": "SANEPAR UNT N2",
       "currentPrice": 36.23,
@@ -34094,8 +34098,8 @@
     {
       "ticker": "SAPR3",
       "logos": [
-        "data/logos/SAPR3.png",
-        "data/logos/SAPR3.svg"
+        "data/SAPR3.png",
+        "data/SAPR3.svg"
       ],
       "name": "SANEPAR ON",
       "currentPrice": 8.05,
@@ -34139,7 +34143,7 @@
     {
       "ticker": "SAPR4",
       "logos": [
-        "data/logos/SAPR4.png"
+        "data/SAPR4.png"
       ],
       "name": "SANEPAR PN",
       "currentPrice": 7.11,
@@ -34225,8 +34229,8 @@
     {
       "ticker": "SAUD3",
       "logos": [
-        "data/logos/SAUD3.png",
-        "data/logos/SAUD3.svg"
+        "data/SAUD3.png",
+        "data/SAUD3.svg"
       ],
       "name": "BRADSAUDE ON NM",
       "currentPrice": 15.92,
@@ -34270,8 +34274,8 @@
     {
       "ticker": "SBFG3",
       "logos": [
-        "data/logos/SBFG3.png",
-        "data/logos/SBFG3.svg"
+        "data/SBFG3.png",
+        "data/SBFG3.svg"
       ],
       "name": "GRUPO SBF ON",
       "currentPrice": 9.45,
@@ -34315,8 +34319,8 @@
     {
       "ticker": "SBSP3",
       "logos": [
-        "data/logos/SBSP3.png",
-        "data/logos/SBSP3.svg"
+        "data/SBSP3.png",
+        "data/SBSP3.svg"
       ],
       "name": "SABESP ON NM",
       "currentPrice": 27.7,
@@ -34360,8 +34364,8 @@
     {
       "ticker": "SCAR3",
       "logos": [
-        "data/logos/SCAR3.png",
-        "data/logos/SCAR3.svg"
+        "data/SCAR3.png",
+        "data/SCAR3.svg"
       ],
       "name": "SÃO CARLOS EMPREEND.E PARTICIPAÇÕES S.A. ON",
       "currentPrice": 13.33,
@@ -34741,7 +34745,7 @@
     {
       "ticker": "SEDU3",
       "logos": [
-        "data/logos/SEDU3.png"
+        "data/SEDU3.png"
       ],
       "name": "SOMOS EDUCA ON NM",
       "currentPrice": 23.8,
@@ -34785,8 +34789,8 @@
     {
       "ticker": "SEER3",
       "logos": [
-        "data/logos/SEER3.png",
-        "data/logos/SEER3.svg"
+        "data/SEER3.png",
+        "data/SEER3.svg"
       ],
       "name": "SER EDUCA ON NM",
       "currentPrice": 12.14,
@@ -34872,8 +34876,8 @@
     {
       "ticker": "SEQL3",
       "logos": [
-        "data/logos/SEQL3.png",
-        "data/logos/SEQL3.svg"
+        "data/SEQL3.png",
+        "data/SEQL3.svg"
       ],
       "name": "SEQUOIA LOG ON NM",
       "currentPrice": 0.07,
@@ -35085,7 +35089,7 @@
     {
       "ticker": "SGPS3",
       "logos": [
-        "data/logos/SGPS3.png"
+        "data/SGPS3.png"
       ],
       "name": "Springs ON NM",
       "currentPrice": 1.64,
@@ -35129,8 +35133,8 @@
     {
       "ticker": "SHOW3",
       "logos": [
-        "data/logos/SHOW3.png",
-        "data/logos/SHOW3.svg"
+        "data/SHOW3.png",
+        "data/SHOW3.svg"
       ],
       "name": "TIME FOR FUN ON NM",
       "currentPrice": 6.05,
@@ -35174,7 +35178,7 @@
     {
       "ticker": "SHUL4",
       "logos": [
-        "data/logos/SHUL4.png"
+        "data/SHUL4.png"
       ],
       "name": "SCHULZ PN",
       "currentPrice": 4.48,
@@ -35218,8 +35222,8 @@
     {
       "ticker": "SIMH3",
       "logos": [
-        "data/logos/SIMH3.png",
-        "data/logos/SIMH3.svg"
+        "data/SIMH3.png",
+        "data/SIMH3.svg"
       ],
       "name": "SIMPAR ON NM",
       "currentPrice": 7.71,
@@ -35347,8 +35351,8 @@
     {
       "ticker": "SLCE3",
       "logos": [
-        "data/logos/SLCE3.png",
-        "data/logos/SLCE3.svg"
+        "data/SLCE3.png",
+        "data/SLCE3.svg"
       ],
       "name": "SLC Agricola ON NM",
       "currentPrice": 13.38,
@@ -35434,7 +35438,7 @@
     {
       "ticker": "SLED3",
       "logos": [
-        "data/logos/SLED3.png"
+        "data/SLED3.png"
       ],
       "name": "EDITORA SARAIVA ON",
       "currentPrice": 3.21,
@@ -35478,7 +35482,7 @@
     {
       "ticker": "SLED4",
       "logos": [
-        "data/logos/SLED4.png"
+        "data/SLED4.png"
       ],
       "name": "EDITORA SARAIVA PN",
       "currentPrice": 1.6,
@@ -35522,8 +35526,8 @@
     {
       "ticker": "SMFT3",
       "logos": [
-        "data/logos/SMFT3.png",
-        "data/logos/SMFT3.svg"
+        "data/SMFT3.png",
+        "data/SMFT3.svg"
       ],
       "name": "SMART FIT ON NM",
       "currentPrice": 19.7,
@@ -35609,7 +35613,7 @@
     {
       "ticker": "SMLS3",
       "logos": [
-        "data/logos/SMLS3.png"
+        "data/SMLS3.png"
       ],
       "name": "SMILES ON NM",
       "currentPrice": 22.4,
@@ -35653,8 +35657,8 @@
     {
       "ticker": "SMTO3",
       "logos": [
-        "data/logos/SMTO3.png",
-        "data/logos/SMTO3.svg"
+        "data/SMTO3.png",
+        "data/SMTO3.svg"
       ],
       "name": "SAO MARTINHO ON NM",
       "currentPrice": 14.52,
@@ -35698,7 +35702,7 @@
     {
       "ticker": "SNSY5",
       "logos": [
-        "data/logos/SNSY5.png"
+        "data/SNSY5.png"
       ],
       "name": "SANSUY S.A. INDÚSTRIA DE PLÁSTICOS PNA",
       "currentPrice": 2.49,
@@ -35742,8 +35746,8 @@
     {
       "ticker": "SOJA3",
       "logos": [
-        "data/logos/SOJA3.png",
-        "data/logos/SOJA3.svg"
+        "data/SOJA3.png",
+        "data/SOJA3.svg"
       ],
       "name": "BOA SAFRA ON NM",
       "currentPrice": 5.51,
@@ -35787,7 +35791,7 @@
     {
       "ticker": "SOMA3",
       "logos": [
-        "data/logos/SOMA3.png"
+        "data/SOMA3.png"
       ],
       "name": "GRUPO SOMA ON NM",
       "currentPrice": 5.94,
@@ -35831,7 +35835,7 @@
     {
       "ticker": "SOND3",
       "logos": [
-        "data/logos/SOND3.png"
+        "data/SOND3.png"
       ],
       "name": "SONDOTECNICA S/A. ON",
       "currentPrice": 38.66,
@@ -35875,7 +35879,7 @@
     {
       "ticker": "SOND5",
       "logos": [
-        "data/logos/SOND5.png"
+        "data/SOND5.png"
       ],
       "name": "SONDOTECNICA S/A. PNA",
       "currentPrice": 75.01,
@@ -35919,7 +35923,7 @@
     {
       "ticker": "SOND6",
       "logos": [
-        "data/logos/SOND6.png"
+        "data/SOND6.png"
       ],
       "name": "SONDOTECNICA S/A. PNB",
       "currentPrice": 79.98,
@@ -36089,7 +36093,7 @@
     {
       "ticker": "SQIA3",
       "logos": [
-        "data/logos/SQIA3.png"
+        "data/SQIA3.png"
       ],
       "name": "SINQIA ON",
       "currentPrice": 27.37,
@@ -36133,7 +36137,7 @@
     {
       "ticker": "SRNA3",
       "logos": [
-        "data/logos/SRNA3.png"
+        "data/SRNA3.png"
       ],
       "name": "SERENA ON NM",
       "currentPrice": 12.62,
@@ -36219,7 +36223,7 @@
     {
       "ticker": "STBP3",
       "logos": [
-        "data/logos/STBP3.png"
+        "data/STBP3.png"
       ],
       "name": "SBPAR ON NM",
       "currentPrice": 14.42,
@@ -36347,7 +36351,7 @@
     {
       "ticker": "SULA11",
       "logos": [
-        "data/logos/SULA11.png"
+        "data/SULA11.png"
       ],
       "name": "Sul America UNT N2",
       "currentPrice": 22.25,
@@ -36391,7 +36395,7 @@
     {
       "ticker": "SULA3",
       "logos": [
-        "data/logos/SULA3.png"
+        "data/SULA3.png"
       ],
       "name": "Sul America ON N2",
       "currentPrice": 7.43,
@@ -36435,7 +36439,7 @@
     {
       "ticker": "SULA4",
       "logos": [
-        "data/logos/SULA4.png"
+        "data/SULA4.png"
       ],
       "name": "Sul America PN",
       "currentPrice": 7.63,
@@ -36605,8 +36609,8 @@
     {
       "ticker": "SUZB3",
       "logos": [
-        "data/logos/SUZB3.png",
-        "data/logos/SUZB3.svg"
+        "data/SUZB3.png",
+        "data/SUZB3.svg"
       ],
       "name": "Suzano Papel ON",
       "currentPrice": 43.32,
@@ -36734,8 +36738,8 @@
     {
       "ticker": "SYNE3",
       "logos": [
-        "data/logos/SYNE3.png",
-        "data/logos/SYNE3.svg"
+        "data/SYNE3.png",
+        "data/SYNE3.svg"
       ],
       "name": "SYN PROP TEC ON NM",
       "currentPrice": 4.09,
@@ -36821,7 +36825,7 @@
     {
       "ticker": "TAEE11",
       "logos": [
-        "data/logos/TAEE11.png"
+        "data/TAEE11.png"
       ],
       "name": "TAESA UNT",
       "currentPrice": 39.66,
@@ -36865,8 +36869,8 @@
     {
       "ticker": "TAEE3",
       "logos": [
-        "data/logos/TAEE3.png",
-        "data/logos/TAEE3.svg"
+        "data/TAEE3.png",
+        "data/TAEE3.svg"
       ],
       "name": "TAESA N2",
       "currentPrice": 13.19,
@@ -36910,7 +36914,7 @@
     {
       "ticker": "TAEE4",
       "logos": [
-        "data/logos/TAEE4.png"
+        "data/TAEE4.png"
       ],
       "name": "TAESA PN N2",
       "currentPrice": 13.43,
@@ -37122,8 +37126,8 @@
     {
       "ticker": "TASA3",
       "logos": [
-        "data/logos/TASA3.png",
-        "data/logos/TASA3.svg"
+        "data/TASA3.png",
+        "data/TASA3.svg"
       ],
       "name": "TAURUS ARMAS ON",
       "currentPrice": 5.1,
@@ -37167,7 +37171,7 @@
     {
       "ticker": "TASA4",
       "logos": [
-        "data/logos/TASA4.png"
+        "data/TASA4.png"
       ],
       "name": "TAURUS ARMAS PN",
       "currentPrice": 4.88,
@@ -37295,7 +37299,7 @@
     {
       "ticker": "TCNO3",
       "logos": [
-        "data/logos/TCNO3.png"
+        "data/TCNO3.png"
       ],
       "name": "TECNOSOLO S/A ON",
       "currentPrice": 1.2,
@@ -37339,7 +37343,7 @@
     {
       "ticker": "TCNO4",
       "logos": [
-        "data/logos/TCNO4.png"
+        "data/TCNO4.png"
       ],
       "name": "TECNOSOLO S/A PN",
       "currentPrice": 0.85,
@@ -37467,8 +37471,8 @@
     {
       "ticker": "TCSA3",
       "logos": [
-        "data/logos/TCSA3.png",
-        "data/logos/TCSA3.svg"
+        "data/TCSA3.png",
+        "data/TCSA3.svg"
       ],
       "name": "TECNISA ON NM",
       "currentPrice": 0.77,
@@ -37638,8 +37642,8 @@
     {
       "ticker": "TECN3",
       "logos": [
-        "data/logos/TECN3.png",
-        "data/logos/TECN3.svg"
+        "data/TECN3.png",
+        "data/TECN3.svg"
       ],
       "name": "TECHNOS ON NM",
       "currentPrice": 9.37,
@@ -37725,7 +37729,7 @@
     {
       "ticker": "TEKA3",
       "logos": [
-        "data/logos/TEKA3.png"
+        "data/TEKA3.png"
       ],
       "name": "TEKA S.A. ON",
       "currentPrice": 42.5,
@@ -37769,7 +37773,7 @@
     {
       "ticker": "TEKA4",
       "logos": [
-        "data/logos/TEKA4.png"
+        "data/TEKA4.png"
       ],
       "name": "TEKA S.A. PN",
       "currentPrice": 21.25,
@@ -37813,8 +37817,8 @@
     {
       "ticker": "TELB3",
       "logos": [
-        "data/logos/TELB3.png",
-        "data/logos/TELB3.svg"
+        "data/TELB3.png",
+        "data/TELB3.svg"
       ],
       "name": "TELEBRAS ON",
       "currentPrice": 10.59,
@@ -37858,7 +37862,7 @@
     {
       "ticker": "TELB4",
       "logos": [
-        "data/logos/TELB4.png"
+        "data/TELB4.png"
       ],
       "name": "TELEBRAS PN",
       "currentPrice": 7.4,
@@ -37944,8 +37948,8 @@
     {
       "ticker": "TEND3",
       "logos": [
-        "data/logos/TEND3.png",
-        "data/logos/TEND3.svg"
+        "data/TEND3.png",
+        "data/TEND3.svg"
       ],
       "name": "Tenda ON NM",
       "currentPrice": 30.33,
@@ -38115,7 +38119,7 @@
     {
       "ticker": "TESA3",
       "logos": [
-        "data/logos/TESA3.png"
+        "data/TESA3.png"
       ],
       "name": "TERRA SANTA ON NM",
       "currentPrice": 48.0,
@@ -38159,8 +38163,8 @@
     {
       "ticker": "TFCO4",
       "logos": [
-        "data/logos/TFCO4.png",
-        "data/logos/TFCO4.svg"
+        "data/TFCO4.png",
+        "data/TFCO4.svg"
       ],
       "name": "TRACK FIELD PN",
       "currentPrice": 14.69,
@@ -38204,8 +38208,8 @@
     {
       "ticker": "TGMA3",
       "logos": [
-        "data/logos/TGMA3.png",
-        "data/logos/TGMA3.svg"
+        "data/TGMA3.png",
+        "data/TGMA3.svg"
       ],
       "name": "Tegma ON NM",
       "currentPrice": 30.45,
@@ -38249,7 +38253,7 @@
     {
       "ticker": "TIET11",
       "logos": [
-        "data/logos/TIET11.png"
+        "data/TIET11.png"
       ],
       "name": "AES TIETE E UNT N2",
       "currentPrice": 17.44,
@@ -38293,7 +38297,7 @@
     {
       "ticker": "TIET3",
       "logos": [
-        "data/logos/TIET3.png"
+        "data/TIET3.png"
       ],
       "name": "AES TIETE E ON N2",
       "currentPrice": 3.49,
@@ -38337,7 +38341,7 @@
     {
       "ticker": "TIET4",
       "logos": [
-        "data/logos/TIET4.png"
+        "data/TIET4.png"
       ],
       "name": "AES TIETE E PN N2",
       "currentPrice": 3.51,
@@ -38423,8 +38427,8 @@
     {
       "ticker": "TIMS3",
       "logos": [
-        "data/logos/TIMS3.png",
-        "data/logos/TIMS3.svg"
+        "data/TIMS3.png",
+        "data/TIMS3.svg"
       ],
       "name": "TIM ON NM",
       "currentPrice": 19.43,
@@ -38468,7 +38472,7 @@
     {
       "ticker": "TKNO4",
       "logos": [
-        "data/logos/TKNO4.png"
+        "data/TKNO4.png"
       ],
       "name": "TEKNO PN",
       "currentPrice": 216.0,
@@ -39268,8 +39272,8 @@
     {
       "ticker": "TOKY3",
       "logos": [
-        "data/logos/TOKY3.png",
-        "data/logos/TOKY3.svg"
+        "data/TOKY3.png",
+        "data/TOKY3.svg"
       ],
       "name": "GRUPO TOKY ON",
       "currentPrice": 0.28,
@@ -39313,8 +39317,8 @@
     {
       "ticker": "TOTS3",
       "logos": [
-        "data/logos/TOTS3.png",
-        "data/logos/TOTS3.svg"
+        "data/TOTS3.png",
+        "data/TOTS3.svg"
       ],
       "name": "TOTVS ON NM",
       "currentPrice": 31.06,
@@ -39358,7 +39362,7 @@
     {
       "ticker": "TOYB3",
       "logos": [
-        "data/logos/TOYB3.png"
+        "data/TOYB3.png"
       ],
       "name": "TEC TOY ON",
       "currentPrice": 2.29,
@@ -39402,7 +39406,7 @@
     {
       "ticker": "TOYB4",
       "logos": [
-        "data/logos/TOYB4.png"
+        "data/TOYB4.png"
       ],
       "name": "TEC TOY PN",
       "currentPrice": 2.5,
@@ -39446,8 +39450,8 @@
     {
       "ticker": "TPIS3",
       "logos": [
-        "data/logos/TPIS3.png",
-        "data/logos/TPIS3.svg"
+        "data/TPIS3.png",
+        "data/TPIS3.svg"
       ],
       "name": "TRIUNFO PARTICIPACOES SA ON NM",
       "currentPrice": 8.3,
@@ -39659,8 +39663,8 @@
     {
       "ticker": "TRIS3",
       "logos": [
-        "data/logos/TRIS3.png",
-        "data/logos/TRIS3.svg"
+        "data/TRIS3.png",
+        "data/TRIS3.svg"
       ],
       "name": "Trisul ON NM",
       "currentPrice": 4.26,
@@ -39998,8 +40002,8 @@
     {
       "ticker": "TTEN3",
       "logos": [
-        "data/logos/TTEN3.png",
-        "data/logos/TTEN3.svg"
+        "data/TTEN3.png",
+        "data/TTEN3.svg"
       ],
       "name": "3TENTOS ON NM",
       "currentPrice": 11.8,
@@ -40043,8 +40047,8 @@
     {
       "ticker": "TUPY3",
       "logos": [
-        "data/logos/TUPY3.png",
-        "data/logos/TUPY3.svg"
+        "data/TUPY3.png",
+        "data/TUPY3.svg"
       ],
       "name": "TUPY ON",
       "currentPrice": 15.72,
@@ -40172,8 +40176,8 @@
     {
       "ticker": "TXRX3",
       "logos": [
-        "data/logos/TXRX3.png",
-        "data/logos/TXRX3.svg"
+        "data/TXRX3.png",
+        "data/TXRX3.svg"
       ],
       "name": "RENAUX ON",
       "currentPrice": 9.0,
@@ -40217,7 +40221,7 @@
     {
       "ticker": "TXRX4",
       "logos": [
-        "data/logos/TXRX4.png"
+        "data/TXRX4.png"
       ],
       "name": "RENAUX PN",
       "currentPrice": 1.65,
@@ -40387,8 +40391,8 @@
     {
       "ticker": "UCAS3",
       "logos": [
-        "data/logos/UCAS3.png",
-        "data/logos/UCAS3.svg"
+        "data/UCAS3.png",
+        "data/UCAS3.svg"
       ],
       "name": "UNICASA ON NM",
       "currentPrice": 1.13,
@@ -40474,8 +40478,8 @@
     {
       "ticker": "UGPA3",
       "logos": [
-        "data/logos/UGPA3.png",
-        "data/logos/UGPA3.svg"
+        "data/UGPA3.png",
+        "data/UGPA3.svg"
       ],
       "name": "ULTRAPAR PARTICIPAÇÕES SA ON",
       "currentPrice": 33.05,
@@ -40561,8 +40565,8 @@
     {
       "ticker": "UNIP3",
       "logos": [
-        "data/logos/UNIP3.png",
-        "data/logos/UNIP3.svg"
+        "data/UNIP3.png",
+        "data/UNIP3.svg"
       ],
       "name": "UNIPAR PARTICIPAÇÕES S.A. ON",
       "currentPrice": 59.12,
@@ -40606,7 +40610,7 @@
     {
       "ticker": "UNIP5",
       "logos": [
-        "data/logos/UNIP5.png"
+        "data/UNIP5.png"
       ],
       "name": "UNIPAR PARTICIPAÇÕES S.A. PNA",
       "currentPrice": 62.66,
@@ -40650,7 +40654,7 @@
     {
       "ticker": "UNIP6",
       "logos": [
-        "data/logos/UNIP6.png"
+        "data/UNIP6.png"
       ],
       "name": "UNIPAR PARTICIPAÇÕES S.A. PNB",
       "currentPrice": 63.19,
@@ -40736,8 +40740,8 @@
     {
       "ticker": "USIM3",
       "logos": [
-        "data/logos/USIM3.png",
-        "data/logos/USIM3.svg"
+        "data/USIM3.png",
+        "data/USIM3.svg"
       ],
       "name": "USIMINAS ON N1",
       "currentPrice": 6.5,
@@ -40781,7 +40785,7 @@
     {
       "ticker": "USIM5",
       "logos": [
-        "data/logos/USIM5.png"
+        "data/USIM5.png"
       ],
       "name": "USIMINAS PNA N1",
       "currentPrice": 7.36,
@@ -40825,7 +40829,7 @@
     {
       "ticker": "USIM6",
       "logos": [
-        "data/logos/USIM6.png"
+        "data/USIM6.png"
       ],
       "name": "USIMINAS PNB N1",
       "currentPrice": 8.65,
@@ -40953,8 +40957,8 @@
     {
       "ticker": "VALE3",
       "logos": [
-        "data/logos/VALE3.png",
-        "data/logos/VALE3.svg"
+        "data/VALE3.png",
+        "data/VALE3.svg"
       ],
       "name": "VALE ON NM",
       "currentPrice": 76.28,
@@ -41040,8 +41044,8 @@
     {
       "ticker": "VAMO3",
       "logos": [
-        "data/logos/VAMO3.png",
-        "data/logos/VAMO3.svg"
+        "data/VAMO3.png",
+        "data/VAMO3.svg"
       ],
       "name": "VAMOS ON NM",
       "currentPrice": 3.34,
@@ -41085,8 +41089,8 @@
     {
       "ticker": "VBBR3",
       "logos": [
-        "data/logos/VBBR3.png",
-        "data/logos/VBBR3.svg"
+        "data/VBBR3.png",
+        "data/VBBR3.svg"
       ],
       "name": "VIBRA ON",
       "currentPrice": 36.05,
@@ -41382,8 +41386,8 @@
     {
       "ticker": "VITT3",
       "logos": [
-        "data/logos/VITT3.png",
-        "data/logos/VITT3.svg"
+        "data/VITT3.png",
+        "data/VITT3.svg"
       ],
       "name": "VITTIA ON NM",
       "currentPrice": 3.03,
@@ -41427,8 +41431,8 @@
     {
       "ticker": "VIVA3",
       "logos": [
-        "data/logos/VIVA3.png",
-        "data/logos/VIVA3.svg"
+        "data/VIVA3.png",
+        "data/VIVA3.svg"
       ],
       "name": "VIVARA S.A. ON NM",
       "currentPrice": 22.18,
@@ -41556,8 +41560,8 @@
     {
       "ticker": "VIVR3",
       "logos": [
-        "data/logos/VIVR3.png",
-        "data/logos/VIVR3.svg"
+        "data/VIVR3.png",
+        "data/VIVR3.svg"
       ],
       "name": "VIVER ON NM",
       "currentPrice": 1.67,
@@ -41601,8 +41605,8 @@
     {
       "ticker": "VIVT3",
       "logos": [
-        "data/logos/VIVT3.png",
-        "data/logos/VIVT3.svg"
+        "data/VIVT3.png",
+        "data/VIVT3.svg"
       ],
       "name": "TELEF BRASIL ON",
       "currentPrice": 32.63,
@@ -41646,7 +41650,7 @@
     {
       "ticker": "VIVT4",
       "logos": [
-        "data/logos/VIVT4.png"
+        "data/VIVT4.png"
       ],
       "name": "TELEF BRASIL PN",
       "currentPrice": 45.34,
@@ -41690,8 +41694,8 @@
     {
       "ticker": "VLID3",
       "logos": [
-        "data/logos/VLID3.png",
-        "data/logos/VLID3.svg"
+        "data/VLID3.png",
+        "data/VLID3.svg"
       ],
       "name": "VALID ON NM",
       "currentPrice": 18.27,
@@ -41945,7 +41949,7 @@
     {
       "ticker": "VSPT3",
       "logos": [
-        "data/logos/VSPT3.png"
+        "data/VSPT3.png"
       ],
       "name": "FERROVIA CENTRO-ATLÂNTICA S.A. ON",
       "currentPrice": 0.0,
@@ -41989,7 +41993,7 @@
     {
       "ticker": "VSPT4",
       "logos": [
-        "data/logos/VSPT4.png"
+        "data/VSPT4.png"
       ],
       "name": "FERROVIA CENTRO-ATLÂNTICA S.A. PN",
       "currentPrice": 0.0,
@@ -42033,8 +42037,8 @@
     {
       "ticker": "VSTE3",
       "logos": [
-        "data/logos/VSTE3.png",
-        "data/logos/VSTE3.svg"
+        "data/VSTE3.png",
+        "data/VSTE3.svg"
       ],
       "name": "VESTE ON",
       "currentPrice": 2.81,
@@ -42120,7 +42124,7 @@
     {
       "ticker": "VTRU3",
       "logos": [
-        "data/logos/VTRU3.svg"
+        "data/VTRU3.svg"
       ],
       "name": "VITRUEDUCA ON NM",
       "currentPrice": 13.0,
@@ -42164,8 +42168,8 @@
     {
       "ticker": "VULC3",
       "logos": [
-        "data/logos/VULC3.png",
-        "data/logos/VULC3.svg"
+        "data/VULC3.png",
+        "data/VULC3.svg"
       ],
       "name": "VULCABRAS S/A. ON",
       "currentPrice": 13.92,
@@ -42419,8 +42423,8 @@
     {
       "ticker": "VVEO3",
       "logos": [
-        "data/logos/VVEO3.png",
-        "data/logos/VVEO3.svg"
+        "data/VVEO3.png",
+        "data/VVEO3.svg"
       ],
       "name": "VIVEO ON NM",
       "currentPrice": 0.69,
@@ -42464,8 +42468,8 @@
     {
       "ticker": "WDCN3",
       "logos": [
-        "data/logos/WDCN3.png",
-        "data/logos/WDCN3.svg"
+        "data/WDCN3.png",
+        "data/WDCN3.svg"
       ],
       "name": "WDC NETWORKS ON NM",
       "currentPrice": 2.3,
@@ -42509,8 +42513,8 @@
     {
       "ticker": "WEGE3",
       "logos": [
-        "data/logos/WEGE3.png",
-        "data/logos/WEGE3.svg"
+        "data/WEGE3.png",
+        "data/WEGE3.svg"
       ],
       "name": "WEG SA ON N1",
       "currentPrice": 47.2,
@@ -42596,8 +42600,8 @@
     {
       "ticker": "WEST3",
       "logos": [
-        "data/logos/WEST3.png",
-        "data/logos/WEST3.svg"
+        "data/WEST3.png",
+        "data/WEST3.svg"
       ],
       "name": "WESTWING ON NM",
       "currentPrice": 3.03,
@@ -42641,8 +42645,8 @@
     {
       "ticker": "WHRL3",
       "logos": [
-        "data/logos/WHRL3.png",
-        "data/logos/WHRL3.svg"
+        "data/WHRL3.png",
+        "data/WHRL3.svg"
       ],
       "name": "WHIRLPOOL S.A. ON",
       "currentPrice": 3.75,
@@ -42686,7 +42690,7 @@
     {
       "ticker": "WHRL4",
       "logos": [
-        "data/logos/WHRL4.png"
+        "data/WHRL4.png"
       ],
       "name": "WHIRLPOOL S.A. PN",
       "currentPrice": 4.0,
@@ -42814,8 +42818,8 @@
     {
       "ticker": "WIZC3",
       "logos": [
-        "data/logos/WIZC3.png",
-        "data/logos/WIZC3.svg"
+        "data/WIZC3.png",
+        "data/WIZC3.svg"
       ],
       "name": "WIZ CO ON",
       "currentPrice": 8.35,
@@ -42859,8 +42863,8 @@
     {
       "ticker": "WLMM3",
       "logos": [
-        "data/logos/WLMM3.png",
-        "data/logos/WLMM3.svg"
+        "data/WLMM3.png",
+        "data/WLMM3.svg"
       ],
       "name": "WLM ON",
       "currentPrice": 20.15,
@@ -42904,7 +42908,7 @@
     {
       "ticker": "WLMM4",
       "logos": [
-        "data/logos/WLMM4.png"
+        "data/WLMM4.png"
       ],
       "name": "WLM PN",
       "currentPrice": 16.59,
@@ -43032,8 +43036,8 @@
     {
       "ticker": "YDUQ3",
       "logos": [
-        "data/logos/YDUQ3.png",
-        "data/logos/YDUQ3.svg"
+        "data/YDUQ3.png",
+        "data/YDUQ3.svg"
       ],
       "name": "YDUQS PART ON",
       "currentPrice": 8.26,
@@ -43077,7 +43081,7 @@
     {
       "ticker": "ZAMP3",
       "logos": [
-        "data/logos/ZAMP3.png"
+        "data/ZAMP3.png"
       ],
       "name": "ZAMP S.A. ON",
       "currentPrice": 3.5,
@@ -43119,7 +43123,7 @@
       "revenueGrowth5y": 15.14
     }
   ],
-  "lastUpdated": "2026-08-03T16:08:43.584630Z",
+  "lastUpdated": "2026-08-03T18:36:56.069091Z",
   "totalAssets": 994,
   "provider": "Fundamentus"
 }
