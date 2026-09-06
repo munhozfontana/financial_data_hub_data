@@ -7170,6 +7170,35 @@
       "rentPerSquareMeter": 0.0
     },
     {
+      "ticker": "IDUA11",
+      "logos": [],
+      "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO DE UNIDADES AUTÔNOMAS IV",
+      "currentPrice": 0.0,
+      "lastQuoteDate": "2026-09-02T00:00:00.000",
+      "segment": "Multicategoria",
+      "managementType": "Ativa",
+      "mandate": "",
+      "marketCap": 11691200.0,
+      "shareCount": 402311,
+      "pvp": 3.69,
+      "dividendYield": 0.0,
+      "ffoYield": 28.55,
+      "vpPerShare": 7.88,
+      "ffoPerShare": 8.3,
+      "dividendPerShare": 3.82,
+      "revenue": 0.0,
+      "assetSales": 0.0,
+      "ffo": 0.0,
+      "distributedIncome": 0.0,
+      "assets": 0.0,
+      "equity": 0.0,
+      "propertyCount": 0,
+      "averageVacancy": 0.0,
+      "capRate": 0.0,
+      "pricePerSquareMeter": 0.0,
+      "rentPerSquareMeter": 0.0
+    },
+    {
       "ticker": "IFID11",
       "logos": [],
       "name": "INTER TEVA ÍNDICE DE PAPEL FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA",
@@ -16765,7 +16794,7 @@
       "rentPerSquareMeter": 0.0
     }
   ],
-  "lastUpdated": "2026-09-05T07:35:14.973375Z",
-  "totalAssets": 560,
+  "lastUpdated": "2026-09-06T07:52:39.285340Z",
+  "totalAssets": 561,
   "provider": "Fundamentus"
 }
