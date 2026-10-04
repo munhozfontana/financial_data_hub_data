@@ -12116,7 +12116,7 @@
     {
       "ticker": "RBLG11",
       "logos": [],
-      "name": "RB CAPITAL LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO  FII RESPONSABILIDADE LIMITADA",
+      "name": "RB LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-08-25T00:00:00.000",
       "segment": "Logística",
@@ -13620,7 +13620,7 @@
       "logos": [
         "data/logos/RZTR11.svg"
       ],
-      "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RIZA TERRAX",
+      "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RIZA TERRAX RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-10-02T00:00:00.000",
       "segment": "Outros",
@@ -17055,7 +17055,7 @@
       "rentPerSquareMeter": 0.0
     }
   ],
-  "lastUpdated": "2026-10-03T09:08:16.105161Z",
+  "lastUpdated": "2026-10-04T09:35:10.495090Z",
   "totalAssets": 570,
   "provider": "Fundamentus"
 }
