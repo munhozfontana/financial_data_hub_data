@@ -603,7 +603,7 @@
       "logos": [
         "data/logos/APXM11.svg"
       ],
-      "name": "APEX MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "name": "VINCI MALLS II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-10-16T00:00:00.000",
       "segment": "Shoppings",
@@ -5911,7 +5911,7 @@
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO HBC RENDA URBANA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-10-14T00:00:00.000",
-      "segment": "Multicategoria",
+      "segment": "Outros",
       "managementType": "Ativa",
       "mandate": "",
       "marketCap": 231776000.0,
@@ -17113,7 +17113,7 @@
       "rentPerSquareMeter": 0.0
     }
   ],
-  "lastUpdated": "2026-10-18T08:03:34.427575Z",
+  "lastUpdated": "2026-10-19T08:45:46.188155Z",
   "totalAssets": 572,
   "provider": "Fundamentus"
 }
