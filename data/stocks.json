@@ -8689,8 +8689,7 @@
     {
       "ticker": "CASN3",
       "logos": [
-        "data/logos/CASN3.png",
-        "data/logos/CASN3.svg"
+        "data/logos/CASN3.png"
       ],
       "name": "CASAN ON",
       "currentPrice": 6.02,
@@ -9075,9 +9074,7 @@
     },
     {
       "ticker": "CCTY3",
-      "logos": [
-        "data/logos/CCTY3.svg"
-      ],
+      "logos": [],
       "name": "RDVC CITY ON NM",
       "currentPrice": 0.0,
       "lastQuoteDate": null,
@@ -14553,8 +14550,7 @@
     {
       "ticker": "DOHL3",
       "logos": [
-        "data/logos/DOHL3.png",
-        "data/logos/DOHL3.svg"
+        "data/logos/DOHL3.png"
       ],
       "name": "DOHLER ON",
       "currentPrice": 6.46,
@@ -15537,9 +15533,7 @@
     },
     {
       "ticker": "ECOM3",
-      "logos": [
-        "data/logos/ECOM3.svg"
-      ],
+      "logos": [],
       "name": "ECONOMATICA ON NM",
       "currentPrice": 0.87,
       "lastQuoteDate": "2026-10-30T00:00:00.000",
@@ -18108,9 +18102,7 @@
     },
     {
       "ticker": "FASA3",
-      "logos": [
-        "data/logos/FASA3.svg"
-      ],
+      "logos": [],
       "name": "FASA ON",
       "currentPrice": 0.29,
       "lastQuoteDate": "2026-10-30T00:00:00.000",
@@ -25015,8 +25007,7 @@
     {
       "ticker": "MAPT3",
       "logos": [
-        "data/logos/MAPT3.png",
-        "data/logos/MAPT3.svg"
+        "data/logos/MAPT3.png"
       ],
       "name": "CIA MARCOPOLO ON",
       "currentPrice": 2.51,
@@ -28988,8 +28979,7 @@
     {
       "ticker": "PATI3",
       "logos": [
-        "data/logos/PATI3.png",
-        "data/logos/PATI3.svg"
+        "data/logos/PATI3.png"
       ],
       "name": "PANATLANTICA ON",
       "currentPrice": 29.0,
@@ -43174,7 +43164,7 @@
       "revenueGrowth5y": 13.55
     }
   ],
-  "lastUpdated": "2026-11-01T10:09:17.755762Z",
+  "lastUpdated": "2026-11-02T10:40:12.628861Z",
   "totalAssets": 995,
   "provider": "Fundamentus"
 }

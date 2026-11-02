@@ -933,9 +933,7 @@
     },
     {
       "ticker": "AVUR11",
-      "logos": [
-        "data/logos/AVUR11.svg"
-      ],
+      "logos": [],
       "name": "ARCH VANGUARDA UNIDADES RESIDENCIAIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-10-30T00:00:00.000",
@@ -2369,9 +2367,7 @@
     },
     {
       "ticker": "BTRU11",
-      "logos": [
-        "data/logos/BTRU11.svg"
-      ],
+      "logos": [],
       "name": "BTG PACTUAL RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-10-30T00:00:00.000",
@@ -6991,9 +6987,7 @@
     },
     {
       "ticker": "HUSC11",
-      "logos": [
-        "data/logos/HUSC11.svg"
-      ],
+      "logos": [],
       "name": "FUNDO DE INVESTIMENTO IMOBILIARIO HOSPITAL UNIMED SUL CAPIXABA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-10-30T00:00:00.000",
@@ -10722,9 +10716,7 @@
     },
     {
       "ticker": "OXRL11",
-      "logos": [
-        "data/logos/OXRL11.svg"
-      ],
+      "logos": [],
       "name": "OXIGÊNIO 2 FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-10-22T00:00:00.000",
@@ -11291,9 +11283,7 @@
     },
     {
       "ticker": "PNDL11",
-      "logos": [
-        "data/logos/PNDL11.svg"
-      ],
+      "logos": [],
       "name": "PANORAMA DESENVOLVIMENTO LOGÍSTICO - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-10-28T00:00:00.000",
@@ -11976,9 +11966,7 @@
     },
     {
       "ticker": "RBFY11",
-      "logos": [
-        "data/logos/RBFY11.svg"
-      ],
+      "logos": [],
       "name": "Rio Bravo For You Fundo de Investimento Imobiliário de Responsabilidade Limitada",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-10-28T00:00:00.000",
@@ -12156,9 +12144,7 @@
     },
     {
       "ticker": "RBLG11",
-      "logos": [
-        "data/logos/RBLG11.svg"
-      ],
+      "logos": [],
       "name": "RB LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-10-22T00:00:00.000",
@@ -16317,9 +16303,7 @@
     },
     {
       "ticker": "VTOT11",
-      "logos": [
-        "data/logos/VTOT11.svg"
-      ],
+      "logos": [],
       "name": "VINCI IMOBILIÁRIO TOTAL RETURN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-10-30T00:00:00.000",
@@ -17187,7 +17171,7 @@
       "rentPerSquareMeter": 0.0
     }
   ],
-  "lastUpdated": "2026-11-01T10:15:14.302912Z",
+  "lastUpdated": "2026-11-02T10:47:28.742355Z",
   "totalAssets": 574,
   "provider": "Fundamentus"
 }
