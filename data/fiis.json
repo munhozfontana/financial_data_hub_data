@@ -4629,7 +4629,7 @@
       "logos": [
         "data/logos/FIIP11.svg"
       ],
-      "name": "RB CAPITAL RENDA I FUNDO DE INVESTIMENTO IMOBILIARIO - FII - RESPONSABILIDADE LIMITADA",
+      "name": "RB ASSET RENDA I FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-11-06T00:00:00.000",
       "segment": "Logística",
@@ -17200,7 +17200,7 @@
       "rentPerSquareMeter": 0.0
     }
   ],
-  "lastUpdated": "2026-11-07T09:48:30.192739Z",
+  "lastUpdated": "2026-11-08T10:06:57.624267Z",
   "totalAssets": 575,
   "provider": "Fundamentus"
 }
