@@ -5911,7 +5911,7 @@
       "name": "FUNDO DE INVESTIMENTO IMOBILIÁRIO HBC RENDA URBANA",
       "currentPrice": 0.0,
       "lastQuoteDate": "2026-10-28T00:00:00.000",
-      "segment": "Outros",
+      "segment": "Multicategoria",
       "managementType": "Ativa",
       "mandate": "",
       "marketCap": 230576000.0,
@@ -17229,7 +17229,7 @@
       "rentPerSquareMeter": 0.0
     }
   ],
-  "lastUpdated": "2026-11-14T10:06:31.131580Z",
+  "lastUpdated": "2026-11-15T10:39:37.709426Z",
   "totalAssets": 576,
   "provider": "Fundamentus"
 }
